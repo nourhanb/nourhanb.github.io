@@ -3,7 +3,7 @@ title: "MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentat
 authors: Siyi Du, Nourhan Bayasi, Ghassan Hamarneh, Rafeef Garbi"
 collection: publications
 permalink: /publication/MDViT
-excerpt: 'MDViT is a novel multi-domain ViT that includes domain adapters to mitigate data-hunger and combat megantive knowledge transfer by adaptively exploiting knowledge in multiple small datasets.'
+excerpt: 'MDViT is a novel multi-domain ViT that includes domain adapters to mitigate data-hunger and combat negative knowledge transfer by adaptively exploiting knowledge in multiple small datasets.'
 venue: 'International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023'
 paperurl: 'https://arxiv.org/abs/2307.02100'
 date: 2022-10-01
