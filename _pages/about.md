@@ -12,4 +12,7 @@ Greetings! I am a third-year PhD student specializing in AI for medical imaging 
 
 Recent News!
 ======
-XXX
+- (June 2023) Our recent work "MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets" has been accepted at MICCAI 2023. 
+- (May 2023) Very happy to announce that our paper "FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning" has been awarded the best paper at ECCV ISICW 2022. 
+- (August 2022) Our recent work "FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning" has been accepted at ECCV ISIC Workshop 2022.
+
