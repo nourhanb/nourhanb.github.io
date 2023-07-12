@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MDViT
 excerpt: 'We propose MDViT, a novel multi-domain ViT that includes domain adapters to mitigate data-hunger and combat negative knowledge transfer by adaptively exploiting knowledge in multiple small datasets.'
 date: 2023-06-06
-venue: 'International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)'
+venue: 'the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)'
 paperurl: 'https://arxiv.org/abs/2307.02100'
 
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Fairdisco
 excerpt: 'We investigated skin-type fairness in skin lesion classification datasets and models. We proposed FairDisCo, a novel deep neural network featuring disentangled representation learning and contrastive learning to promote fairness and boost classification accuracy.'
 date: 2022-11-11
-venue: 'European Conference on Computer Vision (ECCV) ISIC Workshops'
+venue: 'the European Conference on Computer Vision (ECCV) ISIC Workshops'
 paperurl: 'https://arxiv.org/abs/2208.10013'
 
 ---
