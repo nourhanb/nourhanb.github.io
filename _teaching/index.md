@@ -2,9 +2,9 @@
 title: Teaching
 permalink: /teaching/
 type: "Undergraduate course"
-venue: /
-date: /
-location: /
+venue: ""
+date: 2023-06-06
+location: ""
 ---
 
 **Grade Level**
