@@ -2,5 +2,5 @@
 permalink: /awards/
 title: "Honors & Awards"
 ---
-- **2023**: <span style="color:red;">Best paper award</span>, ISIC workshop at MICCAI - Canada
-- **2022**: <span style="color:red;">Vanier Scholarship</span>, Canada’s most prestigious PhD scholarship, NSERC - Canada
+- <span style="color:red;">2023</span>, **Best paper award**, ISIC workshop at MICCAI conference - Canada
+- <span style="color:red;">2022</span>: **Vanier Scholarship**, Canada’s most prestigious scholarship, NSERC - Canada
