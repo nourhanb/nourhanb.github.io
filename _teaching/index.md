@@ -1,5 +1,8 @@
 ---
-permalink: /
+title: Research
+permalink: /research/
 ---
 
-- calculus 1
+# Research
+
+This is the content of the Research tab.
