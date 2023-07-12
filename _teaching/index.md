@@ -1,8 +1,8 @@
 ---
-title: Research
-permalink: /research/
+title: Teaching
+permalink: /teaching/
 ---
 
-# Research
+# Teaching
 
 This is the content of the Research tab.
