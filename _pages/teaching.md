@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching/ Teaching Assistant"
 ---
 **Graduate Courses**
 - **EECE 570: Fundamentals of Visual Computing**
