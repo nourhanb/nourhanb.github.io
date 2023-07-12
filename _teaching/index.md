@@ -1,6 +1,11 @@
 ---
 title: Teaching
 permalink: /teaching/
+type: "Undergraduate course"
+venue: /
+date: /
+location: /
 ---
 
-This is the content of the Research tab.
+**Grade Level**
+- EECE 570: Fundamentals of Visual Computing
