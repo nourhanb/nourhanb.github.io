@@ -25,3 +25,5 @@ title: "Teaching"
 **High School/ Vocational**
 - **Robotics**
 - **Electrical Installation** 
+- **Coding and Computational Thinking**
+- **Fundamentals of Programming** 
