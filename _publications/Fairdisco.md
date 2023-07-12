@@ -2,7 +2,7 @@
 title: "FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning"
 collection: publications
 permalink: /publication/Fairdisco
-excerpt: 'We investigated skin-type fairness in skin lesion classification datasets and models. We proposed FairDisCo, a novel deep neural network featuring disentangled representation learning and contrastive learning to promote fairness and boost classification accuracy.'
+excerpt: 'We investigate skin-type fairness in skin lesion classification datasets and models. We propose FairDisCo, a novel deep neural network featuring disentangled representation learning and contrastive learning to promote fairness and boost classification accuracy.'
 date: 2022-11-11
 venue: 'the European Conference on Computer Vision (ECCV) ISIC Workshops'
 paperurl: 'https://arxiv.org/abs/2208.10013'
