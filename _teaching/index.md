@@ -1,7 +1,7 @@
 ---
 title: Teaching
 permalink: /teaching/
-type: "Graduate course"
+type: "Graduate courses"
 venue: "UBC"
 date: 2023-06-06
 location: ""
