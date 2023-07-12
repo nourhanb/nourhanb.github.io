@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/teaching
+permalink: /
 ---
 
 - calculus 1
