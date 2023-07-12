@@ -2,8 +2,8 @@
 title: Teaching
 permalink: /teaching/
 type: "Graduate course"
-venue: ""
+venue: "UBC"
 date: 2023-06-06
-location: "UBC"
+location: ""
 ---
 - EECE 570: Fundamentals of Visual Computing
