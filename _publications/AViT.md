@@ -2,7 +2,7 @@
 title: "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets"
 collection: publications
 permalink: /publication/AViT
-excerpt: 'We propose AViT,  a novel efficient strategy to mitigate ViTs’ data-hunger problem by transferring any pretrained ViTs to the skin lesion segmentation task. To accomplish this, we propose using task-specific adapters and CNN prompt generator.'
+excerpt: 'We propose AViT,  a novel efficient strategy to mitigate ViTs’ data-hunger problem by transferring any pretrained ViTs to the skin lesion segmentation task. To accomplish this, we propose using task-specific adapters and a CNN prompt generator.'
 date: 2023-07-07
 venue: 'the 8th ISIC Workshop at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)'
 paperurl: 'https://www2.cs.sfu.ca/~hamarneh/ecopy/miccai_isic2023b.pdf'
