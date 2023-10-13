@@ -12,6 +12,7 @@ Greetings! I am a third-year PhD student specializing in AI for medical imaging 
 
 Recent News!
 ======
+- (<span style="color: red;">October 12th 2023</span>) I had the privilege of serving as a panelist at the ISICW @MICCAI2023, where I engaged in a stimulating panel discussion. Additionally, I had the opportunity to present our latest project, "Continual-GEN," through an oral presentation. 
 - (<span style="color: red;">July 2023</span>) Our recent work "Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification" has been accepted at the 8th ISIC Workshop at MICCAI 2023.
 - (<span style="color: red;">July 2023</span>) Our recent work "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets" has been accepted at the 8th ISIC Workshop at MICCAI 2023.
 - (<span style="color: red;">June 2023</span>) Our recent work "MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets" has been accepted at MICCAI 2023.
