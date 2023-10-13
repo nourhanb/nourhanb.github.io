@@ -3,8 +3,8 @@ permalink: /awards/
 title: "Honors & Awards"
 ---
 - (<span style="color:red;">2023</span>) **Best paper award**, ISIC workshop at MICCAI conference 
-- (<span style="color:red;">2022</span>) **Vanier Scholarship**, Canada’s most prestigious scholarship, NSERC Canada
-- (<span style="color:red;">2022</span>) **Four Year Fellowship (4YF)** for PhD Studies, UBC, Canada
+- (<span style="color:red;">2022-25</span>) **Vanier Scholarship**, Canada’s most prestigious scholarship, NSERC Canada
+- (<span style="color:red;">2022-26</span>) **Four Year Fellowship (4YF)** for PhD Studies, UBC, Canada
 - (<span style="color:red;">2020-22</span>) **International Student Award**, UBC, Canada
 - (<span style="color:red;">2021</span>) **Dr. and Mrs. Brandwajn Graduate Award** in Electrical and Computer Engineering, UBC, Canada
 - (<span style="color:red;">2021</span>) **Faculty of Applied Science Graduate Award**, UBC, Canada
