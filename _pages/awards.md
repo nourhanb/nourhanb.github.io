@@ -2,7 +2,7 @@
 permalink: /awards/
 title: "Honors & Awards"
 ---
-- (<span style="color:red;">2023</span>) **Best paper award**, 8th ISIC workshop @MICCAI2022 
+- (<span style="color:red;">2023</span>) **Best paper award**, 8th ISIC workshop @MICCAI2023 
 - (<span style="color:red;">2022</span>) **Best paper award**, 7th ISIC workshop @MICCAI2022 
 - (<span style="color:red;">2022-25</span>) **Vanier Scholarship**, Canada’s most prestigious scholarship, NSERC Canada
 - (<span style="color:red;">2022-26</span>) **Four Year Fellowship (4YF)** for PhD Studies, UBC, Canada
