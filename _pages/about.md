@@ -12,11 +12,12 @@ Greetings! I am a third-year PhD student specializing in AI for medical imaging 
 
 Recent News!
 ======
+- (<span style="color: red;">October 2023</span>) Very happy to announce that our paper "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets" has been awarded **the best paper** at the 8th ISIC Workshop @MICCAI2023.
 - (<span style="color: red;">October 12th 2023</span>) I had the privilege of serving as a panelist at the ISICW @MICCAI2023, where I engaged in a stimulating panel discussion. Additionally, I had the opportunity to present our latest project, "Continual-GEN," through an oral presentation. 
 - (<span style="color: red;">July 2023</span>) Our recent work "Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification" has been accepted at the 8th ISIC Workshop at MICCAI 2023.
 - (<span style="color: red;">July 2023</span>) Our recent work "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets" has been accepted at the 8th ISIC Workshop at MICCAI 2023.
 - (<span style="color: red;">June 2023</span>) Our recent work "MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets" has been accepted at MICCAI 2023.
-- (<span style="color: red;">May 2023</span>) Very happy to announce that our paper "FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning" has been awarded **the best paper** at ECCV ISICW 2022.
+- (<span style="color: red;">May 2023</span>) Very happy to announce that our paper "FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning" has been awarded **the best paper** at the 7th ISIC Workshop @ECCV2022. 
 - (<span style="color: red;">August 2022</span>) Our recent work "FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning" has been accepted at ECCV ISIC Workshop 2022.
 - (<span style="color: red;">April 2022</span>) Honored to be awarded the prestigious **Vanier PhD Scholarship** from NSERC Canada. 
 - (<span style="color: red;">March 2022</span>) Our recent work "BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features" has been accepted at CVPR 2022.
