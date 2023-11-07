@@ -1,7 +1,7 @@
 ---
 title: "Transfer Without Forgetting"
 permalink: /blogs/twf
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: ""
 date: 2023-11-07
 collection: portfolio
 ---
