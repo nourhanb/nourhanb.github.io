@@ -1,7 +1,7 @@
 ---
 title: "Transfer Without Forgetting"
 collection: blogsbynour
-permalink: /blogsbynour/twf
+#permalink: /blogsbynour/twf
 #excerpt: 'We propose Continual-GEN, a novel forget-free and replay-free subnetwork-based CL method for medical imaging 
 #with a focus on skin lesion classification. Continual-GEN works in a domain-agnostic setting, where information about domain identity during training or at inference is unavailable.'
 date: 2023-11-07
