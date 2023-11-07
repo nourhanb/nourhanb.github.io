@@ -2,8 +2,6 @@
 title: "Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification"
 collection: publications
 permalink: /publication/Continual-GEN
-excerpt: 'We propose Continual-GEN, a novel forget-free and replay-free subnetwork-based CL method for medical imaging 
-with a focus on skin lesion classification. Continual-GEN works in a domain-agnostic setting, where information about domain identity during training or at inference is unavailable.'
 date: 2023-08-08
 venue: 'the 8th ISIC Workshop at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)'
 paperurl: 'https://www2.cs.sfu.ca/~hamarneh/ecopy/miccai_isic2023a.pdf'
