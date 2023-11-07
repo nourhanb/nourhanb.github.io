@@ -2,9 +2,9 @@
 title: "Transfer Without Forgetting"
 collection: blogsbynour
 permalink: /blogs/twf
-excerpt: ''
+excerpt: 'xxx'
 date: 2023-11-07
-#venue: 'the 8th ISIC Workshop at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)'
+venue: 'xxx'
 paperurl: 'https://arxiv.org/pdf/2206.00388.pdf'
 
 ---
