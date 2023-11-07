@@ -6,7 +6,7 @@ collection: blogsbynour
 #with a focus on skin lesion classification. Continual-GEN works in a domain-agnostic setting, where information about domain identity during training or at inference is unavailable.'
 date: 2023-11-07
 #venue: 'the 8th ISIC Workshop at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)'
-#paperurl: 'https://www2.cs.sfu.ca/~hamarneh/ecopy/miccai_isic2023a.pdf'
+paperurl: https://arxiv.org/pdf/2206.00388.pdf
 
 ---
 **Paper Abstract**
