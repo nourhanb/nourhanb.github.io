@@ -11,7 +11,9 @@ main:
  
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "Blogs"
+    url: /blogsbynour/
+
   - title: "CV"
     url: /files/myCV_2022.pdf
-
