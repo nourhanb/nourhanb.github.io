@@ -1,7 +1,7 @@
 ---
 title: "Transfer Without Forgetting"
 collection: blogsbynour
-permalink: /blogsbynour_p/twf
+permalink: /blogs/twf
 excerpt: ''
 date: 2023-11-07
 #venue: 'the 8th ISIC Workshop at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)'
