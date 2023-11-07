@@ -2,9 +2,9 @@
 title: "Transfer Without Forgetting"
 collection: blogsbynour
 permalink: /blogs/twf
-excerpt: 'xxx'
+excerpt: 'This is my attempt to summarize this paper'
 date: 2023-11-07
-venue: 'xxx'
+venue: 'ECCV 2022'
 paperurl: 'https://arxiv.org/pdf/2206.00388.pdf'
 
 ---
