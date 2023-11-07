@@ -2,6 +2,7 @@
 title: "Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification"
 collection: publications
 permalink: /publication/Continual-GEN
+excerpt: ''
 date: 2023-08-08
 venue: 'the 8th ISIC Workshop at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)'
 paperurl: 'https://www2.cs.sfu.ca/~hamarneh/ecopy/miccai_isic2023a.pdf'
