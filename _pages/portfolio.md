@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "Blogs"
 permalink: /blogs/
-#author_profile: true
+title: "Blogs"
 ---
 
 **Transfer Without Forgetting (Paper Summary)**
