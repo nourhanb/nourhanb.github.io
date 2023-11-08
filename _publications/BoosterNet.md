@@ -2,7 +2,7 @@
 title: "BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features"
 collection: publications
 permalink: /publication/BoosterNet
-excerpt: '-'
+excerpt: ''
 date: 2022-03-03
 venue: 'IEEE/CVF CVPR'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Bayasi_BoosterNet_Improving_Domain_Generalization_of_Deep_Neural_Nets_Using_Culpability-Ranked_CVPR_2022_paper.pdf'

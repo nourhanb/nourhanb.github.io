@@ -2,7 +2,7 @@
 title: "MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets"
 collection: publications
 permalink: /publication/MDViT
-excerpt: 'We propose MDViT, a novel multi-domain ViT that includes domain adapters to mitigate data-hunger and combat negative knowledge transfer by adaptively exploiting knowledge in multiple small datasets.'
+excerpt: ''
 date: 2023-06-06
 venue: 'MICCAI Main Conference 2023'
 paperurl: 'https://arxiv.org/abs/2307.02100'

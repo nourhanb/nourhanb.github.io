@@ -2,7 +2,7 @@
 title: "Low‑power ECG‑based Processor for Predicting Ventricular Arrhythmia"
 collection: publications
 permalink: /publication/Processor
-excerpt: '-'
+excerpt: ''
 date: 2015-03-03
 venue: 'IEEE Transactions on Very Large Scale Integration (VLSI) Systems'
 paperurl: 'https://ieeexplore.ieee.org/document/7293200'

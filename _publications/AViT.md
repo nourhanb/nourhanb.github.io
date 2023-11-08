@@ -2,9 +2,9 @@
 title: "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets"
 collection: publications
 permalink: /publication/AViT
-excerpt: '-'
+excerpt: ''
 date: 2023-07-07
-venue: 'Eighth ISIC Skin Image Analysis Workshop @MICCAI'
+venue: '8th ISIC Skin Image Analysis Workshop @MICCAI'
 paperurl: 'https://www2.cs.sfu.ca/~hamarneh/ecopy/miccai_isic2023b.pdf'
 
 ---

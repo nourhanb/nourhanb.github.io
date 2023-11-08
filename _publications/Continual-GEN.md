@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Continual-GEN
 excerpt: ''
 date: 2023-08-08
-venue: 'Eighth ISIC Skin Image Analysis Workshop @MICCAI'
+venue: '8th ISIC Skin Image Analysis Workshop @MICCAI'
 paperurl: 'https://www2.cs.sfu.ca/~hamarneh/ecopy/miccai_isic2023a.pdf'
 
 ---

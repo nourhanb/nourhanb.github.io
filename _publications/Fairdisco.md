@@ -2,9 +2,9 @@
 title: "FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning"
 collection: publications
 permalink: /publication/Fairdisco
-excerpt: '-'
+excerpt: ''
 date: 2022-11-11
-venue: 'Seventh ISIC Skin Image Analysis Workshop @ECCV'
+venue: '7th ISIC Skin Image Analysis Workshop @ECCV'
 paperurl: 'https://arxiv.org/abs/2208.10013'
 
 ---

@@ -2,7 +2,7 @@
 title: "Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification"
 collection: publications
 permalink: /publication/Culprit
-excerpt: '-'
+excerpt: ''
 date: 2021-03-03
 venue: 'MICCAI Main Conference 2021'
 paperurl: 'https://miccai2021.org/openaccess/paperlinks/2021/09/01/123-Paper1095.html'

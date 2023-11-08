@@ -2,7 +2,7 @@
 title: "A Novel Algorithm for the Prediction and Detection of Ventricular Arrhythmia"
 collection: publications
 permalink: /publication/Novel
-excerpt: '-'
+excerpt: ''
 date: 2019-03-03
 venue: 'the Journal of Analog Integrated Circuits and Signal Processing'
 paperurl: 'https://link.springer.com/article/10.1007/s10470-019-01432-y'
