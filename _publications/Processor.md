@@ -2,9 +2,9 @@
 title: "Low‑power ECG‑based Processor for Predicting Ventricular Arrhythmia"
 collection: publications
 permalink: /publication/Processor
-excerpt: 'We present the first ASIC design of a fully integrated electrocardiogram (ECG) signal processor (ESP) for the prediction of ventricular arrhythmia using a unique set of ECG features and a naive Bayes classifier. '
+excerpt: '-'
 date: 2015-03-03
-venue: 'the IEEE Transactions on Very Large Scale Integration (VLSI) Systems'
+venue: 'IEEE Transactions on Very Large Scale Integration (VLSI) Systems'
 paperurl: 'https://ieeexplore.ieee.org/document/7293200'
 
 ---

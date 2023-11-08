@@ -2,9 +2,9 @@
 title: "Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification"
 collection: publications
 permalink: /publication/Culprit
-excerpt: 'We propose Culprit-Prune-Net, a simple and effective subnetwork-based continual learning approach for sequential multi-domain learning (MDL). Our approach is based on gradual pruning of units using culpability scores, enabling the network to adapt and learn efficiently a variety of domains. '
+excerpt: '-'
 date: 2021-03-03
-venue: 'the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)'
+venue: 'MICCAI Main Conference 2021'
 paperurl: 'https://miccai2021.org/openaccess/paperlinks/2021/09/01/123-Paper1095.html'
 
 ---

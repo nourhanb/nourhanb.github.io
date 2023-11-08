@@ -2,9 +2,9 @@
 title: "BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features"
 collection: publications
 permalink: /publication/BoosterNet
-excerpt: 'We propose BoosterNet, a lean add-on network that can be simply appended to any arbitrary core network to improve its generalization capability without requiring any changes in its architecture or training procedure.'
+excerpt: '-'
 date: 2022-03-03
-venue: 'the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
+venue: 'IEEE/CVF CVPR'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Bayasi_BoosterNet_Improving_Domain_Generalization_of_Deep_Neural_Nets_Using_Culpability-Ranked_CVPR_2022_paper.pdf'
 
 ---
