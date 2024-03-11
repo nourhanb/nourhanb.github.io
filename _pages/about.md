@@ -12,6 +12,7 @@ Greetings! I am a fourth-year PhD student specializing in AI for medical imaging
 
 Recent News!
 ======
+- (<span style="color: red;">March 2024</span>) Excited to serve as a reviewer at MICCAI 2024!
 - (<span style="color: red;">December 2023</span>) Excited to share that I've been selected as a mentee in [SBME's Career Accelerator](https://bme.ubc.ca/sbme-career-accelerator/), partnering with STEMCELL Technologies and Advice to a Scientist. Looking forward to gaining valuable insights and guidance as I navigate my career journey!
 - (<span style="color: red;">October 2023</span>) Very happy to announce that our paper "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets" has been awarded **the best paper** at the 8th ISIC Workshop @MICCAI2023.
 - (<span style="color: red;">October 2023</span>) I had the privilege of serving as a panelist at the [ISIC Workshop @MICCAI2023](https://workshop2023.isic-archive.com/), where I engaged in a stimulating panel discussion. Additionally, I had the opportunity to present our latest project, "Continual-GEN," through an oral presentation. 
