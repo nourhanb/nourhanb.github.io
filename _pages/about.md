@@ -12,6 +12,7 @@ Greetings! I am a fourth-year PhD student specializing in AI for medical imaging
 
 Recent News!
 ======
+- (<span style="color: red;">April 2024</span>) Our recent work "Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images" has been accepted at the CLVISION-Workshop at CVPR 2024.
 - (<span style="color: red;">March 2024</span>) Excited to serve as a reviewer @MICCAI 2024!
 - (<span style="color: red;">December 2023</span>) Excited to share that I've been selected as a mentee in [SBME's Career Accelerator](https://bme.ubc.ca/sbme-career-accelerator/), partnering with STEMCELL Technologies and Advice to a Scientist. Looking forward to gaining valuable insights and guidance as I navigate my career journey!
 - (<span style="color: red;">October 2023</span>) Very happy to announce that our paper "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets" has been awarded **the best paper** at the 8th ISIC Workshop @MICCAI2023.
