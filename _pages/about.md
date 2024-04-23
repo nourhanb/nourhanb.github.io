@@ -12,7 +12,7 @@ Greetings! I am a fourth-year PhD student specializing in AI for medical imaging
 
 Recent News!
 ======
-- (<span style="color: red;">May 2024</span>) Excited to start my internship @CogniaAI as a Machine Learning Engineer Intern.
+- (<span style="color: red;">May 2024</span>) Excited to start my internship @CogniaAI as a Machine Learning Engineer.
 - (<span style="color: red;">April 2024</span>) Our recent work "Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images" has been accepted at the CLVISION-Workshop @CVPR 2024.
 - (<span style="color: red;">March 2024</span>) Excited to serve as a reviewer @MICCAI 2024!
 - (<span style="color: red;">December 2023</span>) Excited to share that I've been selected as a mentee in [SBME's Career Accelerator](https://bme.ubc.ca/sbme-career-accelerator/), partnering with STEMCELL Technologies and Advice to a Scientist. Looking forward to gaining valuable insights and guidance as I navigate my career journey!
