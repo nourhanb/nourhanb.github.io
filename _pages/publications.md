@@ -8,6 +8,6 @@ title: "Publications"
     <div>
         <h3><a href="https://workshop2023.isic-archive.com/paper_bayasi.pdf">Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification</a></h3>
         <p><strong>Nourhan Bayasi</strong>, Siyi Du, Ghassan Hamarneh, Rafeef Garbi.</p>
-        <p>@MICCAI 8th ISIC Skin Image Analysis Workshop, 2023.</p>
+        <p>ISIC Skin Image Analysis Workshop @MICCAI, 2023.</p>
     </div>
 </div>
