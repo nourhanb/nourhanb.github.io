@@ -12,7 +12,7 @@ title: "Publications"
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="http://nourhanb.github.io/images/AViT_block.jpg" style="width: 250px; height: auto; margin-right: 20px;">
+    <img src="http://nourhanb.github.io/images/main_avit.png" style="width: 250px; height: auto; margin-right: 20px;">
     <div>
         <h3><a href="https://workshop2023.isic-archive.com/paper_du.pdf">AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</a> (ISIC Skin Image Analysis Workshop @MICCAI, 2023)</h3>
         <p>Siyi Du, <strong>Nourhan Bayasi</strong>,  Ghassan Hamarneh, Rafeef Garbi</p>
