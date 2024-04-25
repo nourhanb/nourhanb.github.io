@@ -18,3 +18,11 @@ title: "Publications"
         <p>Siyi Du, <strong>Nourhan Bayasi</strong>,  Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
+
+<div style="display: flex; align-items: center;">
+    <img src="http://nourhanb.github.io/images/main_mdvit.jpg" style="width: 250px; height: auto; margin-right: 20px;">
+    <div>
+        <h3><a href="https://arxiv.org/abs/2307.02100">MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets</a> (@MICCAI, 2023)</h3>
+        <p>Siyi Du, <strong>Nourhan Bayasi</strong>,  Ghassan Hamarneh, Rafeef Garbi</p>
+    </div>
+</div>
