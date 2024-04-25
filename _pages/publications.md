@@ -61,3 +61,10 @@ title: "Publications"
     </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+    <img src="http://nourhanb.github.io/images/journal2.png" style="width: 250px; height: auto; margin-right: 20px;">
+    <div>
+        <h3><a href="https://ieeexplore.ieee.org/document/7293200">Low‑power ECG‑based Processor for Predicting Ventricular Arrhythmia</a> (@IEEE VLSI Transaction, 2015)</h3>
+        <p><strong>Nourhan Bayasi</strong>, Temesghen Tekeste, Hani Saleh; Baker Mohammad; Ahsan Khandoker; Mohammed Ismail</p>
+    </div>
+</div>
