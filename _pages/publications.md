@@ -33,4 +33,4 @@ title: "Publications"
         <h3><a href="https://arxiv.org/abs/2208.10013">FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</a> (ISIC Skin Image Analysis Workshop@ECCV, 2022)</h3>
         <p>Siyi Du, Ben Hers, <strong>Nourhan Bayasi</strong>,  Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
-</div>![Uploading image.png…]()
+</div>
