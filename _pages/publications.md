@@ -52,3 +52,12 @@ title: "Publications"
     </div>
 </div>
 
+
+<div style="display: flex; align-items: center;">
+    <img src="http://nourhanb.github.io/images/journal1.png" style="width: 250px; height: auto; margin-right: 20px;">
+    <div>
+        <h3><a href="https://link.springer.com/article/10.1007/s10470-019-01432-y">A Novel Algorithm for the Prediction and Detection of Ventricular Arrhythmia</a> (@Journal of Analog Integrated Circuits and Signal Processing, 2019)</h3>
+        <p><strong>Nourhan Bayasi</strong>, Temesghen Tekeste, Hani Saleh, Ahsan H. Khandoker, Baker Mohammad, Mohammed Ismail</p>
+    </div>
+</div>
+
