@@ -44,6 +44,7 @@ title: "Publications"
     </div>
 </div>
 
+
 <div style="display: flex; align-items: center;">
     <img src="http://nourhanb.github.io/images/mergeprune.PNG" style="width: 250px; height: auto; margin-right: 20px;">
     <div>
@@ -51,6 +52,7 @@ title: "Publications"
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
+
 
 
 <div style="display: flex; align-items: center;">
