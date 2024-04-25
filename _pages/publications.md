@@ -43,3 +43,12 @@ title: "Publications"
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
+
+<div style="display: flex; align-items: center;">
+    <img src="http://nourhanb.github.io/images/mergeprune.PNG" style="width: 250px; height: auto; margin-right: 20px;">
+    <div>
+        <h3><a href="https://miccai2021.org/openaccess/paperlinks/2021/09/01/123-Paper1095.html">Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification</a> (@MICCAI, 2021)</h3>
+        <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
+    </div>
+</div>
+
