@@ -34,3 +34,12 @@ title: "Publications"
         <p>Siyi Du, Ben Hers, <strong>Nourhan Bayasi</strong>,  Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
+
+
+<div style="display: flex; align-items: center;">
+    <img src="http://nourhanb.github.io/images/boosternet_overview.jpg" style="width: 250px; height: auto; margin-right: 20px;">
+    <div>
+        <h3><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Bayasi_BoosterNet_Improving_Domain_Generalization_of_Deep_Neural_Nets_Using_Culpability-Ranked_CVPR_2022_paper.pdf">BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features</a> (@CVPR, 2022)</h3>
+        <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
+    </div>
+</div>
