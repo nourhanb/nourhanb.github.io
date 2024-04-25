@@ -26,3 +26,11 @@ title: "Publications"
         <p>Siyi Du, <strong>Nourhan Bayasi</strong>,  Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
+
+<div style="display: flex; align-items: center;">
+    <img src="http://nourhanb.github.io/images/Fairdisco_block.jpg" style="width: 250px; height: auto; margin-right: 20px;">
+    <div>
+        <h3><a href="https://arxiv.org/abs/2208.10013">FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</a> (ISIC Skin Image Analysis Workshop@ECCV, 2022)</h3>
+        <p>Siyi Du, Ben Hers, <strong>Nourhan Bayasi</strong>,  Ghassan Hamarneh, Rafeef Garbi</p>
+    </div>
+</div>![Uploading image.png…]()
