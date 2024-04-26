@@ -5,7 +5,7 @@ title: "Publications"
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="http://nourhanb.github.io/images/fig_2.jpg" target="_blank">
-        <img src="http://nourhanb.github.io/images/fig_2.jpg" style="width: 250px; height: auto; margin-right: 80px;">
+        <img src="http://nourhanb.github.io/images/fig_2.jpg" style="width: 300px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 20px;"> <!-- Added padding-left to create white space -->
         <h3><a href="">Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</a> (CLVISION @CVPR, 2024)</h3>
