@@ -4,12 +4,11 @@ title: "Teaching/ Teaching Assistant"
 ---
 **Graduate Courses**
 - **EECE 570: Fundamentals of Visual Computing (@University of British Columbia, Canada)**
-
-  *(Computational and mathematical methods for data driven processing and model-based analysis of digital images and other visual data: perception, capture; representation, modelling; enhancement, restoration; registration, fusion; feature extraction, segmentation; recognition; practical applications.)*
+  *(
+Computational and mathematical methods for data driven processing and model-based analysis of digital images and other visual data: perception, capture; representation, modelling; enhancement, restoration; registration, fusion; feature extraction, segmentation; recognition; practical applications.)*
 
 **Undergraduate Courses**
 - **ELEC 291: Electrical Engineering Design Studio I (@University of British Columbia, Canada)**
-
   *(Design projects involving electronic devices and circuits, electromagnetics, signals and systems, and microcomputers.)*
 - **ELEC 201: Circuit Analysis I (@University of British Columbia, Canada)**
   *(The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.)*
