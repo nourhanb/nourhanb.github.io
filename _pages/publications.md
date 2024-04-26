@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="http://nourhanb.github.io/images/fig2.jpg" style="width: 250px; height: auto; margin-right: 20px;">
+    <img src="http://nourhanb.github.io/images/fig_2.jpg" style="width: 250px; height: auto; margin-right: 20px;">
     <div>
         <h3><a href="">Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</a> (CLVISION @CVPR, 2024)</h3>
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
