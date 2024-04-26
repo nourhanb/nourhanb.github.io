@@ -77,7 +77,7 @@ title: "Publications"
 
 
 <div style="display: flex; align-items: center;">
-    <img src="http://nourhanb.github.io/images/journal1.png" style="width: 250px; height: auto; margin-right: 20px;">
+    <img src="http://nourhanb.github.io/images/journal1.png" style="width: 220px; height: auto; margin-right: 20px;">
     <div>
         <h3><a href="https://link.springer.com/article/10.1007/s10470-019-01432-y">A Novel Algorithm for the Prediction and Detection of Ventricular Arrhythmia</a> (@Journal of Analog Integrated Circuits and Signal Processing, 2019)</h3>
         <p><strong>Nourhan Bayasi</strong>, Temesghen Tekeste, Hani Saleh, Ahsan H. Khandoker, Baker Mohammad, Mohammed Ismail</p>
@@ -86,7 +86,7 @@ title: "Publications"
 
 
 <div style="display: flex; align-items: center;">
-    <img src="http://nourhanb.github.io/images/journal2.png" style="width: 250px; height: auto; margin-right: 20px;">
+    <img src="http://nourhanb.github.io/images/journal2.png" style="width: 220px; height: auto; margin-right: 20px;">
     <div>
         <h3><a href="https://ieeexplore.ieee.org/document/7293200">Low‑power ECG‑based Processor for Predicting Ventricular Arrhythmia</a> (@IEEE VLSI Transaction, 2015)</h3>
         <p><strong>Nourhan Bayasi</strong>, Temesghen Tekeste, Hani Saleh; Baker Mohammad; Ahsan Khandoker; Mohammed Ismail</p>
