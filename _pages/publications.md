@@ -36,7 +36,7 @@ title: "Publications"
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="http://nourhanb.github.io/images/main_mdvit.jpg" target="_blank">
-        <img src="http://nourhanb.github.io/images/main_mdvit.jpg" style="width: 300px; height: auto; margin-right: 80px;">
+        <img src="http://nourhanb.github.io/images/main_mdvit.jpg" style="width: 390px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 20px;"> <!-- Added padding-left to create white space -->
         <h3><a href="https://arxiv.org/abs/2307.02100">MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets</a> (@MICCAI, 2023)</h3>
