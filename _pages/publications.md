@@ -15,7 +15,7 @@ title: "Publications"
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="http://nourhanb.github.io/images/main_continual_gen.jpg" target="_blank">
-        <img src="http://nourhanb.github.io/images/main_continual_gen.jpg" style="width: 350px; height: auto; margin-right: 80px;">
+        <img src="http://nourhanb.github.io/images/main_continual_gen.jpg" style="width: 400px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 20px;">
         <h3><a href="https://workshop2023.isic-archive.com/paper_bayasi.pdf">Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification</a> (ISIC Skin Image Analysis Workshop @MICCAI, 2023)</h3>
@@ -25,7 +25,7 @@ title: "Publications"
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="http://nourhanb.github.io/images/main_avit.jpg" target="_blank">
-        <img src="http://nourhanb.github.io/images/main_avit.jpg" style="width: 350px; height: auto; margin-right: 80px;">
+        <img src="http://nourhanb.github.io/images/main_avit.jpg" style="width: 400px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 20px;">
         <h3><a href="https://workshop2023.isic-archive.com/paper_du.pdf">AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</a> (ISIC Skin Image Analysis Workshop @MICCAI, 2023)</h3>
