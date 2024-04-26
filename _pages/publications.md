@@ -7,7 +7,7 @@ title: "Publications"
     <a href="http://nourhanb.github.io/images/fig_2.jpg" target="_blank">
         <img src="http://nourhanb.github.io/images/fig_2.jpg" style="width: 300px; height: auto; margin-right: 80px;">
     </a>
-    <div style="padding-left: 20px;"> <!-- Added padding-left to create white space -->
+    <div style="padding-left: 20px;">
         <h3><a href="">Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</a> (CLVISION @CVPR, 2024)</h3>
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
@@ -17,7 +17,7 @@ title: "Publications"
     <a href="http://nourhanb.github.io/images/main_continual_gen.jpg" target="_blank">
         <img src="http://nourhanb.github.io/images/main_continual_gen.jpg" style="width: 300px; height: auto; margin-right: 80px;">
     </a>
-    <div style="padding-left: 20px;"> <!-- Added padding-left to create white space -->
+    <div style="padding-left: 20px;">
         <h3><a href="https://workshop2023.isic-archive.com/paper_bayasi.pdf">Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification</a> (ISIC Skin Image Analysis Workshop @MICCAI, 2023)</h3>
         <p><strong>Nourhan Bayasi</strong>, Siyi Du, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
@@ -27,11 +27,12 @@ title: "Publications"
     <a href="http://nourhanb.github.io/images/main_avit.jpg" target="_blank">
         <img src="http://nourhanb.github.io/images/main_avit.jpg" style="width: 300px; height: auto; margin-right: 80px;">
     </a>
-    <div style="padding-left: 20px;"> <!-- Added padding-left to create white space -->
+    <div style="padding-left: 20px;">
         <h3><a href="https://workshop2023.isic-archive.com/paper_du.pdf">AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</a> (ISIC Skin Image Analysis Workshop @MICCAI, 2023)</h3>
         <p>Siyi Du, <strong>Nourhan Bayasi</strong>,  Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
+
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="http://nourhanb.github.io/images/main_mdvit.jpg" target="_blank">
