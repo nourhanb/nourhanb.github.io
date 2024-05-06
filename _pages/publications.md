@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
     <a href="http://nourhanb.github.io/images/bayas2.PNG" target="_blank">
         <img src="http://nourhanb.github.io/images/bayas2.PNG" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
