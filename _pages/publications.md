@@ -13,7 +13,7 @@ title: "Publications"
     </div>
 </div>
 
-</div>
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="http://nourhanb.github.io/images/fig_2.jpg" target="_blank">
         <img src="http://nourhanb.github.io/images/fig_2.jpg" style="width: 300px; height: auto; margin-right: 80px;">
