@@ -5,7 +5,7 @@ title: "Publications"
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="http://nourhanb.github.io/images/bayas2.PNG" target="_blank">
-        <img src="http://nourhanb.github.io/images/bayas2.PNG" style="width: 250px; height: auto; margin-right: 80px;">
+        <img src="http://nourhanb.github.io/images/bayas2.PNG" style="width: 210px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 20px;">
         <h3><a href="">GC2: Generalizable Continual Classification of Medical Images</a> (IEEE TMI, 2024)</h3>
