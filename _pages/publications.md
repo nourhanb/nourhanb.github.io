@@ -5,9 +5,9 @@ title: "Publications"
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <a href="http://nourhanb.github.io/images/bayas2.PNG" target="_blank">
-        <img src="http://nourhanb.github.io/images/bayas2.PNG" style="width: 218px; height: auto; margin-right: 80px;">
+        <img src="http://nourhanb.github.io/images/bayas2.PNG" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
-    <div style="padding-left: 20px;">
+    <div style="padding-left: 17px;">
         <h3><a href="">GC2: Generalizable Continual Classification of Medical Images</a> (IEEE TMI, 2024)</h3>
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
