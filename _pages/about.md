@@ -12,6 +12,7 @@ Greetings! I am a fourth-year PhD student specializing in AI for medical imaging
 
 Recent News!
 ======
+- (<span style="color: red;">May 2024</span>) Our recent work "GC2: Generalizable Continual Classification of Medical Images" has been accepted at the IEEE Transactions on Medical Imaging 2024 (IF~11).  
 - (<span style="color: red;">May 2024</span>) Excited to work @CogniaAI as a Machine Learning Engineer Intern.
 - (<span style="color: red;">April 2024</span>) Our recent work "Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images" has been accepted at the CLVISION-Workshop @CVPR 2024.
 - (<span style="color: red;">March 2024</span>) Excited to serve as a reviewer @MICCAI 2024!
