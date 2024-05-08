@@ -8,7 +8,7 @@ title: "Publications"
         <img src="http://nourhanb.github.io/images/bayas2.PNG" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 8px;">
-        <h3><a href="">GC2: Generalizable Continual Classification of Medical Images</a> (IEEE TMI, 2024)</h3>
+        <h3><a href="https://www.cs.sfu.ca/~hamarneh/ecopy/tmi2024.pdf">GC2: Generalizable Continual Classification of Medical Images</a> (IEEE TMI, 2024)</h3>
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
@@ -19,7 +19,7 @@ title: "Publications"
         <img src="http://nourhanb.github.io/images/fig_2.jpg" style="width: 300px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 20px;">
-        <h3><a href="">Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</a> (CLVISION @CVPR, 2024)</h3>
+        <h3><a href="https://drive.google.com/file/d/1_gBUPTuH5k8L9H8ZIHJaVF8gCCkcojXv/view">Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</a> (CLVISION @CVPR, 2024)</h3>
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
