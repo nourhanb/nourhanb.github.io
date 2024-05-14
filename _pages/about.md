@@ -28,5 +28,5 @@ Recent News!
 - (<span style="color: red;">April 2022</span>) Honored to be awarded the prestigious **Vanier PhD Scholarship** from NSERC Canada. 
 - (<span style="color: red;">March 2022</span>) Our recent work "BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features" has been accepted at CVPR 2022.
 - (<span style="color: red;">June 2021</span>) I have been awarded the 2021 MICCAI Student Travel Award!
-- (<span style="color: red;">May 2021</span>) Our recent work "Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification" has been accepted at MICCAI 2021 (**early accept**).
+- (<span style="color: red;">May 2021</span>) Our recent work "Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification" has been accepted at MICCAI 2021 (**EARLY ACCEPT**!).  
 
