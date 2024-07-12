@@ -4,6 +4,17 @@ title: "Publications"
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+    <a href="http://nourhanb.github.io/images/biaspruner.png" target="_blank">
+        <img src="http://nourhanb.github.io/images/biaspruner.png" style="width: 216px; height: auto; margin-right: 80px;">
+    </a>
+    <div style="padding-left: 8px;">
+        <h3><a href="https://arxiv.org/pdf/2407.08609#page=8.78">BiasPruner: Debiased Continual Learning for Medical Image Classification</a> (MICCAI, 2024)</h3>
+        <p><strong>Nourhan Bayasi</strong>, Jamil Fayyad, Alceu Bissoto, Ghassan Hamarneh, Rafeef Garbi</p>
+    </div>
+</div>
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
     <a href="http://nourhanb.github.io/images/bayas2.PNG" target="_blank">
         <img src="http://nourhanb.github.io/images/bayas2.PNG" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
