@@ -15,5 +15,8 @@ main:
   - title: "Blogs"
     url: /blogs/
 
+  - title: "Service"
+    url: /services/
+
   - title: "CV"
     url: /files/myCV_Nour.pdf
