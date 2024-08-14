@@ -12,12 +12,10 @@ Greetings! I am a fourth-year PhD student specializing in AI for medical imaging
 
 Recent News!
 ======
-- (<span style="color: red;">June 2024</span>) Excited to serve as a reviewer at the ISIC Skin Image Analysis Workshop @MICCAI 2024. 
 - (<span style="color: red;">May 2024</span>) Our recent work "BiasPruner: Debiased Continual Learning for Medical Image Classification" has been accepted @MICCAI 2024 (**EARLY ACCEPT**!).  
 - (<span style="color: red;">May 2024</span>) Our recent work "GC2: Generalizable Continual Classification of Medical Images" has been accepted @IEEE Transactions on Medical Imaging 2024 (IF~11).  
 - (<span style="color: red;">May 2024</span>) Excited to work @CogniaAI as a Machine Learning Engineer Intern.
 - (<span style="color: red;">April 2024</span>) Our recent work "Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images" has been accepted at the CLVISION-Workshop @CVPR 2024.
-- (<span style="color: red;">March 2024</span>) Excited to serve as a reviewer @MICCAI 2024!
 - (<span style="color: red;">December 2023</span>) Excited to share that I've been selected as a mentee in [SBME's Career Accelerator](https://bme.ubc.ca/sbme-career-accelerator/), partnering with STEMCELL Technologies and Advice to a Scientist. Looking forward to gaining valuable insights and guidance as I navigate my career journey!
 - (<span style="color: red;">October 2023</span>) Very happy to announce that our paper "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets" has been awarded **the best paper** at the 8th ISIC Workshop @MICCAI2023.
 - (<span style="color: red;">October 2023</span>) I had the privilege of serving as a panelist at the [ISIC Workshop @MICCAI2023](https://workshop2023.isic-archive.com/), where I engaged in a stimulating panel discussion. Additionally, I had the opportunity to present our latest project, "Continual-GEN," through an oral presentation. 
