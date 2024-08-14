@@ -7,6 +7,8 @@ title: "Teaching/ Teaching Assistant"
   *(Computational and mathematical methods for data driven processing and model-based analysis of digital images and other visual data: perception, capture; representation, modelling; enhancement, restoration; registration, fusion; feature extraction, segmentation; recognition; practical applications.)*
 
 **Undergraduate Courses**
+- **ELEC 301: Electronic Circuits I (@University of British Columbia, Canada)**
+  *(Analysis and design of electronic circuits; biasing of and small-signal models for transistors; frequency response of amplifiers; feedback and stability aspects of amplifier design; OP-AMPs; active filters; oscillators; IC specification and selection.)*
 - **ELEC 291: Electrical Engineering Design Studio I (@University of British Columbia, Canada)**
   *(Design projects involving electronic devices and circuits, electromagnetics, signals and systems, and microcomputers.)*
 - **ELEC 201: Circuit Analysis I (@University of British Columbia, Canada)**
