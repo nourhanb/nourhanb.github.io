@@ -1,1 +1,5 @@
-
+- Reviewer & Emergency Reviewer, IEEE WACV 2025
+- Reviewer, IEEE CVPR 2024
+- Program Committee & Reviewer, 9th ISIC Skin Image Analysis Workshop @ MICCAI 2024
+- Reviewer, MICCAI 2024
+- Program Committee & Reviewer, 8th ISIC Skin Image Analysis Workshop @ MICCAI 2023
