@@ -1,3 +1,7 @@
+---
+permalink: /services/
+---
+
 **Academic Services**
 - Reviewer & Emergency Reviewer, IEEE/CVF WACV 2025
 - Reviewer, IEEE/CVF CVPR 2024
