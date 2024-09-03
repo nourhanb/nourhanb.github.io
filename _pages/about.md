@@ -12,6 +12,7 @@ Greetings! I am a fourth-year PhD student specializing in AI for medical imaging
 
 Recent News!
 ======
+- (<span style="color: red;">September 2024</span>) I’ll be presenting my recent work, "BiasPruner," at MICCAI 2024. Join me for the oral presentation (Oral 11: Tuesday, October 8, 4:30–5:30 pm) and the poster session (Poster 5: Wednesday, October 9, 10:30–11:30 am).
 - (<span style="color: red;">May 2024</span>) Our recent work "BiasPruner: Debiased Continual Learning for Medical Image Classification" has been accepted @MICCAI 2024 (**EARLY ACCEPT**!).  
 - (<span style="color: red;">May 2024</span>) Our recent work "GC2: Generalizable Continual Classification of Medical Images" has been accepted @IEEE Transactions on Medical Imaging 2024 (IF~11).  
 - (<span style="color: red;">May 2024</span>) Excited to work @CogniaAI as a Machine Learning Engineer Intern.
