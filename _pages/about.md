@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a fourth-year PhD student specializing in AI for medical imaging at the Biomedical Signal and Image Computing Laboratory [(BiSICL)](https://bisicl.ece.ubc.ca/) at the University of British Columbia. My research is generously funded by the Natural Science and Engineering Research Council (NSERC) through the prestigious PhD Vanier fellowship. I am fortunate to be under the guidance of Professor [Rafeef Garbi](https://scholar.google.com/citations?hl=en&user=Mwscz1IAAAAJ&view_op=list_works&sortby=pubdate), and I collaborate closely with Professor [Ghassan Hamarneh](https://scholar.google.com/citations?hl=en&user=61DdlkAAAAAJ&view_op=list_works&sortby=pubdate) from the Medical Image Analysis Laboratory [(MIA)](https://www.medicalimageanalysis.com/) at Simon Fraser University. My primary focus revolves around enhancing the lifelong learning capabilities and domain generalization of deep networks for medical applications. I have a Master of Science degree in Electrical and Computer Engineering from Khalifa University (2015, UAE). I also hold a [Level 3 certificate in Assessing Vocationally Related Achievement from NCFE](https://www.ncfe.org.uk/qualification-search/qualification-detail/ncfe-level-3-certificate-in-assessing-vocational-achievement-515) (2018, UK).
+Hello! I'm a fourth-year PhD student at the University of British Columbia, specializing in AI for medical imaging within the Biomedical Signal and Image Computing Laboratory [(BiSICL)](https://bisicl.ece.ubc.ca/). My research is supported by the prestigious NSERC PhD Vanier fellowship, focusing on advancing lifelong learning and domain generalization in deep networks for medical applications. I am privileged to be mentored by Professor [Rafeef Garbi](https://scholar.google.com/citations?hl=en&user=Mwscz1IAAAAJ&view_op=list_works&sortby=pubdate) and collaborate with Professor [Ghassan Hamarneh](https://scholar.google.com/citations?hl=en&user=61DdlkAAAAAJ&view_op=list_works&sortby=pubdate) from the Medical Image Analysis Laboratory [(MIA)](https://www.medicalimageanalysis.com/) at Simon Fraser University.
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
@@ -23,6 +23,7 @@ Greetings! I am a fourth-year PhD student specializing in AI for medical imaging
     <strong>Education:</strong>
     <ul>
       <li>PhD in Elect. & Comp. Eng., University of British Columbia</li>
+      <li>Level 3 certificate in Assessing Vocationally Related Achievement, NCFE UK</li>
       <li>Master of Science in Elect. & Comp. Eng., Khalifa University</li>
       <li>Bachelor of Science in Communication Eng., Khalifa University</li>
     </ul>
