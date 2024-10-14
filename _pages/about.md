@@ -15,7 +15,8 @@ I have extensive experience in teaching, curriculum development and lab manageme
 
 Recent News!
 ======
-- (<span style="color: red;">September 2024</span>) Join us in the **oral** presentation of "BiasPruner" @MICCAI 2024 on Tuesday, October 8, from 4:30–5:30 pm, followed by the poster session on Wednesday, October 9, from 10:30–11:30 am.
+- (<span style="color: red;">October 2024</span>) Our recent work "BiasPruner" has been awarded the WiM Best Health Equity Paper, Honourable Mention for WiM Best Oral Presentation Award, and shortlisted for the MICCAI Best Paper Award and MICCAI Young Scientist! 
+- (<span style="color: red;">September 2024</span>) Our recent work "BiasPruner" has been selected for an oral presentation @MICCAI 2024 in Morroco. 
 - (<span style="color: red;">May 2024</span>) Our recent work "BiasPruner: Debiased Continual Learning for Medical Image Classification" has been accepted @MICCAI 2024 (**EARLY ACCEPT**!).  
 - (<span style="color: red;">May 2024</span>) Our recent work "GC2: Generalizable Continual Classification of Medical Images" has been accepted @IEEE Transactions on Medical Imaging 2024 (IF~11).  
 - (<span style="color: red;">May 2024</span>) Excited to work @CogniaAI as a Machine Learning Engineer Intern.
