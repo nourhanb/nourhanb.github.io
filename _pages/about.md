@@ -15,23 +15,17 @@ I have extensive experience in teaching, curriculum development and lab manageme
 
 Recent News!
 ======
-- (<span style="color: red;">October 2024</span>) I am honored to join the 11th Workshop on Medical Computer Vision @CVPR 2025 as an organizer and program committee member. I look forward to contributing to the workshop and advancing the field of medical computer vision alongside an incredible team of researchers and experts. 
-- (<span style="color: red;">October 2024</span>) Our recent work "BiasPruner" has been awarded the Winner of WiM Best Health Equity Paper, Runner-Up of WiM Best Oral Presentation Award, and shortlisted for the MICCAI Best Paper Award and MICCAI Young Scientist! 
-- (<span style="color: red;">September 2024</span>) Our recent work "BiasPruner" has been selected for an oral presentation @MICCAI 2024 in Morroco. 
-- (<span style="color: red;">May 2024</span>) Our recent work "BiasPruner: Debiased Continual Learning for Medical Image Classification" has been accepted @MICCAI 2024 (**EARLY ACCEPT**!).  
-- (<span style="color: red;">May 2024</span>) Our recent work "GC2: Generalizable Continual Classification of Medical Images" has been accepted @IEEE Transactions on Medical Imaging 2024 (IF~11).  
-- (<span style="color: red;">May 2024</span>) Excited to work @CogniaAI as a Machine Learning Engineer Intern.
-- (<span style="color: red;">April 2024</span>) Our recent work "Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images" has been accepted at the CLVISION-Workshop @CVPR 2024.
-- (<span style="color: red;">December 2023</span>) Excited to share that I've been selected as a mentee in [SBME's Career Accelerator](https://bme.ubc.ca/sbme-career-accelerator/), partnering with STEMCELL Technologies and Advice to a Scientist. Looking forward to gaining valuable insights and guidance as I navigate my career journey!
-- (<span style="color: red;">October 2023</span>) Very happy to announce that our paper "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets" has been awarded **the best paper** at the 8th ISIC Workshop @MICCAI2023.
-- (<span style="color: red;">October 2023</span>) I had the privilege of serving as a panelist at the [ISIC Workshop @MICCAI2023](https://workshop2023.isic-archive.com/), where I engaged in a stimulating panel discussion. Additionally, I had the opportunity to present our latest project, "Continual-GEN," through an oral presentation. 
-- (<span style="color: red;">July 2023</span>) Our recent work "Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification" has been accepted at the 8th ISIC Workshop at MICCAI 2023.
-- (<span style="color: red;">July 2023</span>) Our recent work "AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets" has been accepted at the 8th ISIC Workshop at MICCAI 2023.
-- (<span style="color: red;">June 2023</span>) Our recent work "MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets" has been accepted at MICCAI 2023.
-- (<span style="color: red;">May 2023</span>) Very happy to announce that our paper "FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning" has been awarded **the best paper** at the 7th ISIC Workshop @ECCV2022. 
-- (<span style="color: red;">August 2022</span>) Our recent work "FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning" has been accepted at ECCV ISIC Workshop 2022.
-- (<span style="color: red;">April 2022</span>) Honored to be awarded the prestigious **Vanier PhD Scholarship** from NSERC Canada. 
-- (<span style="color: red;">March 2022</span>) Our recent work "BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features" has been accepted at CVPR 2022.
-- (<span style="color: red;">June 2021</span>) I have been awarded the 2021 MICCAI Student Travel Award!
-- (<span style="color: red;">May 2021</span>) Our recent work "Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification" has been accepted at MICCAI 2021 (**EARLY ACCEPT**!).  
+<hr>
 
+- ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">October 2024</span>**  
+  **Joined the 11th Workshop on Medical Computer Vision @ CVPR 2025**  
+  I am honored to join the workshop as an organizer and program committee member. Looking forward to contributing to advancing medical computer vision alongside leading experts.  
+
+- ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">October 2024</span>**  
+  **BiasPruner Recognized!**  
+  Our work *BiasPruner* was awarded **Winner of the WiM Best Health Equity Paper** and **Runner-Up of the WiM Best Oral Presentation Award** and shortlisted for both the **MICCAI Best Paper Award** and **MICCAI Young Scientist Award**.  
+
+- ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">September 2024</span>**  
+  *BiasPruner* was selected for an **oral presentation @ MICCAI 2024 in Morocco**.  
+
+<hr>
