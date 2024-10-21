@@ -15,7 +15,8 @@ I have extensive experience in teaching, curriculum development and lab manageme
 
 Recent News!
 ======
-- (<span style="color: red;">October 2024</span>) Our recent work "BiasPruner" has been awarded the WiM Best Health Equity Paper, Honourable Mention for WiM Best Oral Presentation Award, and shortlisted for the MICCAI Best Paper Award and MICCAI Young Scientist! 
+- (<span style="color: red;">October 2024</span>) I am honored to join the 11th Workshop on Medical Computer Vision @CVPR 2025 as an organizer and program committee member. I look forward to contributing to the workshop and advancing the field of medical computer vision alongside an incredible team of researchers and experts. 
+- (<span style="color: red;">October 2024</span>) Our recent work "BiasPruner" has been awarded the Winner of WiM Best Health Equity Paper, Runner-Up of WiM Best Oral Presentation Award, and shortlisted for the MICCAI Best Paper Award and MICCAI Young Scientist! 
 - (<span style="color: red;">September 2024</span>) Our recent work "BiasPruner" has been selected for an oral presentation @MICCAI 2024 in Morroco. 
 - (<span style="color: red;">May 2024</span>) Our recent work "BiasPruner: Debiased Continual Learning for Medical Image Classification" has been accepted @MICCAI 2024 (**EARLY ACCEPT**!).  
 - (<span style="color: red;">May 2024</span>) Our recent work "GC2: Generalizable Continual Classification of Medical Images" has been accepted @IEEE Transactions on Medical Imaging 2024 (IF~11).  
