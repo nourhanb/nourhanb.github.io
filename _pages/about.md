@@ -35,7 +35,7 @@ Recent News!
   *BiasPruner: Debiased Continual Learning for Medical Image Classification* has been **accepted @ MICCAI 2024** (**EARLY ACCEPT**!).
 
 - ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">May 2024</span>**  
-  Our recent work *GC2: Generalizable Continual Classification of Medical Images* has been **accepted @ IEEE Transactions on Medical Imaging 2024** (IF~11).
+  Our recent work *GC2: Generalizable Continual Classification of Medical Images* has been **accepted @ IEEE Transactions on Medical Imaging (TMI) 2024** (IF~11).
 
 - ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">May 2024</span>**  
   **Excited to join CogniaAI** as a Machine Learning Engineer Intern.
