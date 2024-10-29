@@ -18,6 +18,8 @@ Recent News!
 <hr>
 
 <hr>
+- ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">October 2024</span>**  
+  Our recent work *Debiasify: Self-Distillation for Unsupervised Bias Mitigation* has been **accepted @ WACV 2025**.
 
 - ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">October 2024</span>**  
   **Joined the 11th Workshop on Medical Computer Vision @ CVPR 2025**  
