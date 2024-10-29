@@ -5,7 +5,7 @@ title: "Publications"
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
     <a href="http://nourhanb.github.io/images/biaspruner.png" target="_blank">
-        <img src="http://nourhanb.github.io/images/biaspruner.png" style="width: 216px; height: auto; margin-right: 80px;">
+        <img src="http://nourhanb.github.io/images/biaspruner.png" style="width: 316px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 8px;">
         <h3><a href="https://arxiv.org/pdf/2407.08609#page=8.78">BiasPruner: Debiased Continual Learning for Medical Image Classification</a> (Oral Presentation (Top 4%), Early Accept (Top 11%) @MICCAI, 2024)</h3>
