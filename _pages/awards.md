@@ -2,6 +2,9 @@
 permalink: /awards/
 title: "Honors & Awards"
 ---
+- (<span style="color:red;">2024</span>) **Runner-Up, Women in MICCAI (WiM) Best Oral Presentation Award**, @MICCAI2024
+- (<span style="color:red;">2024</span>) **Winner, Women in MICCAI (WiM) Best Health Equity Paper Award**, @MICCAI2024
+- (<span style="color:red;">2024</span>) **Shortlisted for MICCAI Best Paper Award and MICCAI Young Scientist**, @MICCAI2024
 - (<span style="color:red;">2024</span>) **Society Registration Grant**, @MICCAI2024
 - (<span style="color:red;">2023</span>) **Best Paper Award**, 8th ISIC workshop @MICCAI2023 
 - (<span style="color:red;">2022</span>) **Best Paper Award**, 7th ISIC workshop @MICCAI2022 
