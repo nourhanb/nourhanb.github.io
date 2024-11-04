@@ -11,7 +11,7 @@ Welcome to my **Teaching Page**, where I share the exciting journey of learning 
 #### **EECE 570: Fundamentals of Visual Computing**
 *📍University of British Columbia, Canada*
 
-*Ever wondered how computers "see"?* This course unravels the computational and mathematical magic behind image processing and analysis! We explore everything from **image perception and capture** to **feature extraction and practical recognition systems**. Perfect for those excited about visual data and real-world applications! 
+*Ever wondered how deep networks "see"?* This course unravels the computational and mathematical magic behind image processing and analysis! We explore everything from **image perception and capture** to **feature extraction and practical recognition systems**. Perfect for those excited about visual data and real-world applications! 
 
 ---
 
