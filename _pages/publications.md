@@ -3,6 +3,17 @@ permalink: /publications/
 title: "Publications"
 ---
 
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+    <a href="http://nourhanb.github.io/images/biaspruner.png" target="_blank">
+        <img src="http://nourhanb.github.io/images/gradcam_total_cp_v3.png" style="width: 216px; height: auto; margin-right: 80px;">
+    </a>
+    <div style="padding-left: 8px;">
+        <h3><a href="https://arxiv.org/pdf/2411.00711">Debiasify: Self-Distillation for Unsupervised Bias Mitigation</a> (@IEEE/CVF WACV, 2025)</h3>
+        <p><strong>Nourhan Bayasi</strong>, Jamil Fayyad, Ghassan Hamarneh, Rafeef Garbi, Homayoun Najjaran</p>
+    </div>
+</div>
+
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
     <a href="http://nourhanb.github.io/images/biaspruner.png" target="_blank">
         <img src="http://nourhanb.github.io/images/biaspruner.png" style="width: 416px; height: auto; margin-right: 80px;">
@@ -30,7 +41,7 @@ title: "Publications"
         <img src="http://nourhanb.github.io/images/fig_2.jpg" style="width: 300px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 20px;">
-        <h3><a href="https://drive.google.com/file/d/1_gBUPTuH5k8L9H8ZIHJaVF8gCCkcojXv/view">Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</a> (CLVISION @CVPR, 2024)</h3>
+        <h3><a href="https://drive.google.com/file/d/1_gBUPTuH5k8L9H8ZIHJaVF8gCCkcojXv/view">Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</a> (CLVISION @@IEEE/CVF CVPR, 2024)</h3>
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
@@ -81,7 +92,7 @@ title: "Publications"
         <img src="http://nourhanb.github.io/images/boosternet_overview.jpg" style="width: 340px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 20px;"> <!-- Added padding-left to create white space -->
-        <h3><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Bayasi_BoosterNet_Improving_Domain_Generalization_of_Deep_Neural_Nets_Using_Culpability-Ranked_CVPR_2022_paper.pdf">BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features</a> (@CVPR, 2022)</h3>
+        <h3><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Bayasi_BoosterNet_Improving_Domain_Generalization_of_Deep_Neural_Nets_Using_Culpability-Ranked_CVPR_2022_paper.pdf">BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features</a> (@@IEEE/CVF CVPR, 2022)</h3>
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
