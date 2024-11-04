@@ -1,9 +1,7 @@
 ---
 permalink: /teaching/
-title: "Teaching/ Teaching Assistant"
+title: "Teaching & Course Highlights 🚀"
 ---
-
-### Teaching & Course Highlights 🚀
 
 Welcome to my **Teaching Page**, where I share the exciting journey of learning and exploring the wonders of engineering and technology! From understanding the foundations of electronic circuits to diving deep into visual computing, here's what I've taught and enjoyed over the years:
 
