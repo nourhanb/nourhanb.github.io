@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research Interests"
 ---
-I am primarily interested in the application of deep learning techniques to classification tasks in medical image analysis, with a particular emphasis on analyzing skin lesion images. My research interests revolve around advancing the field by improving the lifelong learning and generalization capabilities of deep neural networks.
+I am primarily interested in the application of deep learning techniques to classification tasks in medical image analysis, with a particular emphasis on analyzing skin lesion images. My research interests revolve around advancing the field by improving the lifelong learning, generalization capabilities and fairness of deep neural networks.
 
 
 **Improving Lifelong Learning of Deep Networks**
