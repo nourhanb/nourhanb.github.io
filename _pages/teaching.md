@@ -4,60 +4,46 @@ title: "Teaching & Course Highlights 🚀"
 ---
 
 <style>
-  .teaching-container {
+  .teaching-section {
     display: flex;
     justify-content: space-around;
-    margin: 30px 0;
+    margin: 20px 0;
   }
-
-  .teaching-block {
-    text-align: center;
-    width: 200px;
-    height: 200px;
+  .teaching-box {
+    width: 250px;
+    height: 150px;
     color: white;
     font-size: 1.2em;
     font-weight: bold;
-    text-decoration: none;
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: transform 0.3s ease;
+    border-radius: 15px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
   }
-
-  .teaching-block:hover {
-    transform: scale(1.05);
+  .teaching-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
   }
-
-  .graduate {
-    background-color: #1e90ff;
-    border-radius: 50%;
-  }
-
-  .undergraduate {
-    background-color: #ffa500;
-    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  }
-
-  .vocational {
-    background-color: #32cd32;
-    border-radius: 20px;
-  }
-
-  section {
-    margin-top: 50px;
-  }
+  .graduate { background-color: #1e90ff; }
+  .undergraduate { background-color: #ffa500; }
+  .vocational { background-color: #32cd32; }
+  section { margin-top: 40px; }
 </style>
 
-<div class="teaching-container">
-  <a href="#graduate-courses" class="teaching-block graduate">Graduate Courses</a>
-  <a href="#undergraduate-courses" class="teaching-block undergraduate">Undergraduate Courses</a>
-  <a href="#vocational-adventures" class="teaching-block vocational">Vocational Adventures</a>
+<div class="teaching-section">
+  <a href="#graduate-courses" class="teaching-box graduate">🎓 Graduate Courses</a>
+  <a href="#undergraduate-courses" class="teaching-box undergraduate">👨‍🎓 Undergraduate Courses</a>
+  <a href="#vocational-adventures" class="teaching-box vocational">🤖 Vocational Adventures</a>
 </div>
 
 ---
 
-### 🎓 Graduate Courses
 <section id="graduate-courses">
+### 🎓 Graduate Courses
 #### **EECE 570: Fundamentals of Visual Computing**
 *📍University of British Columbia, Canada*
 
@@ -66,8 +52,8 @@ title: "Teaching & Course Highlights 🚀"
 
 ---
 
-### 👨‍🎓 Undergraduate Courses
 <section id="undergraduate-courses">
+### 👨‍🎓 Undergraduate Courses
 #### **ELEC 301: Electronic Circuits I**
 *📍University of British Columbia, Canada*
 
@@ -81,8 +67,8 @@ title: "Teaching & Course Highlights 🚀"
 
 ---
 
-### 🤖 High School & Vocational Adventures
 <section id="vocational-adventures">
+### 🤖 High School & Vocational Adventures
 *From sparking curiosity in young minds to empowering the future of technology, these courses are where it all begins:*
 - **Robotics**: *Design, build, and program your own robots!*
 - **Electrical Installation**: *Learn how to safely power the world around you.*
