@@ -17,6 +17,9 @@ Recent News!
 ======
 <hr>
 
+- ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">November 2024</span>**  
+  **Proud to be Named a 2023-2024 Borealis AI Fellowship Recipient** for Pioneering Research Advancing the Frontiers of Machine Learning and Artificial Intelligence. Thank you, RBC Borealis! [Read more](https://rbcborealis.com/news/celebrating-the-future-of-ai-meet-our-new-fellows/)
+
 - ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">October 2024</span>**  
   Our recent work *Debiasify: Self-Distillation for Unsupervised Bias Mitigation* has been **accepted @ WACV 2025**.
 
