@@ -17,7 +17,7 @@ Recent News!
 ======
 <hr>
 
-![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">December 2024</span>**  
+- ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">December 2024</span>**  
 **Scholarship Spotlight!** Thrilled to be featured on Global Scholarships, a platform dedicated to empowering international students and sharing their inspiring scholarship success stories. [Read more](https://globalscholarships.com/scholarship-posts/nourhan-bayasi/)
 
 - ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">November 2024</span>**  
