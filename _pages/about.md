@@ -145,6 +145,4 @@ Recent News!
       <span style="color: red; font-weight: bold;">May 2021</span><br>  
       <em>Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification</em> has been <strong>accepted @ MICCAI 2021</strong> (<strong>EARLY ACCEPT</strong>!).
     </li>
-  </ul>
-</div>
 <hr>
