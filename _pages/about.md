@@ -73,7 +73,7 @@ Recent News!
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">May 2024:</span> 
       Our recent work <em>GC2: Generalizable Continual Classification of Medical Images</em> has been 
-      <strong>accepted @ IEEE Transactions on Medical Imaging (TMI) 2024</strong> (IF~11).
+      <strong>accepted @ IEEE Transactions on Medical Imaging (TMI) 2024</strong> (IF~10).
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
