@@ -44,7 +44,7 @@ Recent News!
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">October 2024:</span> 
-      Our recent work <em>Debiasify: Self-Distillation for Unsupervised Bias Mitigation</em> has been <strong>accepted @ WACV 2025</strong>.
+      <em>Debiasify: Self-Distillation for Unsupervised Bias Mitigation</em> has been <strong>accepted @ WACV 2025</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
