@@ -31,7 +31,7 @@ Recent News!
   <ul style="list-style: none; padding: 0; margin: 0;">
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">December 2024:</span> 
+      <span style="color: red; font-weight: bold;">December 2024:</span><br> 
       <strong>Scholarship Spotlight!</strong> Thrilled to be featured on Global Scholarships, a platform dedicated to empowering international students and sharing their inspiring scholarship success stories. 
       <a href="https://globalscholarships.com/scholarship-posts/nourhan-bayasi/" style="color: blue;">Read more</a>
     </li>
