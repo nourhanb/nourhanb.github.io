@@ -31,118 +31,118 @@ Recent News!
   <ul style="list-style: none; padding: 0; margin: 0;">
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">December 2024:</span><br> 
+      <span style="color: red; font-weight: bold;">December 2024</span><br> 
       <strong>Scholarship Spotlight!</strong> Thrilled to be featured on Global Scholarships, a platform dedicated to empowering international students and sharing their inspiring scholarship success stories. 
       <a href="https://globalscholarships.com/scholarship-posts/nourhan-bayasi/" style="color: blue;">Read more</a>
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">November 2024:</span> 
+      <span style="color: red; font-weight: bold;">November 2024</span><br> 
       <strong>Proud to be Named a 2023-2024 Borealis AI Fellowship Recipient</strong> for Pioneering Research Advancing the Frontiers of Machine Learning and Artificial Intelligence. Thank you, RBC Borealis! 
       <a href="https://rbcborealis.com/news/celebrating-the-future-of-ai-meet-our-new-fellows/" style="color: blue;">Read more</a>
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">October 2024:</span> 
+      <span style="color: red; font-weight: bold;">October 2024</span><br> 
       <em>Debiasify: Self-Distillation for Unsupervised Bias Mitigation</em> has been <strong>accepted @ WACV 2025</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">October 2024:</span> 
-      <strong>Joined the 11th Workshop on Medical Computer Vision @ CVPR 2025</strong>. I am honored to join the workshop as an organizer and program committee member.
+      <span style="color: red; font-weight: bold;">October 2024</span><br> 
+      I am honored to join <strong>the 11th Workshop on Medical Computer Vision @ CVPR 2025</strong> as an organizer and program committee member.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">October 2024:</span> 
+      <span style="color: red; font-weight: bold;">October 2024</span><br>  
       <strong>BiasPruner Recognized!</strong> Our work <em>BiasPruner</em> was awarded 
       <strong>Winner of the WiM Best Health Equity Paper</strong>, <strong>Runner-Up of the WiM Best Oral Presentation Award</strong>, and shortlisted for the 
       <strong>MICCAI Best Paper Award</strong> and <strong>MICCAI Young Scientist Award</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">September 2024:</span> 
+      <span style="color: red; font-weight: bold;">September 2024</span><br>  
       <strong>BiasPruner</strong> was selected for an <strong>oral presentation @ MICCAI 2024 in Morocco</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">May 2024:</span> 
+      <span style="color: red; font-weight: bold;">May 2024</span><br>  
       <em>BiasPruner: Debiased Continual Learning for Medical Image Classification</em> has been <strong>accepted @ MICCAI 2024</strong> 
       (<strong>EARLY ACCEPT</strong>!).
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">May 2024:</span> 
-      Our recent work <em>GC2: Generalizable Continual Classification of Medical Images</em> has been 
+      <span style="color: red; font-weight: bold;">May 2024</span><br>  
+      <em>GC2: Generalizable Continual Classification of Medical Images</em> has been 
       <strong>accepted @ IEEE Transactions on Medical Imaging (TMI) 2024</strong> (IF~10).
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">May 2024:</span> 
+      <span style="color: red; font-weight: bold;">May 2024</span><br>  
       <strong>Excited to join CogniaAI</strong> as a Machine Learning Engineer Intern.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">April 2024:</span> 
+      <span style="color: red; font-weight: bold;">April 2024</span><br>  
       <em>Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</em> has been <strong>accepted @ CLVISION-Workshop @ CVPR 2024</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">December 2023:</span> 
+      <span style="color: red; font-weight: bold;">December 2023</span><br>  
       <strong>Selected as a mentee</strong> in <a href="https://bme.ubc.ca/sbme-career-accelerator/">SBME's Career Accelerator</a>, in partnership with STEMCELL Technologies and Advice to a Scientist.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">October 2023:</span> 
+      <span style="color: red; font-weight: bold;">October 2023</span><br>  
       <strong>Awarded Best Paper</strong> for <em>AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</em> at the <strong>8th ISIC Workshop @ MICCAI 2023</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">October 2023:</span> 
-      <strong>Panelist @ ISIC Workshop @ MICCAI 2023</strong>. I had the privilege of serving as a panelist at the ISIC Workshop and presented our project <em>Continual-GEN</em> through an oral presentation.
+      <span style="color: red; font-weight: bold;">October 2023</span><br>  
+      I had the privilege of serving as a <strong>panelist<strong> at the ISIC Workshop and presented our project <em>Continual-GEN</em> through an oral presentation.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">July 2023:</span> 
+      <span style="color: red; font-weight: bold;">July 2023</span><br>  
       <em>Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification</em> has been <strong>accepted @ the 8th ISIC Workshop @ MICCAI 2023</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">July 2023:</span> 
+      <span style="color: red; font-weight: bold;">July 2023</span><br>  
       <em>AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</em> has been <strong>accepted @ the 8th ISIC Workshop @ MICCAI 2023</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">June 2023:</span> 
+      <span style="color: red; font-weight: bold;">June 2023</span><br> 
       <em>MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets</em> has been <strong>accepted @ MICCAI 2023</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">May 2023:</span> 
+      <span style="color: red; font-weight: bold;">May 2023</span><br>  
       <strong>Awarded Best Paper</strong> for <em>FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</em> at the <strong>7th ISIC Workshop @ ECCV 2022</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">August 2022:</span> 
+      <span style="color: red; font-weight: bold;">August 2022</span><br>  
       <em>FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</em> has been <strong>accepted @ ECCV ISIC Workshop 2022</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">April 2022:</span> 
+      <span style="color: red; font-weight: bold;">April 2022</span><br>  
       <strong>Honored to receive the prestigious Vanier PhD Scholarship</strong> from NSERC Canada.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">March 2022:</span> 
+      <span style="color: red; font-weight: bold;">March 2022</span><br>  
       <em>BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features</em> has been <strong>accepted @ CVPR 2022</strong>.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">June 2021:</span> 
+      <span style="color: red; font-weight: bold;">June 2021</span><br>  
       <strong>Awarded the 2021 MICCAI Student Travel Award</strong>!
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">May 2021:</span> 
+      <span style="color: red; font-weight: bold;">May 2021</span><br>  
       <em>Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification</em> has been <strong>accepted @ MICCAI 2021</strong> (<strong>EARLY ACCEPT</strong>!).
     </li>
   </ul>
