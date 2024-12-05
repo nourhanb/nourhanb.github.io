@@ -98,7 +98,52 @@ Recent News!
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">October 2023:</span> 
-      <strong>Panelist @ ISIC Workshop @ MICCAI 2023</strong>. Presented <em>Continual-GEN</em> through an oral presentation.
+      <strong>Panelist @ ISIC Workshop @ MICCAI 2023</strong>. I had the privilege of serving as a panelist at the ISIC Workshop and presented our project <em>Continual-GEN</em> through an oral presentation.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">July 2023:</span> 
+      <em>Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification</em> has been <strong>accepted @ the 8th ISIC Workshop @ MICCAI 2023</strong>.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">July 2023:</span> 
+      <em>AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</em> has been <strong>accepted @ the 8th ISIC Workshop @ MICCAI 2023</strong>.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">June 2023:</span> 
+      <em>MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets</em> has been <strong>accepted @ MICCAI 2023</strong>.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">May 2023:</span> 
+      <strong>Awarded Best Paper</strong> for <em>FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</em> at the <strong>7th ISIC Workshop @ ECCV 2022</strong>.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">August 2022:</span> 
+      <em>FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</em> has been <strong>accepted @ ECCV ISIC Workshop 2022</strong>.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">April 2022:</span> 
+      <strong>Honored to receive the prestigious Vanier PhD Scholarship</strong> from NSERC Canada.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">March 2022:</span> 
+      <em>BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features</em> has been <strong>accepted @ CVPR 2022</strong>.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">June 2021:</span> 
+      <strong>Awarded the 2021 MICCAI Student Travel Award</strong>!
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">May 2021:</span> 
+      <em>Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification</em> has been <strong>accepted @ MICCAI 2021</strong> (<strong>EARLY ACCEPT</strong>!).
     </li>
   </ul>
 </div>
