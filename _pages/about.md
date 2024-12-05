@@ -98,7 +98,7 @@ Recent News!
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">October 2023</span><br>  
-      I had the privilege of serving as a <strong>panelist<strong> at the ISIC Workshop and presented our project <em>Continual-GEN</em> through an oral presentation.
+      I had the privilege of serving as a <strong>panelist</strong> at the ISIC Workshop and presented our project <em>Continual-GEN</em> through an oral presentation.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
