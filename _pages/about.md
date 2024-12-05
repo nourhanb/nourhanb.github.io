@@ -46,7 +46,45 @@ Recent News!
       <span style="color: red; font-weight: bold;">October 2024:</span> 
       Our recent work <em>Debiasify: Self-Distillation for Unsupervised Bias Mitigation</em> has been <strong>accepted @ WACV 2025</strong>.
     </li>
-    <!-- Add more news items here -->
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">October 2024:</span> 
+      <strong>Joined the 11th Workshop on Medical Computer Vision @ CVPR 2025</strong>. I am honored to join the workshop as an organizer and program committee member.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">October 2024:</span> 
+      <strong>BiasPruner Recognized!</strong> Our work <em>BiasPruner</em> was awarded 
+      <strong>Winner of the WiM Best Health Equity Paper</strong>, <strong>Runner-Up of the WiM Best Oral Presentation Award</strong>, and shortlisted for the 
+      <strong>MICCAI Best Paper Award</strong> and <strong>MICCAI Young Scientist Award</strong>.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">September 2024:</span> 
+      <strong>BiasPruner</strong> was selected for an <strong>oral presentation @ MICCAI 2024 in Morocco</strong>.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">May 2024:</span> 
+      <em>BiasPruner: Debiased Continual Learning for Medical Image Classification</em> has been <strong>accepted @ MICCAI 2024</strong> 
+      (<strong>EARLY ACCEPT</strong>!).
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">May 2024:</span> 
+      Our recent work <em>GC2: Generalizable Continual Classification of Medical Images</em> has been 
+      <strong>accepted @ IEEE Transactions on Medical Imaging (TMI) 2024</strong> (IF~11).
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">May 2024:</span> 
+      <strong>Excited to join CogniaAI</strong> as a Machine Learning Engineer Intern.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">April 2024:</span> 
+      <em>Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</em> has been <strong>accepted @ CLVISION-Workshop @ CVPR 2024</strong>.
+    </li>
   </ul>
 </div>
 <hr>
