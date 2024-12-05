@@ -17,6 +17,7 @@ I have extensive experience in teaching, curriculum development and lab manageme
 Recent News!
 ======
 <hr>
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
 - ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">December 2024</span>**  
 **Scholarship Spotlight!** Thrilled to be featured on Global Scholarships, a platform dedicated to empowering international students and sharing their inspiring scholarship success stories. [Read more](https://globalscholarships.com/scholarship-posts/nourhan-bayasi/)
@@ -87,4 +88,5 @@ Recent News!
 - ![📅](https://img.icons8.com/emoji/16/000000/calendar-emoji.png) **<span style="color: red;">May 2021</span>**  
   *Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification* has been **accepted @ MICCAI 2021** (**EARLY ACCEPT**!).
 
+</div>
 <hr>
