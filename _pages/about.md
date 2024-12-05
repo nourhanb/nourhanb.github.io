@@ -85,6 +85,21 @@ Recent News!
       <span style="color: red; font-weight: bold;">April 2024:</span> 
       <em>Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</em> has been <strong>accepted @ CLVISION-Workshop @ CVPR 2024</strong>.
     </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">December 2023:</span> 
+      <strong>Selected as a mentee</strong> in <a href="https://bme.ubc.ca/sbme-career-accelerator/">SBME's Career Accelerator</a>, in partnership with STEMCELL Technologies and Advice to a Scientist.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">October 2023:</span> 
+      <strong>Awarded Best Paper</strong> for <em>AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</em> at the <strong>8th ISIC Workshop @ MICCAI 2023</strong>.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">October 2023:</span> 
+      <strong>Panelist @ ISIC Workshop @ MICCAI 2023</strong>. Presented <em>Continual-GEN</em> through an oral presentation.
+    </li>
   </ul>
 </div>
 <hr>
