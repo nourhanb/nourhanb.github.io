@@ -18,7 +18,7 @@ Recent News!
 <hr>
 
 <div style="
-  max-height: 500px; 
+  max-height: 600px; 
   overflow-y: auto; 
   border: 1px solid #ddd; 
   border-radius: 8px; 
