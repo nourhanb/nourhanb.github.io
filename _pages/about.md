@@ -32,7 +32,7 @@ Recent News!
  <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">December 2024</span><br> 
-      Thrilled to be selected as a new member of the MICCAI Student Board 2025 for the position of **Doctoral Programs Officer**. 
+      Thrilled to be selected as a new member of the MICCAI Student Board 2025 for the position of <strong>Doctoral Programs Officer</strong>. 
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">December 2024</span><br> 
