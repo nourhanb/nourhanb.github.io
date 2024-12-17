@@ -62,4 +62,4 @@ Here are some of the courses I have taught or served as a teaching assistant for
 <hr>
 ### ELEC 201 Student Feedback  
 <a id="ELEC201-student-feedback"></a>  
-![Student Feedback](http://nourhanb.github.io/images/TA_FD_1.png)
+<img src="http://nourhanb.github.io/images/TA_FD_1.png" alt="Student Feedback" style="max-width: 100%; height: auto;">
