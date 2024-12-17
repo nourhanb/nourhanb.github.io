@@ -21,7 +21,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 #### **ELEC 291: Electrical Engineering Design Studio I**
 <sub>*📍University of British Columbia, Canada*</sub>
 
-#### **ELEC 201: Circuit Analysis I** [(Student Feedback)](#student-feedback)  
+#### **ELEC 201: Circuit Analysis I** [(Student Feedback)](#ELEC201-student-feedback)  
 <sub>*📍University of British Columbia, Canada*</sub>
 
 
@@ -58,3 +58,8 @@ Here are some of the courses I have taught or served as a teaching assistant for
 ---
 
 **Ready to learn more or chat about these topics?** Feel free to reach out—I'm always happy to discuss the wonders of engineering and education!
+
+<hr>
+### ELEC 201 Student Feedback  
+<a id="ELEC201-student-feedback"></a>  
+![Student Feedback](path/to/your/image.jpg)
