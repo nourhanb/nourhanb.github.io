@@ -15,7 +15,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 
 ### Undergraduate Courses
 #### **ELEC 301: Electronic Circuits I**
-<sub>*📍University of British Columbia, Canada*</sub>
+<sub>*📍University of British Columbia, Canada &*</sub>
 <sub>*📍Higher Colleges of Technology, UAE*
 
 #### **ELEC 291: Electrical Engineering Design Studio I**
@@ -24,7 +24,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 #### **ELEC 201: Circuit Analysis I**  
 <sub>*📍University of British Columbia, Canada*</sub>
 
-[Student feedback](#student-feedback)
+<sub>[Student feedback](#student-feedback)</sub>
 
 #### **ELEC 202: Circuit Analysis II**  
 <sub>*📍University of British Columbia, Canada*</sub>
