@@ -15,44 +15,44 @@ Here are some of the courses I have taught or served as a teaching assistant for
 
 ### Undergraduate Courses
 #### **ELEC 301: Electronic Circuits I**
-*📍University of British Columbia, Canada*
-*📍Higher Colleges of Technology, UAE*
+<sub>*📍University of British Columbia, Canada*</sub>
+<sub>*📍Higher Colleges of Technology, UAE*
 
 #### **ELEC 291: Electrical Engineering Design Studio I**
-*📍University of British Columbia, Canada*
+<sub>*📍University of British Columbia, Canada*</sub>
 
 #### **ELEC 201: Circuit Analysis I**  
-*📍University of British Columbia, Canada*
+<sub>*📍University of British Columbia, Canada*</sub>
 
 #### **ELEC 202: Circuit Analysis II**  
-*📍University of British Columbia, Canada*
+<sub>*📍University of British Columbia, Canada*</sub>
 
 #### **ELEC 203 & ELEC 204: Circuit Mastery**  
-*📍University of British Columbia, Canada*
+<sub>*📍University of British Columbia, Canada*</sub>
 
 #### **ELEC 221: Signals and Systems**  
-*📍Higher Colleges of Technology, UAE*
+<sub>*📍Higher Colleges of Technology, UAE*</sub>
 
 ---
 
 ### Physics & Advanced Courses
 #### **PHYS 106: Enriched Physics I**
-*📍Khalifa University, UAE*
+<sub>*📍Khalifa University, UAE*</sub>
 
 ---
 
 ### High School & Vocational Adventures
 #### **Robotics**
-*📍Institute of Applied Technology, UAE*
+<sub>*📍Institute of Applied Technology, UAE*</sub>
 
 #### **Electrical Installation**
-*📍Institute of Applied Technology, UAE*
+<sub>*📍Institute of Applied Technology, UAE*</sub>
 
 #### **Coding and Computational Thinking**
-*📍Institute of Applied Technology, UAE*
+<sub>*📍Institute of Applied Technology, UAE*</sub>
 
 #### **Fundamentals of Programming**
-*📍Institute of Applied Technology, UAE*
+<sub>*📍Institute of Applied Technology, UAE*</sub>
 
 ---
 
