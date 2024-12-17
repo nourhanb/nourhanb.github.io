@@ -9,7 +9,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 
 ### Graduate Courses
 #### **EECE 570: Fundamentals of Visual Computing**
-*📍University of British Columbia, Canada*
+<sub>*📍University of British Columbia, Canada*</sub>
 
 ---
 
