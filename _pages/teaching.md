@@ -62,6 +62,16 @@ Here are some of the courses I have taught or served as a teaching assistant for
 <hr>
 <div style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin-top: 40px; background-color: #f9f9f9; text-align: center;">
     <h3 style="margin-top: 0;">ELEC 201 Student Feedback</h3>
-    <a id="elec201-student-feedback"></a>
-    <img src="http://nourhanb.github.io/images/TA_FD_1.png" alt="Student Feedback" style="max-width: 100%; height: auto; border-radius: 8px;">
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+        <!-- First Image -->
+        <img src="http://nourhanb.github.io/images/TA_FD_1.png" 
+             alt="Student Feedback 1" 
+             style="width: 300px; height: auto; border-radius: 8px;">
+
+        <!-- Second Image -->
+        <img src="http://nourhanb.github.io/images/TA_FD_2.png" 
+             alt="Student Feedback 2" 
+             style="width: 300px; height: auto; border-radius: 8px;">
+    </div>
 </div>
+
