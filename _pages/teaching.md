@@ -24,6 +24,8 @@ Here are some of the courses I have taught or served as a teaching assistant for
 #### **ELEC 201: Circuit Analysis I**  
 <sub>*📍University of British Columbia, Canada*</sub>
 
+[Student feedback](#student-feedback)
+
 #### **ELEC 202: Circuit Analysis II**  
 <sub>*📍University of British Columbia, Canada*</sub>
 
