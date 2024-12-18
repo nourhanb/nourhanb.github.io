@@ -74,4 +74,13 @@ Here are some of the courses I have taught or served as a teaching assistant for
     </div>
 </div>
 
-
+<hr>
+<div id="robotics-student-feedback" style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin-top: 40px; background-color: #f9f9f9; text-align: center;">
+    <h3 style="margin-top: 0;">Robotics Student Feedback</h3>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+        <a href="http://nourhanb.github.io/files/Appreciation letter.pdf" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px; color: #007bff;">
+            <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF Icon" style="width: 50px; height: auto; margin-right: 10px;">
+            Download Robotics Feedback (PDF)
+        </a>
+    </div>
+</div>
