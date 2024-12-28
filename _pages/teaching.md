@@ -56,7 +56,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 <sub>*📍Institute of Applied Technology, UAE*</sub>
 
 <div style="background: #f9f9f9; padding: 10px; border-radius: 5px; margin: 20px 0;">
-Want some feedback? Please see below
+**Want some feedback? Please see below**
 </div>
 
 <div id="elec201-student-feedback" style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin-top: 40px; background-color: #f9f9f9; text-align: center;">
