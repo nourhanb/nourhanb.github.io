@@ -55,9 +55,10 @@ Here are some of the courses I have taught or served as a teaching assistant for
 #### **Fundamentals of Programming**
 <sub>*📍Institute of Applied Technology, UAE*</sub>
 
----
+<hr>
+<hr>
 
-**Ready to learn more or chat about these topics?** Feel free to reach out—I'm always happy to discuss the wonders of engineering and education!
+**Want some feedbacks?**
 
 <hr>
 
