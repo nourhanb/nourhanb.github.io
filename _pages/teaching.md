@@ -55,9 +55,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 #### **Fundamentals of Programming**
 <sub>*📍Institute of Applied Technology, UAE*</sub>
 
-<div style="background: #f9f9f9; padding: 10px; border-radius: 5px; margin: 20px 0;">
-**Want some feedback? Please see below**
-</div>
+<hr style="border: none; border-top: 2px solid #007BFF;">
 
 <div id="elec201-student-feedback" style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin-top: 40px; background-color: #f9f9f9; text-align: center;">
     <h3 style="margin-top: 0;">ELEC 201 Student Feedback</h3>
