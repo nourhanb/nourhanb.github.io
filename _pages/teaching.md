@@ -58,7 +58,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 <hr>
 <hr>
 
-**Want some feedbacks?**
+**Want some feedback? Please see below**
 
 <hr>
 
