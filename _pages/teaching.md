@@ -56,6 +56,8 @@ Here are some of the courses I have taught or served as a teaching assistant for
 <sub>*📍Institute of Applied Technology, UAE*</sub>
 
 <hr style="border: none; border-top: 2px solid #007BFF;">
+**Want some feedback? Please see below**
+<hr style="border: none; border-top: 2px solid #007BFF;">
 
 <div id="elec201-student-feedback" style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin-top: 40px; background-color: #f9f9f9; text-align: center;">
     <h3 style="margin-top: 0;">ELEC 201 Student Feedback</h3>
