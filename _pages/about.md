@@ -34,7 +34,7 @@ Recent News!
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">February 2025</span><br> 
-      Excited to start the *Foundations of Pedagogy* course at UBC! This course explores key principles of effective teaching, learning theories, and best practices for fostering student engagement. Looking forward to gaining new insights and applying them to my teaching! 
+      Excited to start the <strong>Foundations of Pedagogy</strong> course at UBC! This course explores key principles of effective teaching, learning theories, and best practices for fostering student engagement. Looking forward to gaining new insights and applying them to my teaching! 
  <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">December 2024</span><br> 
