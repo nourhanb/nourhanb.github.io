@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🌟 **I'm actively looking for opportunities as an Assistant Professor in AI or Data Science. If you're interested in collaborating or know of any openings, feel free to reach out!**  
+🌟 **I'm actively seeking opportunities as an Assistant Professor in AI or Data Science. If you know of any openings, I'd love to connect!**  
 
 Hello! I'm a fourth-year PhD student at the University of British Columbia, specializing in AI for medical imaging within the Biomedical Signal and Image Computing Laboratory [(BiSICL)](https://bisicl.ece.ubc.ca/). My research is supported by the prestigious NSERC PhD Vanier fellowship, focusing on advancing lifelong learning and domain generalization in deep networks for medical applications. I am privileged to be mentored by Professor [Rafeef Garbi](https://scholar.google.com/citations?hl=en&user=Mwscz1IAAAAJ&view_op=list_works&sortby=pubdate) and collaborate with Professor [Ghassan Hamarneh](https://scholar.google.com/citations?hl=en&user=61DdlkAAAAAJ&view_op=list_works&sortby=pubdate) from the Medical Image Analysis Laboratory [(MIA)](https://www.medicalimageanalysis.com/) at Simon Fraser University.
 
