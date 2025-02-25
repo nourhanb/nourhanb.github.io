@@ -33,6 +33,11 @@ Recent News!
   <ul style="list-style: none; padding: 0; margin: 0;">
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">[Month] 2025</span><br> 
+      Thrilled to announce that I have successfully defended my PhD thesis! 
+</li>
+    <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">February 2025</span><br> 
       Excited to start the <strong>Foundations of Pedagogy</strong> course at UBC! This course explores key principles of effective teaching, learning theories, and best practices for fostering student engagement. Looking forward to gaining new insights and applying them to my teaching! 
  <li style="margin-bottom: 15px;">
