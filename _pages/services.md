@@ -4,7 +4,7 @@ permalink: /services/
 
 **Academic Services**
 - Doctoral Programs Officer, MICCAI Student Board 2025!
-- Workshop Organizer & Program Committee Member, 11th Workshop on Medical Computer Vision @ CVPR 2025
+- Program Committee Member, 11th Workshop on Medical Computer Vision @ CVPR 2025
 - Reviewer, Journal of Expert Systems With Applications
 - Reviewer & Emergency Reviewer, IEEE/CVF WACV 2025
 - Reviewer, IEEE/CVF CVPR 2024
