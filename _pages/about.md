@@ -64,7 +64,7 @@ Recent News!
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">October 2024</span><br> 
-      I am honored to join <strong>the 11th Workshop on Medical Computer Vision @ CVPR 2025</strong> as an organizer and program committee member.
+      I am honored to join <strong>the 11th Workshop on Medical Computer Vision @ CVPR 2025</strong> as a program committee member.
     </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
