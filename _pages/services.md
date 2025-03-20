@@ -2,7 +2,7 @@
 permalink: /services/
 ---
 
-## **Conference & Journal Reviewing**  
+## Conference & Journal Reviewing 
 - **Reviewer**, MICCAI 2025   
 - **Reviewer & Emergency Reviewer**, IEEE/CVF WACV 2025
 - **Reviewer**, IEEE/CVF CVPR 2024
