@@ -1,8 +1,10 @@
 ---
 permalink: /services/
+title:"Academic and non-academic services"
 ---
 
 ## **Conference & Journal Reviewing**
+- **Reviewer**, Journal of Medical Image Analysis (MedIA) 2025
 - **Reviewer**, IEEE TNNLS A/E
 - **Reviewer**, MICCAI 2025   
 - **Reviewer & Emergency Reviewer**, IEEE/CVF WACV 2025
