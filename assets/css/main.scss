@@ -42,7 +42,7 @@
 
 .page__content p,
 .page__content li {
-  text-align: justify;
+  text-align: justify !important;
   text-justify: inter-word;
   line-height: 1.7;
 }
