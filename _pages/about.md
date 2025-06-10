@@ -38,11 +38,12 @@ Recent News!
       <a href="https://nourhanb.github.io/files/FoP%20Winter%202025%20Certificates%20FinalBGLYB_Part3.pdf" target="_blank" style="color: blue; text-decoration: underline;">View Certificate (PDF)</a>
     </li>
 
-    <li style="margin-bottom: 15px;">
-      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-      <span style="color: red; font-weight: bold;">February 2025</span><br> 
-      Thrilled to announce that I have successfully defended my PhD thesis! 
-</li>
+  <li style="margin-bottom: 15px;">
+    <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+    <span style="color: red; font-weight: bold;">February 2025</span><br> 
+    Thrilled to announce that I have successfully defended my PhD thesis! 
+    <a href="https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0448180" target="_blank" style="color: blue; text-decoration: underline;">Read it here!</a>
+  </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">February 2025</span><br> 
