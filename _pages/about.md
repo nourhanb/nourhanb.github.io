@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🌟 **I'm actively seeking opportunities as an Assistant Professor in AI or Data Science. If you know of any openings, I'd love to connect!**  
+🌟 **I'm actively seeking Postdoc opportunities in Canada. If you know of any openings, I'd love to connect!**  
 
 Hi, I’m Nour! I hold a PhD in Electrical and Computer Engineering from the University of British Columbia (UBC) in Vancouver, Canada. I conducted my doctoral research in the [Biomedical Signal and Image Computing Laboratory (BiSICL)](https://bisicl.ece.ubc.ca/), where I was advised by [Professor Rafeef Garbi](https://scholar.google.com/citations?hl=en&user=Mwscz1IAAAAJ&view_op=list_works&sortby=pubdate). My work focused on **AI for medical imaging**, with a particular emphasis on **lifelong learning**, **domain generalization** and **fairness** in deep neural networks. I also had the opportunity to collaborate closely with [Professor Ghassan Hamarneh](https://scholar.google.com/citations?hl=en&user=61DdlkAAAAAJ&view_op=list_works&sortby=pubdate) from the [Medical Image Analysis Lab (MIA)](https://www.medicalimageanalysis.com/) at Simon Fraser University.  My research was supported by the prestigious **NSERC Vanier Canada Graduate Scholarship**. 
 
