@@ -32,12 +32,11 @@ Recent News!
 
   <ul style="list-style: none; padding: 0; margin: 0;">
      <li style="margin-bottom: 15px;">
-  <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
-  <span style="color: red; font-weight: bold;">May 2025</span><br> 
-  I’m excited to announce that I’ve successfully completed the Foundation of Pedagogy course through the Centre for the Integration of Research, Teaching and Learning (CIRTL) at UBC, and with it, I have become a <strong>CIRTL Associate</strong>!
-  <br>
-  <a href="https://nourhanb.github.io/files/FoP%20Winter%202025%20Certificates%20FinalBGLYB_Part3.pdf" target="_blank" style="color: blue; text-decoration: underline;">View Certificate (PDF)</a>
-</li>
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">May 2025</span><br> 
+      I’m excited to announce that I’ve successfully completed the Foundation of Pedagogy course through the Centre for the Integration of Research, Teaching and Learning (CIRTL) at UBC, and with it, I have become a <strong>CIRTL Associate</strong>!
+      <a href="https://nourhanb.github.io/files/FoP%20Winter%202025%20Certificates%20FinalBGLYB_Part3.pdf" target="_blank" style="color: blue; text-decoration: underline;">View Certificate (PDF)</a>
+    </li>
 
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
