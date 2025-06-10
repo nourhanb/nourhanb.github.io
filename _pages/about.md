@@ -34,7 +34,7 @@ Recent News!
      <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">May 2025</span><br> 
-      I’m excited to announce that I’ve successfully completed the Foundation of Pedagogy course through the Centre for the Integration of Research, Teaching and Learning (CIRTL) at the University of British Columbia (UBC) — and with it, I have become a **CIRTL Associate**! 
+      I’m excited to announce that I’ve successfully completed the Foundation of Pedagogy course through the Centre for the Integration of Research, Teaching and Learning (CIRTL) at UBC, and with it, I have become a <strong>CIRTL Associate</strong>! 
 </li>
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
@@ -44,7 +44,7 @@ Recent News!
     <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">February 2025</span><br> 
-      Excited to start the <strong>Foundations of Pedagogy</strong> course at UBC! This course explores key principles of effective teaching, learning theories, and best practices for fostering student engagement. Looking forward to gaining new insights and applying them to my teaching! 
+      Excited to start the <strong>Foundations of Pedagogy</strong> course through the Centre for the Integration of Research, Teaching and Learning (CIRTL) at UBC! This course explores key principles of effective teaching, learning theories, and best practices for fostering student engagement. Looking forward to gaining new insights and applying them to my teaching! 
  <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">December 2024</span><br> 
