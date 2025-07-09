@@ -28,8 +28,15 @@ Recent News!
   line-height: 1.6; 
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
 
-  <ul style="list-style: none; padding: 0; margin: 0;">
-     <li style="margin-bottom: 15px;">
+<li style="margin-bottom: 15px;">
+  <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+  <span style="color: red; font-weight: bold;">July 2025</span><br> 
+  I’m thrilled to be starting as a postdoctoral research fellow at BC Cancer in Vancouver, where I’ll be joining the 
+  <a href="https://www.bccrc.ca/dept/io-programs/qurit/" target="_blank">Quantitative Radiomolecular Imaging and Therapy (Qurit) Lab</a> (Cure-It!) 
+  to advance AI-driven imaging and therapy for improved cancer care.
+</li>
+
+<li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">May 2025</span><br> 
       I’m excited to announce that I’ve successfully completed the Foundations of Pedagogy course through the Centre for the Integration of Research, Teaching and Learning (CIRTL) at UBC, and with it, I have become a <strong>CIRTL Associate</strong>!
