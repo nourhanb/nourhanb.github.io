@@ -32,7 +32,7 @@ Recent News!
   <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
   <span style="color: red; font-weight: bold;">July 2025</span><br> 
   I’m thrilled to be starting as a postdoctoral research fellow at BC Cancer in Vancouver, where I’ll be joining the 
-  <a href="https://www.bccrc.ca/dept/io-programs/qurit/" target="_blank">Quantitative Radiomolecular Imaging and Therapy (Qurit) Lab</a> (Cure-It!) 
+  Quantitative Radiomolecular Imaging and Therapy (<a href="https://www.bccrc.ca/dept/io-programs/qurit/" target="_blank">Qurit</a>) Lab (Cure-It!) 
   to advance AI-driven imaging and therapy for improved cancer care.
 </li>
 
