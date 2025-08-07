@@ -3,6 +3,10 @@ permalink: /services/
 title: "Academic and non-academic services"
 ---
 
+## **Founder & Leadership**  
+- **Founder, Program Lead & Mentor**, [Rising Scholars Hub (RiSH)](https://risingsh.github.io/website/) (2025 – Present):   A free, volunteer-led mentorship initiative helping ambitious students — especially from the Middle East, Africa, and South America — publish their first research paper. RiSH provides step-by-step guidance in literature review, experimentation, writing, and publishing, with personalized mentorship from experienced researchers.
+ 
+
 ## **Program Committees & Leadership Roles**  
 - **Doctoral Programs Officer**, MICCAI Student Board 2025  
 - **Scientific Member**, 11th Workshop on Medical Computer Vision @CVPR 2025  
