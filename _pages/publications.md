@@ -10,7 +10,7 @@ title: "Publications"
     </a>
     <div style="padding-left: 8px;">
         <h3><a href="https://arxiv.org/abs/2507.14050">Foundation Models as Class-Incremental Learners for Dermatological Image Classification</a> (@MICCAI EMERGE Workshop, 2025)</h3>
-        <p>Mohamed Elkhayat, Mohamed Mahmoud, Jamil Fayyad, <strong>Nourhan Bayasi</strong>strong></p>
+        <p>Mohamed Elkhayat, Mohamed Mahmoud, Jamil Fayyad, <strong>Nourhan Bayasi</strong></p>
     </div>
 </div>
 
