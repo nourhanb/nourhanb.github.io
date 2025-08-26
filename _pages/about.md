@@ -30,6 +30,25 @@ Recent News!
   line-height: 1.6; 
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
 
+ 
+  <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">August 2025</span><br> 
+      <em>BiasPruner: Mitigating bias transfer in continual learning for fair medical image analysis</em> has been <strong>accepted @ Medical Image Analysis Journal (IF 11.8)</strong>.
+    </li>
+    
+  <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">July 2025</span><br> 
+      <em>LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis</em> has been <strong>accepted @ MICCAI ISIC Skin Image Analysis Workshop 2025</strong>.
+    </li>
+ 
+ <li style="margin-bottom: 15px;">
+      <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
+      <span style="color: red; font-weight: bold;">July 2025</span><br> 
+      <em>Foundation models as class-incremental learners for dermatological image classification</em> has been <strong>accepted @ MICCAI EMERHE Workshop 2025</strong>.
+    </li>
+
 <li style="margin-bottom: 15px;">
   <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
   <span style="color: red; font-weight: bold;">July 2025</span><br> 
