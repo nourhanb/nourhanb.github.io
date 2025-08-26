@@ -46,7 +46,7 @@ Recent News!
  <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">July 2025</span><br> 
-      <em>Foundation models as class-incremental learners for dermatological image classification</em> has been <strong>accepted @ MICCAI EMERHE Workshop 2025</strong>.
+      <em>Foundation models as class-incremental learners for dermatological image classification</em> has been <strong>accepted @ MICCAI EMERGE Workshop 2025</strong>.
     </li>
 
 <li style="margin-bottom: 15px;">
