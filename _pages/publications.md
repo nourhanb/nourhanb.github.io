@@ -5,6 +5,16 @@ title: "Publications"
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+    <a href="http://nourhanb.github.io/images/miccai_isicw_25.png" target="_blank">
+        <img src="http://nourhanb.github.io/images/miccai_isicw_25.png" style="width: 216px; height: auto; margin-right: 80px;">
+    </a>
+    <div style="padding-left: 8px;">
+        <h3><a href="https://arxiv.org/abs/2507.23001">LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis</a> (@MICCAI ISIC Skin Image Analysis Workshop, 2025)</h3>
+        <p>Jamil Fayyad, <strong>Nourhan Bayasi</strong>, Ziyang Yu, Homayoun Najjaran</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
     <a href="http://nourhanb.github.io/images/miccai_emerge_25.png" target="_blank">
         <img src="http://nourhanb.github.io/images/miccai_emerge_25.png" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
