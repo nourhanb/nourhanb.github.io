@@ -9,7 +9,7 @@ title: "Publications"
         <img src="http://nourhanb.github.io/images/miccai_emerge_25.png" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 8px;">
-        <h3><a href="https://arxiv.org/abs/2507.14050">Foundation Models as Class-Incremental Learners for Dermatological Image Classification</a> (@IEEE/CVF WACV, 2025)</h3>
+        <h3><a href="https://arxiv.org/abs/2507.14050">Foundation Models as Class-Incremental Learners for Dermatological Image Classification</a> (@MICCAI EMERGE Workshop, 2025)</h3>
         <p>Mohamed Elkhayat, Mohamed Mahmoud, Jamil Fayyad, <strong>Nourhan Bayasi</strong>strong></p>
     </div>
 </div>
@@ -51,7 +51,7 @@ title: "Publications"
         <img src="http://nourhanb.github.io/images/fig_2.jpg" style="width: 300px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 20px;">
-        <h3><a href="https://drive.google.com/file/d/1_gBUPTuH5k8L9H8ZIHJaVF8gCCkcojXv/view">Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</a> (CLVISION @@IEEE/CVF CVPR, 2024)</h3>
+        <h3><a href="https://drive.google.com/file/d/1_gBUPTuH5k8L9H8ZIHJaVF8gCCkcojXv/view">Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</a> (CLVISION @IEEE/CVF CVPR, 2024)</h3>
         <p><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</p>
     </div>
 </div>
