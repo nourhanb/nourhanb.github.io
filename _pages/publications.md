@@ -5,11 +5,21 @@ title: "Publications"
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+    <a href="http://nourhanb.github.io/images/main_media_25.jpg" target="_blank">
+        <img src="http://nourhanb.github.io/images/main_media_25.jpg" style="width: 216px; height: auto; margin-right: 80px;">
+    </a>
+    <div style="padding-left: 8px;">
+        <h3><a href="https://www.sciencedirect.com/science/article/pii/S136184152500310X">BiasPruner: Mitigating bias transfer in continual learning for fair medical image analysis</a> (@Medical Image Analysis Journal (MedIA), 2025)</h3>
+        <p><strong>Nourhan Bayasi</strong>, Jamil Fayyad, Alceu Bissoto, Ghassan Hamarneh, Rafeef Garbi</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
     <a href="http://nourhanb.github.io/images/miccai_isicw_25.png" target="_blank">
         <img src="http://nourhanb.github.io/images/miccai_isicw_25.png" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 8px;">
-        <h3><a href="https://arxiv.org/abs/2507.23001">LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis</a> (@MICCAI ISIC Skin Image Analysis Workshop, 2025)</h3>
+        <h3><a href="https://arxiv.org/abs/2507.23001">LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis</a> (Oral Presentation @MICCAI ISIC Skin Image Analysis Workshop, 2025)</h3>
         <p>Jamil Fayyad, <strong>Nourhan Bayasi</strong>, Ziyang Yu, Homayoun Najjaran</p>
     </div>
 </div>
@@ -19,7 +29,7 @@ title: "Publications"
         <img src="http://nourhanb.github.io/images/miccai_emerge_25.png" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
     <div style="padding-left: 8px;">
-        <h3><a href="https://arxiv.org/abs/2507.14050">Foundation Models as Class-Incremental Learners for Dermatological Image Classification</a> (@MICCAI EMERGE Workshop, 2025)</h3>
+        <h3><a href="https://arxiv.org/abs/2507.14050">Foundation Models as Class-Incremental Learners for Dermatological Image Classification</a> (Oral Presentation @MICCAI EMERGE Workshop, 2025)</h3>
         <p>Mohamed Elkhayat, Mohamed Mahmoud, Jamil Fayyad, <strong>Nourhan Bayasi</strong></p>
     </div>
 </div>
