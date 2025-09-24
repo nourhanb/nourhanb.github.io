@@ -2,6 +2,7 @@
 permalink: /awards/
 title: "Honors & Awards"
 ---
+- (<span style="color:red;">2025</span>) **Best Paper Award (3rd place)**, @MICCAI EMERGE Workshop
 - (<span style="color:red;">2024</span>) **Borealis AI Fellowship**, @RBC Borealis
 - (<span style="color:red;">2024</span>) **Runner-Up, Women in MICCAI (WiM) Best Oral Presentation Award**, @MICCAI2024
 - (<span style="color:red;">2024</span>) **Winner, Women in MICCAI (WiM) Best Health Equity Paper Award**, @MICCAI2024
