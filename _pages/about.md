@@ -32,6 +32,12 @@ Recent News!
 
  
   <li style="margin-bottom: 15px;">
+    <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="Calendar icon" width="16" height="16">
+    <span style="color: red; font-weight: bold;">September 2025</span><br>
+    <em>We secured the <strong>Best Paper Award (3rd Place)</strong> for our paper “Foundation Models as Class-Incremental Learners for Dermatological Image Classification” at the MICCAI EMERGE Workshop.</em>
+  </li>
+
+  <li style="margin-bottom: 15px;">
       <img src="https://img.icons8.com/emoji/16/000000/calendar-emoji.png" alt="📅">
       <span style="color: red; font-weight: bold;">August 2025</span><br> 
       <em>BiasPruner: Mitigating bias transfer in continual learning for fair medical image analysis</em> has been <strong>accepted @ Medical Image Analysis Journal (IF 11.8)</strong>.
