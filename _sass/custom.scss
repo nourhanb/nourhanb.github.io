@@ -31,50 +31,6 @@ body {
   color: $darker-gray;
 }
 
-/* Bio: one-liner + glance + expandable more */
-.bio-glance {
-  display: block;
-  margin-top: 0.75rem;
-  font-size: 0.9rem;
-  color: $gray;
-  line-height: 1.5;
-}
-
-.bio-more-wrap {
-  margin-top: 1.25rem;
-}
-
-.bio-more-trigger {
-  display: inline-block;
-  padding: 0.4rem 0.75rem;
-  font-size: 0.9rem;
-  font-weight: 600;
-  color: $primary-color;
-  background: transparent;
-  border: 1px solid $primary-color;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: background 0.2s ease, color 0.2s ease;
-  user-select: none;
-
-  &:hover {
-    background: $primary-color;
-    color: #fff;
-  }
-}
-
-.bio-more-content {
-  margin-top: 1rem;
-  padding-top: 1rem;
-  border-top: 1px solid $border-color;
-
-  p {
-    margin-bottom: 0.75rem;
-    font-size: 0.98rem;
-    line-height: 1.65;
-  }
-}
-
 /* Recent News: timeline layout */
 .news-timeline {
   list-style: none;
