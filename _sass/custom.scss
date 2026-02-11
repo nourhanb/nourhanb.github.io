@@ -1,0 +1,136 @@
+/* ==========================================================================
+   Custom site makeover styles
+   ========================================================================== */
+
+/* Subtle page background */
+body {
+  background-color: #fafbfc;
+}
+
+/* Masthead: cleaner, with accent */
+.masthead {
+  border-bottom: 2px solid $primary-color;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.masthead__menu-item--lg a {
+  color: $darker-gray;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.greedy-nav a:hover {
+  color: $primary-color !important;
+}
+
+/* Homepage: intro stands out, less wall-of-text */
+.page--home .page__content > p:first-of-type {
+  font-size: 1.15rem;
+  line-height: 1.75;
+  color: $darker-gray;
+}
+
+/* Recent News: timeline layout */
+.news-timeline {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0 0;
+  max-height: 520px;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+  border-left: 2px solid $lighter-gray;
+  margin-left: 4px;
+  padding-left: 0.5rem;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+  &::-webkit-scrollbar-track {
+    background: #f1f5f9;
+    border-radius: 3px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: $primary-color;
+    border-radius: 3px;
+  }
+}
+
+.news-item {
+  position: relative;
+  padding: 0.9rem 0 0.9rem 1.75rem;
+  border-bottom: 1px solid $lighter-gray;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -7px;
+    top: 1.35rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: $primary-color;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 1px $primary-color;
+  }
+
+  .news-date {
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: $primary-color;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-bottom: 0.25rem;
+  }
+
+  .news-text {
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: $text-color;
+    margin: 0;
+
+    a {
+      font-weight: 500;
+    }
+  }
+}
+
+/* Section title for Recent News */
+.page--home .page__content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid $primary-color;
+  font-size: 1.5rem;
+  color: $darker-gray;
+}
+
+/* Sidebar author card: subtle elevation */
+.page--home .sidebar .author__avatar img {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.author__name {
+  color: $darker-gray;
+}
+
+/* Buttons and links consistency */
+.page__content .btn,
+a.btn {
+  background: $primary-color;
+  color: #fff !important;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+  transition: background 0.2s ease;
+
+  &:hover {
+    background: darken($primary-color, 8%);
+  }
+}
