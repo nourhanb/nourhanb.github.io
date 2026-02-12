@@ -24,68 +24,6 @@ body {
   color: $primary-color !important;
 }
 
-/* About/home: same font size for all body paragraphs (override any theme lead/first-child) */
-.page--home .page__content p,
-.page--home .page__content .page__lead {
-  font-size: 1em !important;
-}
-
-/* About page: 3 content boxes */
-.about-box {
-  margin-bottom: 1.5rem;
-  padding: 1.25rem 1.5rem;
-  background: #fff;
-  border: 1px solid $border-color;
-  border-radius: 8px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-
-  p {
-    margin: 0 0 0.5em;
-    font-size: 1em;
-  }
-
-  &:last-of-type {
-    margin-bottom: 0;
-  }
-}
-
-.about-box__title {
-  margin: 0 0 0.75rem;
-  padding-bottom: 0.35rem;
-  font-size: 1.15rem;
-  font-weight: 700;
-  color: $darker-gray;
-  border-bottom: 2px solid $primary-color;
-}
-
-.about-box__subtitle {
-  margin: 1rem 0 0.4rem;
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: $dark-gray;
-
-  &:first-of-type {
-    margin-top: 0.5rem;
-  }
-}
-
-.about-box__list {
-  margin: 0 0 0.5rem;
-  padding-left: 1.4em;
-  font-size: 1em;
-  line-height: 1.55;
-
-  ul {
-    margin: 0.3em 0 0.5em;
-    padding-left: 1.2em;
-    list-style-type: circle;
-  }
-
-  li {
-    margin-bottom: 0.35em;
-  }
-}
-
 /* Recent News: timeline layout */
 .news-timeline {
   list-style: none;

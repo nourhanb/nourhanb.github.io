@@ -8,57 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<div class="about-box" markdown="1">
-  <p>Hi, I’m Nour! I’m currently a postdoctoral research fellow at the **BC Cancer Research Institute**, working in the Quantitative Radiomolecular Imaging and Therapy Lab ([Qurit](https://www.bccrc.ca/dept/io-programs/qurit/)) (pronounced *Cure-It*) and supervised by Prof. [Arman Rahmim](https://scholar.google.com/citations?hl=en&user=mE6_284AAAAJ&view_op=list_works&sortby=pubdate). I develop agentic, physician-in-the-loop AI powered by reinforcement learning to support clinical decision-making through segmentation, classification, survival prediction, and related tasks in CT, PET, SPECT, and ultrasound. I’m also the founder of **Rising Scholars Hub** ([RiSH](https://risingsh.github.io/website/)), a free, volunteer-led initiative that helps ambitious students publish their first research paper.</p>
-</div>
+Hi, I’m Nour! I’m currently a postdoctoral research fellow at the **BC Cancer Research Institute**, working in the Quantitative Radiomolecular Imaging and Therapy Lab ([Qurit](https://www.bccrc.ca/dept/io-programs/qurit/)) (pronounced *Cure-It*) and supervised by Prof. [Arman Rahmim](https://scholar.google.com/citations?hl=en&user=mE6_284AAAAJ&view_op=list_works&sortby=pubdate). I develop agentic, physician-in-the-loop AI powered by reinforcement learning to support clinical decision-making through segmentation, classification, survival prediction, and related tasks in CT, PET, SPECT, and ultrasound. I’m also the founder of **Rising Scholars Hub** ([RiSH](https://risingsh.github.io/website/)), a free, volunteer-led initiative that helps ambitious students publish their first research paper.
 
-<div class="about-box">
-  <h3 class="about-box__title">Education</h3>
-  <ul class="about-box__list">
-    <li><strong>PhD, Electrical &amp; Computer Engineering</strong> (University of British Columbia, Canada, 2025)
-      <ul>
-        <li>Biomedical Signal and Image Computing Lab (<a href="https://bisicl.ece.ubc.ca/">BiSICL</a>), supervised by Prof. <a href="https://scholar.google.com/citations?hl=en&user=Mwscz1IAAAAJ&view_op=list_works&sortby=pubdate">Rafeef Garbi</a></li>
-        <li>NSERC Vanier Canada Graduate Scholarship (PhD funding)</li>
-      </ul>
-    </li>
-    <li><strong>Research focus:</strong> medical imaging AI, with emphasis on lifelong learning, domain generalization, fairness, and bias mitigation</li>
-    <li><strong>Collaboration:</strong> Prof. <a href="https://scholar.google.com/citations?hl=en&user=61DdlkAAAAAJ&view_op=list_works&sortby=pubdate">Ghassan Hamarneh</a>, SFU Medical Image Analysis Lab (<a href="https://www.medicalimageanalysis.com/">MIAL</a>)</li>
-    <li><strong>MSc, Electrical &amp; Computer Engineering</strong> (Khalifa University, UAE, 2015)</li>
-    <li><strong>Bachelor, Electrical &amp; Computer Engineering</strong> (Khalifa University, UAE, 2013)</li>
-  </ul>
-</div>
+As for my education, I hold a PhD in Electrical and Computer Engineering from  the University of British Columbia (UBC), where I was part of the Biomedical Signal and Image Computing Lab ([BiSICL](https://bisicl.ece.ubc.ca/)) under Prof. [Rafeef Garbi](https://scholar.google.com/citations?hl=en&user=Mwscz1IAAAAJ&view_op=list_works&sortby=pubdate). My PhD research was supported by the prestigious **NSERC Vanier Canada Graduate Scholarship** and it focused on improving AI for medical imaging, especially lifelong learning, domain generalization, fairness and bias mitigation. I also collaborated with Prof. [Ghassan Hamarneh](https://scholar.google.com/citations?hl=en&user=61DdlkAAAAAJ&view_op=list_works&sortby=pubdate) at SFU’s Medical Image Analysis Lab ([MIAL](https://www.medicalimageanalysis.com/)). 
 
-<div class="about-box">
-  <h3 class="about-box__title">Skills &amp; Experience</h3>
-
-  <h4 class="about-box__subtitle">Teaching &amp; Learning Design</h4>
-  <ul class="about-box__list">
-    <li>Instruction (instructor, teaching assistant, workshop engineer, private tutoring)</li>
-    <li>Curriculum and training material development</li>
-    <li>Needs assessments and learner support</li>
-    <li>Grading and assessment design</li>
-  </ul>
-
-  <h4 class="about-box__subtitle">Lab &amp; Operations</h4>
-  <ul class="about-box__list">
-    <li>Lab equipment management and setup</li>
-    <li>Project supervision</li>
-    <li>Safety protocols and compliance</li>
-  </ul>
-
-  <h4 class="about-box__subtitle">Training Delivery</h4>
-  <ul class="about-box__list">
-    <li>High-standard training delivery</li>
-    <li>Flexible assessment tools</li>
-    <li>Improving online and in-person learning experiences</li>
-  </ul>
-
-  <h4 class="about-box__subtitle">Industry &amp; Applied Engineering</h4>
-  <ul class="about-box__list">
-    <li>Machine Learning Engineer Intern, <a href="https://www.cognia.ca/">Cognia AI</a> (during PhD)</li>
-    <li>HPC Expert Intern, <a href="https://www.ankabut.ae/">Ankabut</a> (during Bachelor's)</li>
-  </ul>
-</div>
+I have extensive experience in teaching, curriculum development and lab management. I’ve served as an instructor, lab engineer, workshop engineer, teaching assistant and private tutoring. My skills include developing training materials, conducting needs assessments, grading, managing lab equipment, supervising projects, and implementing safety protocols. I'm also adept at delivering high-standard training, creating flexible assessment tools, and enhancing online and in-person learning environments. In addition to academia, I have gained industrial experience as a Machine Learning Engineer Intern at [Cognia AI](https://www.cognia.ca/) during my PhD and as an HPC Expert Intern at [Ankabut](https://www.ankabut.ae/) during my undergraduate studies.
 
 
 Recent News
