@@ -2,25 +2,24 @@
 permalink: /research/
 title: "Research Interests"
 ---
-I am primarily interested in the application of deep learning techniques to classification tasks in medical image analysis, with a particular emphasis on analyzing skin lesion images. My research interests revolve around advancing the field by improving the lifelong learning, generalization capabilities and fairness of deep neural networks.
+I develop robust, fair, and continually learning deep learning methods for medical imaging. My work focuses on continual (lifelong) learning, domain generalization/OOD robustness, bias mitigation, and clinician-in-the-loop systems that remain reliable under real clinical shift.
 
+**Agentic and Physician-in-the-Loop AI for Oncology Imaging**
 
-**Cancer Care with Medical Imaging**
+I develop agentic AI systems for oncology imaging that work in close collaboration with clinicians. These models go beyond static prediction: they adapt, refine outputs, and incorporate expert feedback during inference to improve reliability under real-world variability. My work spans tumor and organ segmentation, diagnostic classification, and survival prediction from multimodal data (e.g., PET/CT). By combining robust representation learning with interactive and feedback-driven mechanisms, I aim to build systems that not only achieve strong average performance, but remain stable under distribution shift, support clinical decision-making, and provide trustworthy risk stratification in high-stakes cancer care.
 
-Advancing cancer care requires accurate interpretation of medical images such as PET and CT scans, which provide essential insights into tumor detection, progression, and treatment response. My research explores how machine learning can enhance this process through automated segmentation of tumors and organs, radiomics-based feature extraction, and predictive modeling for patient prognosis and survival. By integrating imaging data with clinical information, I aim to develop tools that not only improve diagnostic accuracy but also support personalized treatment planning. These efforts have the potential to optimize therapy decisions, monitor disease progression more effectively, and ultimately improve patient outcomes in oncology.
+**Lifelong Learning**
 
-**Lifelong Learning of Deep Networks**
+I develop continual learning methods for medical imaging to handle evolving clinical data without degrading previously learned knowledge. I prevent catastrophic forgetting using update strategies that work under realistic constraints (limited replay, limited compute), and I apply them to medical image classification and incremental adaptation of pretrained/foundation models.
 
-In real-world applications, particularly in medical imaging, models must learn from an ever-evolving stream of data. The challenge lies in ensuring that these models retain previously acquired knowledge while seamlessly adapting to new information. Traditional learning methods often suffer from catastrophic forgetting, where the model loses past knowledge when updated with new data. This issue can have severe consequences in critical applications like healthcare, where outdated or incorrect knowledge could impact patient outcomes. My research focuses on developing continual learning strategies that maintain high performance and ensure models remain adaptable, reliable, and efficient over time.
+**Out-of-Distribution Generalization**
 
+I develop generalization techniques that keep medical imaging models reliable under domain shift (scanner, site, protocol, and population changes). I focus on learning robust representations through domain-invariant feature learning and shift-aware training objectives so performance does not collapse when deployment data differs from training.
 
+**Fairness, Bias Mitigation, Shortcut Unlearning**
 
-**Generalization of Deep Networks on out-of-distribution (OOD) Data**
+I develop bias-aware training and evaluation strategies that reduce performance gaps across demographic and clinical subgroups. I target dataset imbalance, spurious correlations, and label noise by designing debiasing objectives and subgroup-sensitive analysis that improve worst-group performance and trustworthiness in high-stakes settings.
 
-Models trained in controlled environments often struggle when deployed in real-world settings where data distributions differ significantly from the training set. This domain shift is particularly problematic in medical imaging, where variations in equipment, patient demographics, and imaging conditions can lead to substantial performance drops. The ability to generalize across domains without retraining on new data is essential for ensuring consistent and accurate diagnoses. My research tackles these challenges by exploring methods that learn robust, domain-invariant features, paving the way for models that are resilient and applicable in diverse healthcare environments.
+**Dermatology / Skin Imaging**
 
-
-**Fairness and Bias Mitigation** 
-
-Machine learning models are prone to biases that can result in unequal performance across demographic groups, which is especially concerning in fields like healthcare, where disparities can directly affect patient care. Biases can be introduced from imbalanced datasets, label inaccuracies, or model architectures that disproportionately favor certain groups. Addressing these issues is crucial to ensure that models make fair and equitable decisions. My research focuses on developing strategies to identify and mitigate these biases, using advanced debiasing techniques that promote fairness and improve outcomes for underrepresented or vulnerable populations, ultimately making AI systems more trustworthy and inclusive.
-
+I develop robust and fair learning pipelines for skin lesion analysis, with an emphasis on classification under distribution shift. I combine continual learning, domain generalization, and bias mitigation to maintain performance across varied acquisition conditions and patient populations.
