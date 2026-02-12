@@ -20,6 +20,10 @@ Recent News
 
 <ul class="news-timeline">
   <li class="news-item">
+    <span class="news-date">Feb. 2026</span>
+    <p class="news-text">Excited to share that my first workshop proposal has been accepted. <strong>CLiMeM: Continual Learning in Medical Multimodal-Vision</strong> is coming to MICCAI 2026.</p>
+  </li>
+  <li class="news-item">
     <span class="news-date">September 2025</span>
     <p class="news-text">We secured the <strong>Best Paper Award (3rd Place)</strong> for our paper <em>“Foundation Models as Class-Incremental Learners for Dermatological Image Classification”</em> at the MICCAI EMERGE Workshop.</p>
   </li>
