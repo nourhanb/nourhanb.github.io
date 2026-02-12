@@ -8,13 +8,14 @@ title: "Academic and non-academic services"
  
 
 ## **Program Committees & Leadership Roles**
-- **Public Outreach and Membership Officer**, Women in MICCAI 2025-2027  
-- **Doctoral Programs Officer**, MICCAI Student Board 2025  
+- **Public Outreach and Membership Officer**, Women in MICCAI 2025-current  
+- **Doctoral Programs Officer**, MICCAI Student Board 2025-current  
 - **Scientific Member**, 11th Workshop on Medical Computer Vision @CVPR 2025  
 - **Program Committee Member**, 9th ISIC Skin Image Analysis Workshop @MICCAI 2024  
 - **Program Committee Member**, 8th ISIC Skin Image Analysis Workshop @MICCAI 2023
   
 ## **Conference & Journal Reviewing**
+- **Reviewer**, MICCAI 2026   
 - **Reviewer**, ISIC Skin Image Analysis Workshop @MICCAI 2023, 2024, 2025
 - **Reviewer**, MSB EMERGE Workshop @MICCAI 2025
 - **Reviewer**, Journal of Medical Image Analysis (MedIA) 2025
