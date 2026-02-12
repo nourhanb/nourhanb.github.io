@@ -4,9 +4,7 @@ title: "Academic and non-academic services"
 ---
 
 ## **Founder & Leadership**  
-- **Founder, Program Lead & Mentor** at [Rising Scholars Hub (RiSH)](https://risingsh.github.io/website/) (2025 – Present).  
-
-- [More about RiSH, mentorship, and consulting](/mentorship/).
+- **Founder, Program Lead & Mentor** at [Rising Scholars Hub (RiSH)](https://risingsh.github.io/website/) (2025 – Present).  [More details here](/mentorship/).
 
 ## **Program Committees & Leadership Roles**
 - **Public Outreach and Membership Officer**, Women in MICCAI (2025-current)  
