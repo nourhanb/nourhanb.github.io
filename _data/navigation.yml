@@ -18,5 +18,8 @@ main:
   - title: "Blogs"
     url: /blogs/
 
+  - title: "Research Mentorship & Consulting"
+    url: /mentorship/
+
   - title: "CV"
     url: /files/myCV_Nour.pdf
