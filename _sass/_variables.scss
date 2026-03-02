@@ -89,12 +89,12 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
-/* links */
-$link-color                 : #7C3AED;
-$link-color-hover           : darken(#7C3AED, 12%);
+/* links (darker shade of date purple #7C3AED so they stay distinct) */
+$link-color                 : #5B21B6;
+$link-color-hover           : #7C3AED;
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $darker-gray;
-$masthead-link-color-hover  : #7C3AED;
+$masthead-link-color-hover  : #5B21B6;
 
 
 /*
