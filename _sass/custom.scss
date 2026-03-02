@@ -20,8 +20,12 @@ body {
   letter-spacing: -0.02em;
 }
 
+.greedy-nav a {
+  font-weight: 700;
+}
+
 .greedy-nav a:hover {
-  color: $primary-color !important;
+  color: $masthead-link-color-hover !important;
 }
 
 /* Page titles (Research Interests, Honors & Awards, etc.) */
