@@ -24,6 +24,11 @@ body {
   color: $primary-color !important;
 }
 
+/* Page titles (Research Interests, Honors & Awards, etc.) */
+.page__title {
+  color: #7C3AED;
+}
+
 /* Recent News: timeline layout */
 .news-timeline {
   list-style: none;
@@ -75,7 +80,7 @@ body {
     display: block;
     font-size: 0.8rem;
     font-weight: 700;
-    color: $primary-color;
+    color: #7C3AED;
     text-transform: uppercase;
     letter-spacing: 0.03em;
     margin-bottom: 0.25rem;
