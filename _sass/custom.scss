@@ -33,6 +33,11 @@ body {
   color: #7C3AED;
 }
 
+/* Force date/year spans in content to purple (overrides any cached red) */
+.page__content span[style*="color"] {
+  color: #7C3AED !important;
+}
+
 /* Recent News: timeline layout */
 .news-timeline {
   list-style: none;
