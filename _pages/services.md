@@ -6,7 +6,8 @@ title: "Academic and non-academic services"
 ## **Founder & Leadership**
 - (<span style="color:red;">2025–Present</span>) **Founder, Program Lead & Mentor** at [Rising Scholars Hub (RiSH)](https://risingsh.github.io/website/). [More details here](/mentorship/).
 
-## **Program Committees & Leadership Roles**
+## **Leadership Roles**
+- (<span style="color:red;">2026–current</span>) **Workshop lead & Organizer**, [CLiMeM: Continual Learning in Medical Multimodal-Vision](https://climem.github.io/CLiMeM/index.html) @ MICCAI 2026
 - (<span style="color:red;">2025–current</span>) **Public Outreach and Membership Officer**, Women in MICCAI
 - (<span style="color:red;">2025–current</span>) **Doctoral Programs Officer**, MICCAI Student Board
 - (<span style="color:red;">2025</span>) **Scientific Member**, 11th Workshop on Medical Computer Vision @CVPR 2025
