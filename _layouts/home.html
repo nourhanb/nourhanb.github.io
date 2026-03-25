@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main" class="layout--home">
+  <div class="home-landing">
+    <aside class="home-landing__col home-landing__col--hero">
+      <div class="home-landing__hero-card">
+        <span class="home-landing__float home-landing__float--a" aria-hidden="true"><i class="fas fa-lightbulb"></i></span>
+        <span class="home-landing__float home-landing__float--b" aria-hidden="true"><i class="fas fa-microscope"></i></span>
+        <span class="home-landing__float home-landing__float--c" aria-hidden="true"><i class="fas fa-brain"></i></span>
+        <div class="home-landing__hero-glow"></div>
+        {% if site.author.avatar contains "://" %}
+          {% assign hero_src = site.author.avatar %}
+        {% else %}
+          {% assign hero_src = site.author.avatar | prepend: "/images/" | prepend: base_path %}
+        {% endif %}
+        <img
+          class="home-landing__hero-img"
+          src="{{ hero_src }}"
+          alt="{{ site.author.name | append: ' — portrait' }}"
+          width="520"
+          height="700"
+          loading="lazy"
+          decoding="async"
+        />
+      </div>
+    </aside>
+
+    <div class="home-landing__col home-landing__col--main">
+      <header class="home-landing__intro">
+        <p class="home-landing__pretitle">Hello! I&rsquo;m</p>
+        <h1 class="home-landing__name">{{ site.author.name }}</h1>
+        <p class="home-landing__role">Postdoctoral Research Fellow &middot; AI &amp; Medical Imaging</p>
+        <a class="home-landing__affil" href="https://www.bccrc.ca/" target="_blank" rel="noopener noreferrer">BC Cancer Research Institute</a>
+
+        <nav class="home-landing__social" aria-label="Social and profiles">
+          {% if site.author.googlescholar %}
+            <a class="home-landing__icon-btn" href="{{ site.author.googlescholar }}" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span class="sr-only">Google Scholar</span></a>
+          {% endif %}
+          <a class="home-landing__icon-btn" href="{{ '/files/myCV_Nour.pdf' | prepend: base_path }}" title="CV (PDF)"><i class="fas fa-file-alt" aria-hidden="true"></i><span class="sr-only">CV</span></a>
+          {% if site.author.github %}
+            <a class="home-landing__icon-btn" href="https://github.com/{{ site.author.github }}" title="GitHub" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i><span class="sr-only">GitHub</span></a>
+          {% endif %}
+          {% if site.author.linkedin %}
+            <a class="home-landing__icon-btn" href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i><span class="sr-only">LinkedIn</span></a>
+          {% endif %}
+        </nav>
+
+        <a class="home-landing__cta" href="mailto:{{ site.author.email }}">Get in Touch</a>
+      </header>
+
+      <section class="home-landing__about" aria-labelledby="about-heading">
+        <div class="home-landing__about-bg" aria-hidden="true"></div>
+        <h2 id="about-heading" class="home-landing__about-title">About Me</h2>
+        <div class="page__content home-landing__content">
+          {{ content }}
+        </div>
+      </section>
+    </div>
+
+    <aside class="home-landing__col home-landing__col--news" aria-label="Recent news">
+      {% include home-news.html %}
+    </aside>
+  </div>
+</div>
