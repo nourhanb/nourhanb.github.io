@@ -4,7 +4,7 @@ title: "Academic and non-academic services"
 ---
 
 ## **Founder & Leadership**
-- (<span style="color:#7C3AED;">2025–Present</span>) **Founder, Program Lead & Mentor** at [Rising Scholars Hub (RiSH)](https://risingsh.github.io/website/). [More details here](/mentorship/).
+- (<span style="color:#7C3AED;">2025–Present</span>) **Founder & Mentor** at [Rising Scholars Hub (RiSH)](https://risingsh.github.io/website/). [More details here](/mentorship/).
 
 ## **Leadership Roles**
 - (<span style="color:#7C3AED;">2026–current</span>) **Workshop lead & Organizer**, [CLiMeM: Continual Learning in Medical Multimodal-Vision](https://climem.github.io/CLiMeM/index.html) @ MICCAI 2026
@@ -15,18 +15,11 @@ title: "Academic and non-academic services"
 - (<span style="color:#7C3AED;">2023</span>) **Program Committee Member**, 8th ISIC Skin Image Analysis Workshop @MICCAI 2023
 
 ## **Conference & Journal Reviewing**
-- (<span style="color:#7C3AED;">2026</span>) **Reviewer**, MICCAI 2026
+- (<span style="color:#7C3AED;">2026</span>) **Reviewer**, MICCAI, ECCV, NeurIPS
+- (<span style="color:#7C3AED;">2025</span>) **Reviewer**, MSB EMERGE Workshop @MICCAI, Journal of Medical Image Analysis (MedIA), IEEE TNNLS A/E, MICCAI, IEEE/CVF WACV (Reviewer & Emergency Reviewer)
+- (<span style="color:#7C3AED;">2024</span>) **Reviewer**, IEEE/CVF CVPR, MICCAI, Journal of Medical Image Analysis (MedIA), IEEE Transactions on Medical Imaging (TMI)
+- (<span style="color:#7C3AED;">2023</span>) **Reviewer**, MICCAI
 - (<span style="color:#7C3AED;">2023, 2024, 2025</span>) **Reviewer**, ISIC Skin Image Analysis Workshop @MICCAI
-- (<span style="color:#7C3AED;">2025</span>) **Reviewer**, MSB EMERGE Workshop @MICCAI 2025
-- (<span style="color:#7C3AED;">2025</span>) **Reviewer**, Journal of Medical Image Analysis (MedIA) 2025
-- (<span style="color:#7C3AED;">2025</span>) **Reviewer**, IEEE TNNLS A/E 2025
-- (<span style="color:#7C3AED;">2025</span>) **Reviewer**, MICCAI 2025
-- (<span style="color:#7C3AED;">2025</span>) **Reviewer & Emergency Reviewer**, IEEE/CVF WACV 2025
-- (<span style="color:#7C3AED;">2024</span>) **Reviewer**, IEEE/CVF CVPR 2024
-- (<span style="color:#7C3AED;">2024</span>) **Reviewer**, MICCAI 2024
-- (<span style="color:#7C3AED;">2023</span>) **Reviewer**, MICCAI 2023
-- (<span style="color:#7C3AED;">2024</span>) **Reviewer**, Journal of Medical Image Analysis (MedIA) 2024
-- (<span style="color:#7C3AED;">2024</span>) **Reviewer**, IEEE Transactions on Medical Imaging (TMI) 2024
 - **Reviewer**, Journal of Expert Systems With Applications
 
 ## **Community Services**
