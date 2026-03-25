@@ -82,8 +82,13 @@ analytics:
 author:
   name             : "Nourhan Bayasi"
   avatar           : "Untitled.png"
-  bio              : "Postdoctoral Research Fellow at BC Cancer | Founder and Mentor at RiSH"
-  location         : "Vancouver, BC, Canada"
+  bio              : "Postdoctoral Research Fellow"
+  bio_affiliation  :
+    name           : "BC Cancer"
+    url            : "https://www.bccrc.ca/"
+  bio_rish         :
+    url            : "https://risingsh.github.io/website/"
+  location         :
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en&oi=ao"
