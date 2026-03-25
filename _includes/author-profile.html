@@ -16,7 +16,19 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio_affiliation_url or author.bio_rish_url %}
+      {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+      {% if author.bio_affiliation_url and author.bio_affiliation_name %}
+        <p class="author__bio"><a href="{{ author.bio_affiliation_url }}">{{ author.bio_affiliation_name }}</a></p>
+      {% elsif author.bio_affiliation_url %}
+        <p class="author__bio"><a href="{{ author.bio_affiliation_url }}">BC Cancer</a></p>
+      {% endif %}
+      {% if author.bio_rish_url %}
+        <p class="author__bio">Founder &amp; Mentor, <a href="{{ author.bio_rish_url }}">Rising Scholars Hub (RiSH)</a></p>
+      {% endif %}
+    {% elsif author.bio %}
+      <p class="author__bio">{{ author.bio }}</p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
