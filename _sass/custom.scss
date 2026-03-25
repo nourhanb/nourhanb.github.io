@@ -185,7 +185,7 @@ body {
 }
 
 .home-landing__name {
-  font-size: clamp(1.85rem, 4vw, 2.35rem);
+  font-size: unquote("clamp(1.85rem, 4vw, 2.35rem)");
   font-weight: 700;
   letter-spacing: -0.03em;
   color: $darker-gray;
@@ -321,7 +321,8 @@ body {
 }
 
 .home-news__scroll {
-  max-height: min(70vh, 640px);
+  /* Plain CSS min(); quote so Sass does not treat min() as Sass built-in */
+  max-height: unquote("min(70vh, 640px)");
   overflow-y: auto;
   padding-right: 0.5rem;
   display: flex;

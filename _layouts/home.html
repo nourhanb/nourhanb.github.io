@@ -12,10 +12,14 @@ layout: default
         <span class="home-landing__float home-landing__float--b" aria-hidden="true"><i class="fas fa-microscope"></i></span>
         <span class="home-landing__float home-landing__float--c" aria-hidden="true"><i class="fas fa-brain"></i></span>
         <div class="home-landing__hero-glow"></div>
-        {% if site.author.avatar contains "://" %}
-          {% assign hero_src = site.author.avatar %}
+        {% if site.author.avatar %}
+          {% if site.author.avatar contains "://" %}
+            {% assign hero_src = site.author.avatar %}
+          {% else %}
+            {% assign hero_src = site.author.avatar | prepend: "/images/" | prepend: base_path %}
+          {% endif %}
         {% else %}
-          {% assign hero_src = site.author.avatar | prepend: "/images/" | prepend: base_path %}
+          {% assign hero_src = "/images/Untitled.png" | prepend: base_path %}
         {% endif %}
         <img
           class="home-landing__hero-img"
