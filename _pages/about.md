@@ -20,6 +20,10 @@ Recent News
 
 <ul class="news-timeline">
   <li class="news-item">
+    <span class="news-date">March 2026</span>
+    <p class="news-text">Happy to share that I’m resuming my role as <strong>Doctoral Programs Officer</strong> at <strong>MICCAI 2026 Student Board</strong>!</p>
+  </li>
+  <li class="news-item">
     <span class="news-date">February 2026</span>
     <p class="news-text">Excited to share that my first workshop proposal has been accepted. <strong><a href="https://climem.github.io/CLiMeM/index.html" target="_blank" rel="noopener noreferrer">CLiMeM: Continual Learning in Medical Multimodal-Vision</a></strong> is coming to MICCAI 2026.</p>
   </li>
