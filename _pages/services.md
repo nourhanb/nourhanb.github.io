@@ -9,7 +9,7 @@ title: "Academic and non-academic services"
 ## **Leadership Roles**
 - (<span style="color:#7C3AED;">2026–current</span>) **Workshop lead & Organizer**, [CLiMeM: Continual Learning in Medical Multimodal-Vision](https://climem.github.io/CLiMeM/index.html) @ MICCAI 2026
 - (<span style="color:#7C3AED;">2025–current</span>) **Public Outreach and Membership Officer**, Women in MICCAI ([Link](https://miccai.org/index.php/about-miccai/women-in-miccai/board-of-directors/))
-- (<span style="color:#7C3AED;">2025–current</span>) **Doctoral Programs Officer**, MICCAI Student Board
+- (<span style="color:#7C3AED;">2025–current</span>) **Doctoral Programs Officer**, MICCAI Student Board ([Link](https://miccai-sb.github.io/organization.html))
 - (<span style="color:#7C3AED;">2025</span>) **Scientific Member**, 11th Workshop on Medical Computer Vision @CVPR
 - (<span style="color:#7C3AED;">2024</span>) **Program Committee Member**, 9th ISIC Skin Image Analysis Workshop @MICCAI
 - (<span style="color:#7C3AED;">2023</span>) **Program Committee Member**, 8th ISIC Skin Image Analysis Workshop @MICCAI
