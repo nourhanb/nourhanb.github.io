@@ -1,6 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching & Course Highlights"
+author_profile: true
 ---
 
 Here are some of the courses I have taught or served as a teaching assistant for during my career.

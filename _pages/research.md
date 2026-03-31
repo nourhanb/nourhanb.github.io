@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research Interests"
+author_profile: true
 ---
 I develop robust, fair, and continually learning deep learning methods for medical imaging. My work focuses on continual (lifelong) learning, domain generalization/OOD robustness, bias mitigation, and clinician-in-the-loop systems that remain reliable under real clinical shift.
 

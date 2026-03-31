@@ -1,6 +1,7 @@
 ---
 permalink: /services/
 title: "Academic and non-academic services"
+author_profile: true
 ---
 
 ## **Founder & Leadership**

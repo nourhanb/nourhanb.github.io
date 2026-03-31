@@ -1,6 +1,7 @@
 ---
 permalink: /mentorship/
 title: "Research Mentorship & Consulting"
+author_profile: true
 ---
 
 ## Rising Scholars Hub (RiSH)

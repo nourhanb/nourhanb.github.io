@@ -1,6 +1,7 @@
 ---
 permalink: /awards/
 title: "Honors & Awards"
+author_profile: true
 ---
 
 ## **Best Paper & Presentation Awards**
