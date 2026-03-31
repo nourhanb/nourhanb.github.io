@@ -6,77 +6,154 @@ author_profile: true
 
 Here are some of the courses I have taught or served as a teaching assistant for during my career.
 
-## **Graduate Courses**
-- **EECE 570: Fundamentals of Visual Computing**, University of British Columbia, Canada
+<div class="section-group">
+<div class="section-heading">Graduate Courses</div>
 
-## **Undergraduate Courses**  
-- **ELEC 301: Electronic Circuits I**, University of British Columbia, Canada & Higher Colleges of Technology, UAE  
-- **ELEC 291: Electrical Engineering Design Studio I**, University of British Columbia, Canada [(Faculty Feedback)](#elec291-faculty-feedback)  
-- **ELEC 201: Circuit Analysis I**, University of British Columbia, Canada [(Student/Faculty Feedback)](#elec201-student-feedback)  
-- **ELEC 202: Circuit Analysis II**, University of British Columbia, Canada  
-- **ELEC 203 & ELEC 204: Circuit Mastery**, University of British Columbia, Canada  
-- **ELEC 221: Signals and Systems**, Higher Colleges of Technology, UAE  
-
-## **Physics & Advanced Courses**  
-- **PHYS 106: Enriched Physics I**, Khalifa University, UAE  
-
-## **High School & Vocational Adventures**  
-- **Robotics**, Institute of Applied Technology, UAE [(Student Feedback)](#robotics-student-feedback)  
-- **Electrical Installation**, Institute of Applied Technology, UAE  
-- **Coding and Computational Thinking**, Institute of Applied Technology, UAE  
-- **Fundamentals of Programming**, Institute of Applied Technology, UAE  
-
-
-<hr style="border: none; border-top: 4px solid #FF0000;">
-<strong>Want some feedback? Please see below</strong>
-
-<div id="elec291-faculty-feedback" style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin-top: 40px; background-color: #f9f9f9; text-align: center;">
-    <h3 style="margin-top: 0;">ELEC 291 Feedback</h3>
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-        <a href="http://nourhanb.github.io/files/Form_TA Evaluation - Nourhan - ELEC 291.pdf" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px; color: #007bff;">
-            <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF Icon" style="width: 20px; height: auto; margin-right: 10px;">
-            Download Faculty Feedback (PDF)
-        </a>
-        <a href="http://nourhanb.github.io/files/Nourhan Bayasi Form_TA Evaluation.pdf" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px; color: #007bff;">
-            <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF Icon" style="width: 20px; height: auto; margin-right: 10px;">
-            Download Additional Faculty Feedback (PDF)
-        </a>
-    </div>
+<div class="course-row">
+  <span class="course-row__code">EECE 570</span>
+  <div class="course-row__body">
+    <div class="course-row__name">Fundamentals of Visual Computing</div>
+    <div class="course-row__inst">University of British Columbia, Canada</div>
+  </div>
+</div>
 </div>
 
-<hr> 
+<div class="section-group">
+<div class="section-heading">Undergraduate Courses</div>
 
-<div id="elec201-student-feedback" style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin-top: 40px; background-color: #f9f9f9; text-align: center;">
-    <h3 style="margin-top: 0;">ELEC 201 Feedback</h3>
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-        <!-- Clickable Images -->
-        <a href="http://nourhanb.github.io/images/TA_FD_1.png" target="_blank">
-            <img src="http://nourhanb.github.io/images/TA_FD_1.png" alt="Student Feedback 1" style="width: 300px; height: auto; border-radius: 8px;">
-        </a>
-        <a href="http://nourhanb.github.io/images/TA_FD_2.png" target="_blank">
-            <img src="http://nourhanb.github.io/images/TA_FD_2.png" alt="Student Feedback 2" style="width: 300px; height: auto; border-radius: 8px;">
-        </a>
-    </div>
-    <div style="margin-top: 20px;">
-        <a href="http://nourhanb.github.io/files/Form_TA Evaluation-AN.pdf" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px; color: #007bff;">
-            <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF Icon" style="width: 20px; height: auto; margin-right: 10px;">
-            Download Faculty Feedback (PDF)
-        </a>
-    </div>
+<div class="course-row">
+  <span class="course-row__code">ELEC 301</span>
+  <div class="course-row__body">
+    <div class="course-row__name">Electronic Circuits I</div>
+    <div class="course-row__inst">University of British Columbia, Canada &amp; Higher Colleges of Technology, UAE</div>
+  </div>
 </div>
 
-
-<hr>
-<div id="robotics-student-feedback" style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; margin-top: 40px; background-color: #f9f9f9; text-align: center;">
-    <h3 style="margin-top: 0;">Robotics Feedback</h3>
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-        <a href="http://nourhanb.github.io/files/Appreciation letter.pdf" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 18px; color: #007bff;">
-            <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF Icon" style="width: 20px; height: auto; margin-right: 10px;">
-            Download Robotics Feedback (PDF)
-        </a>
-    </div>
+<div class="course-row">
+  <span class="course-row__code">ELEC 291</span>
+  <div class="course-row__body">
+    <div class="course-row__name"><a href="#elec291-feedback">Electrical Engineering Design Studio I</a></div>
+    <div class="course-row__inst">University of British Columbia, Canada</div>
+  </div>
 </div>
 
-<hr>
+<div class="course-row">
+  <span class="course-row__code">ELEC 201</span>
+  <div class="course-row__body">
+    <div class="course-row__name"><a href="#elec201-feedback">Circuit Analysis I</a></div>
+    <div class="course-row__inst">University of British Columbia, Canada</div>
+  </div>
+</div>
 
+<div class="course-row">
+  <span class="course-row__code">ELEC 202</span>
+  <div class="course-row__body">
+    <div class="course-row__name">Circuit Analysis II</div>
+    <div class="course-row__inst">University of British Columbia, Canada</div>
+  </div>
+</div>
 
+<div class="course-row">
+  <span class="course-row__code">ELEC 203/204</span>
+  <div class="course-row__body">
+    <div class="course-row__name">Circuit Mastery</div>
+    <div class="course-row__inst">University of British Columbia, Canada</div>
+  </div>
+</div>
+
+<div class="course-row">
+  <span class="course-row__code">ELEC 221</span>
+  <div class="course-row__body">
+    <div class="course-row__name">Signals and Systems</div>
+    <div class="course-row__inst">Higher Colleges of Technology, UAE</div>
+  </div>
+</div>
+</div>
+
+<div class="section-group">
+<div class="section-heading">Physics &amp; Advanced Courses</div>
+
+<div class="course-row">
+  <span class="course-row__code">PHYS 106</span>
+  <div class="course-row__body">
+    <div class="course-row__name">Enriched Physics I</div>
+    <div class="course-row__inst">Khalifa University, UAE</div>
+  </div>
+</div>
+</div>
+
+<div class="section-group">
+<div class="section-heading">High School &amp; Vocational</div>
+
+<div class="course-row">
+  <span class="course-row__code">HS</span>
+  <div class="course-row__body">
+    <div class="course-row__name"><a href="#robotics-feedback">Robotics</a></div>
+    <div class="course-row__inst">Institute of Applied Technology, UAE</div>
+  </div>
+</div>
+
+<div class="course-row">
+  <span class="course-row__code">HS</span>
+  <div class="course-row__body">
+    <div class="course-row__name">Electrical Installation</div>
+    <div class="course-row__inst">Institute of Applied Technology, UAE</div>
+  </div>
+</div>
+
+<div class="course-row">
+  <span class="course-row__code">HS</span>
+  <div class="course-row__body">
+    <div class="course-row__name">Coding and Computational Thinking</div>
+    <div class="course-row__inst">Institute of Applied Technology, UAE</div>
+  </div>
+</div>
+
+<div class="course-row">
+  <span class="course-row__code">HS</span>
+  <div class="course-row__body">
+    <div class="course-row__name">Fundamentals of Programming</div>
+    <div class="course-row__inst">Institute of Applied Technology, UAE</div>
+  </div>
+</div>
+</div>
+
+---
+
+<div id="elec291-feedback" class="feedback-box">
+  <div class="feedback-box__title">ELEC 291 — Faculty Feedback</div>
+  <div class="feedback-box__links">
+    <a class="feedback-box__link" href="http://nourhanb.github.io/files/Form_TA Evaluation - Nourhan - ELEC 291.pdf" target="_blank">
+      <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF"> Faculty Feedback (PDF)
+    </a>
+    <a class="feedback-box__link" href="http://nourhanb.github.io/files/Nourhan Bayasi Form_TA Evaluation.pdf" target="_blank">
+      <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF"> Additional Faculty Feedback (PDF)
+    </a>
+  </div>
+</div>
+
+<div id="elec201-feedback" class="feedback-box">
+  <div class="feedback-box__title">ELEC 201 — Student &amp; Faculty Feedback</div>
+  <div class="feedback-box__links">
+    <a href="http://nourhanb.github.io/images/TA_FD_1.png" target="_blank">
+      <img src="http://nourhanb.github.io/images/TA_FD_1.png" alt="Student Feedback 1" style="width:180px;height:auto;border-radius:6px;">
+    </a>
+    <a href="http://nourhanb.github.io/images/TA_FD_2.png" target="_blank">
+      <img src="http://nourhanb.github.io/images/TA_FD_2.png" alt="Student Feedback 2" style="width:180px;height:auto;border-radius:6px;">
+    </a>
+  </div>
+  <div class="feedback-box__links" style="margin-top:0.75rem;">
+    <a class="feedback-box__link" href="http://nourhanb.github.io/files/Form_TA Evaluation-AN.pdf" target="_blank">
+      <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF"> Faculty Feedback (PDF)
+    </a>
+  </div>
+</div>
+
+<div id="robotics-feedback" class="feedback-box">
+  <div class="feedback-box__title">Robotics — Student Feedback</div>
+  <div class="feedback-box__links">
+    <a class="feedback-box__link" href="http://nourhanb.github.io/files/Appreciation letter.pdf" target="_blank">
+      <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF"> Robotics Feedback (PDF)
+    </a>
+  </div>
+</div>

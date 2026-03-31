@@ -1,26 +1,123 @@
 ---
 permalink: /services/
-title: "Academic and non-academic services"
+title: "Academic and Non-Academic Services"
 author_profile: true
 ---
 
-## **Founder & Leadership**
-- (<span style="color:#7C3AED;">2025–Present</span>) **Founder & Mentor** at [Rising Scholars Hub (RiSH)](https://risingsh.github.io/website/). [More details here](/mentorship/).
+<div class="section-group">
+<div class="section-heading">Founder &amp; Leadership</div>
 
-## **Leadership Roles**
-- (<span style="color:#7C3AED;">2026–current</span>) **Workshop lead & Organizer**, [CLiMeM: Continual Learning in Medical Multimodal-Vision](https://climem.github.io/CLiMeM/index.html) @ MICCAI 2026
-- (<span style="color:#7C3AED;">2025–current</span>) **Public Outreach and Membership Officer**, Women in MICCAI ([Link](https://miccai.org/index.php/about-miccai/women-in-miccai/board-of-directors/))
-- (<span style="color:#7C3AED;">2025–current</span>) **Doctoral Programs Officer**, MICCAI Student Board ([Link](https://miccai-sb.github.io/organization.html))
-- (<span style="color:#7C3AED;">2025</span>) **Scientific Member**, 11th Workshop on Medical Computer Vision @CVPR
-- (<span style="color:#7C3AED;">2024</span>) **Program Committee Member**, 9th ISIC Skin Image Analysis Workshop @MICCAI
-- (<span style="color:#7C3AED;">2023</span>) **Program Committee Member**, 8th ISIC Skin Image Analysis Workshop @MICCAI
+<div class="entry-row">
+  <span class="entry-row__year">2025–Present</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Founder &amp; Mentor</strong> · <a href="https://risingsh.github.io/website/" target="_blank">Rising Scholars Hub (RiSH)</a></div>
+    <div class="entry-row__meta"><a href="/mentorship/">More details →</a></div>
+  </div>
+</div>
+</div>
 
-## **Conference & Journal Reviewing**
-- (<span style="color:#7C3AED;">2026</span>) **Reviewer:** MICCAI, ECCV, NeurIPS
-- (<span style="color:#7C3AED;">2025</span>) **Reviewer:** MICCAI, WACV (Reviewer & Emergency Reviewer), MSB EMERGE Workshop @ MICCAI; Journals: Medical Image Analysis (MedIA), IEEE TNNLS (A/E)
-- (<span style="color:#7C3AED;">2024</span>) **Reviewer:** CVPR, MICCAI; Journals: Medical Image Analysis (MedIA), IEEE Transactions on Medical Imaging (TMI)
-- (<span style="color:#7C3AED;">2023</span>) **Reviewer:** MICCAI
-- (<span style="color:#7C3AED;">2023–2025</span>) **Reviewer:** ISIC Skin Image Analysis Workshop @ MICCAI
+<div class="section-group">
+<div class="section-heading">Leadership Roles</div>
 
-## **Community Services**
-- (<span style="color:#7C3AED;">2022, 2023</span>) **Volunteer**, UBC Foodbank
+<div class="entry-row">
+  <span class="entry-row__year">2026–current</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Workshop Lead &amp; Organizer</strong> · <a href="https://climem.github.io/CLiMeM/index.html" target="_blank">CLiMeM: Continual Learning in Medical Multimodal-Vision</a></div>
+    <div class="entry-row__meta">@ MICCAI 2026</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2025–current</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Public Outreach and Membership Officer</strong> · <a href="https://miccai.org/index.php/about-miccai/women-in-miccai/board-of-directors/" target="_blank">Women in MICCAI</a></div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2025–current</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Doctoral Programs Officer</strong> · <a href="https://miccai-sb.github.io/organization.html" target="_blank">MICCAI Student Board</a></div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2025</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Scientific Member</strong></div>
+    <div class="entry-row__meta">11th Workshop on Medical Computer Vision @ CVPR</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2024</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Program Committee Member</strong></div>
+    <div class="entry-row__meta">9th ISIC Skin Image Analysis Workshop @ MICCAI</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2023</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Program Committee Member</strong></div>
+    <div class="entry-row__meta">8th ISIC Skin Image Analysis Workshop @ MICCAI</div>
+  </div>
+</div>
+</div>
+
+<div class="section-group">
+<div class="section-heading">Conference &amp; Journal Reviewing</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2026</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Reviewer</strong></div>
+    <div class="entry-row__meta">MICCAI · ECCV · NeurIPS</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2025</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Reviewer &amp; Emergency Reviewer</strong></div>
+    <div class="entry-row__meta">MICCAI · WACV · MSB EMERGE Workshop @ MICCAI &nbsp;|&nbsp; Journals: Medical Image Analysis (MedIA) · IEEE TNNLS (A/E)</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2024</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Reviewer</strong></div>
+    <div class="entry-row__meta">CVPR · MICCAI &nbsp;|&nbsp; Journals: Medical Image Analysis (MedIA) · IEEE TMI</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2023</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Reviewer</strong></div>
+    <div class="entry-row__meta">MICCAI</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2023–2025</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Reviewer</strong></div>
+    <div class="entry-row__meta">ISIC Skin Image Analysis Workshop @ MICCAI</div>
+  </div>
+</div>
+</div>
+
+<div class="section-group">
+<div class="section-heading">Community Services</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2022, 2023</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Volunteer</strong></div>
+    <div class="entry-row__meta">UBC Foodbank</div>
+  </div>
+</div>
+</div>
