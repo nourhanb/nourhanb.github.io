@@ -6,6 +6,16 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+    <a href="http://nourhanb.github.io/images/dina_paper_2026.png" target="_blank">
+        <img src="http://nourhanb.github.io/images/dina_paper_2026.png" style="width: 216px; height: auto; margin-right: 80px;">
+    </a>
+    <div style="padding-left: 8px;">
+        <h3><a href="https://arxiv.org/abs/2603.21095">Representation-Level Adversarial Regularization for Clinically Aligned Multitask Thyroid Ultrasound Assessment</a> (Submitted to arXiv, 2026)</h3>
+        <p>Dina Salama, Mohamed Mahmoud, <strong>Nourhan Bayasi</strong>, David Liu, Ilker Hacihaliloglu</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
     <a href="http://nourhanb.github.io/images/maziar_paper_2026.png" target="_blank">
         <img src="http://nourhanb.github.io/images/maziar_paper_2026.png" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
