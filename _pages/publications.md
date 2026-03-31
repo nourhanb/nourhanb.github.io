@@ -6,6 +6,16 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+    <a href="http://nourhanb.github.io/images/maziar_paper_2026.png" target="_blank">
+        <img src="http://nourhanb.github.io/images/maziar_paper_2026.png" style="width: 216px; height: auto; margin-right: 80px;">
+    </a>
+    <div style="padding-left: 8px;">
+        <h3><a href="https://arxiv.org/abs/2603.08906">Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift</a> (Submitted to arXiv, 2026)</h3>
+        <p>Maziar Sabouri, <strong>Nourhan Bayasi</strong>, Arman Rahmim</p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
     <a href="http://nourhanb.github.io/images/main_media_25.jpg" target="_blank">
         <img src="http://nourhanb.github.io/images/main_media_25.jpg" style="width: 216px; height: auto; margin-right: 80px;">
     </a>
