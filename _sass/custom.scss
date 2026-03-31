@@ -70,8 +70,8 @@ body {
   a {
     display: block;
     position: relative;
-    padding: 0.5rem 0.7rem;
-    font-size: 0.875rem;
+    padding: 0.5rem 0.5rem;
+    font-size: 0.85rem;
     font-weight: 500 !important;
     color: $gray !important;
     text-decoration: none !important;
@@ -82,8 +82,8 @@ body {
       content: '';
       position: absolute;
       bottom: 0;
-      left: 0.7rem;
-      right: 0.7rem;
+      left: 0.5rem;
+      right: 0.5rem;
       height: 2px;
       background: $primary-color;
       border-radius: 1px;
@@ -113,7 +113,7 @@ body {
 
 /* ---- CV pill button ---- */
 .masthead__menu-item--cv {
-  margin-left: 0.35rem;
+  margin-left: 0.25rem;
 
   a {
     padding: 0.3rem 0.9rem !important;
