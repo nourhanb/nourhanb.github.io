@@ -50,7 +50,6 @@ body {
 .site-logo-link {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
   text-decoration: none !important;
 
   &:hover .site-logo-name {
@@ -58,39 +57,30 @@ body {
   }
 }
 
-.site-logo-initials {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 2rem;
-  height: 2rem;
-  background: $primary-color;
-  color: #fff;
-  font-size: 0.72rem;
-  font-weight: 700;
-  border-radius: 7px;
-  letter-spacing: 0.04em;
-  flex-shrink: 0;
-}
-
 .site-logo-name {
-  font-size: 0.975rem;
-  font-weight: 700;
-  color: $darker-gray;
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+  color: $darker-gray !important;
   letter-spacing: -0.01em;
   transition: color 0.18s ease;
   white-space: nowrap;
 }
 
 /* ---- Nav links ---- */
+/* Reset the base theme's blanket bold on all greedy-nav links */
+.greedy-nav .visible-links .masthead__menu-item:not(.masthead__menu-item--lg) a {
+  font-weight: 500 !important;
+  color: $gray !important;
+}
+
 .masthead__menu-item:not(.masthead__menu-item--lg) {
   a {
     display: block;
     position: relative;
     padding: 0.5rem 0.7rem;
     font-size: 0.875rem;
-    font-weight: 500;
-    color: $gray;
+    font-weight: 500 !important;
+    color: $gray !important;
     text-decoration: none !important;
     white-space: nowrap;
     transition: color 0.18s ease;
