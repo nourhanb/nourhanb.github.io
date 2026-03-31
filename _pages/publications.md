@@ -59,8 +59,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--journal">Journal</span>
-      <span class="pub-badge pub-badge--award">MedIA 2025 · IF 11.8</span>
+      <span class="pub-badge pub-badge--journal">MedIA 2025</span>
     </div>
     <div class="pub-card__title"><a href="https://www.sciencedirect.com/science/article/pii/S136184152500310X" target="_blank">BiasPruner: Mitigating bias transfer in continual learning for fair medical image analysis</a></div>
     <div class="pub-card__authors"><strong>Nourhan Bayasi</strong>, Jamil Fayyad, Alceu Bissoto, Ghassan Hamarneh, Rafeef Garbi</div>
@@ -78,7 +77,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--workshop">MICCAI ISIC Workshop 2025</span>
+      <span class="pub-badge pub-badge--workshop">ISIC @ MICCAI 2025</span>
       <span class="pub-badge pub-badge--oral">Oral</span>
     </div>
     <div class="pub-card__title"><a href="https://arxiv.org/abs/2507.23001" target="_blank">LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis</a></div>
@@ -97,7 +96,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--workshop">MICCAI EMERGE Workshop 2025</span>
+      <span class="pub-badge pub-badge--workshop">EMERGE @ MICCAI 2025</span>
       <span class="pub-badge pub-badge--oral">Oral</span>
       <span class="pub-badge pub-badge--award">Best Paper (3rd Place)</span>
     </div>
@@ -160,7 +159,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--journal">IEEE TMI 2024 · IF ~10</span>
+      <span class="pub-badge pub-badge--journal">IEEE TMI 2024</span>
     </div>
     <div class="pub-card__title"><a href="https://www.cs.sfu.ca/~hamarneh/ecopy/tmi2024.pdf" target="_blank">GC2: Generalizable Continual Classification of Medical Images</a></div>
     <div class="pub-card__authors"><strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</div>
@@ -200,7 +199,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--workshop">ISIC Workshop @ MICCAI 2023</span>
+      <span class="pub-badge pub-badge--workshop">ISIC @ MICCAI 2023</span>
       <span class="pub-badge pub-badge--oral">Oral</span>
     </div>
     <div class="pub-card__title"><a href="https://workshop2023.isic-archive.com/paper_bayasi.pdf" target="_blank">Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification</a></div>
@@ -219,7 +218,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--workshop">ISIC Workshop @ MICCAI 2023</span>
+      <span class="pub-badge pub-badge--workshop">ISIC @ MICCAI 2023</span>
       <span class="pub-badge pub-badge--award">Best Paper</span>
     </div>
     <div class="pub-card__title"><a href="https://workshop2023.isic-archive.com/paper_du.pdf" target="_blank">AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</a></div>
@@ -260,7 +259,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--workshop">ISIC Workshop @ ECCV 2022</span>
+      <span class="pub-badge pub-badge--workshop">ISIC @ ECCV 2022</span>
       <span class="pub-badge pub-badge--award">Best Paper</span>
     </div>
     <div class="pub-card__title"><a href="https://arxiv.org/abs/2208.10013" target="_blank">FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</a></div>
@@ -324,7 +323,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--journal">Journal 2019</span>
+      <span class="pub-badge pub-badge--journal">AICSP Journal 2019</span>
     </div>
     <div class="pub-card__title"><a href="https://link.springer.com/article/10.1007/s10470-019-01432-y" target="_blank">A Novel Algorithm for the Prediction and Detection of Ventricular Arrhythmia</a></div>
     <div class="pub-card__authors"><strong>Nourhan Bayasi</strong>, Temesghen Tekeste, Hani Saleh, Ahsan H. Khandoker, Baker Mohammad, Mohammed Ismail</div>
