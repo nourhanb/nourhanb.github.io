@@ -18,14 +18,7 @@ body {
   animation: none;
 }
 
-.masthead__inner-wrap {
-  display: flex;
-  align-items: center;
-  min-height: 3.5rem;
-  padding: 0 1.5rem !important;
-}
-
-/* Greedy-nav: flex row, logo left + links right */
+/* Greedy-nav: ensure flex row so logo stays left, links right */
 .greedy-nav {
   display: flex;
   align-items: center;
