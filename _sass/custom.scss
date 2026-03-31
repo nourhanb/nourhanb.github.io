@@ -111,28 +111,6 @@ body {
   }
 }
 
-/* ---- CV pill button ---- */
-.masthead__menu-item--cv {
-  margin-left: 0.25rem;
-
-  a {
-    padding: 0.3rem 0.9rem !important;
-    border: 1.5px solid $primary-color;
-    border-radius: 999px;
-    color: $primary-color !important;
-    font-weight: 600 !important;
-    transition: background 0.18s ease, color 0.18s ease !important;
-
-    &::after {
-      display: none !important;
-    }
-
-    &:hover {
-      background: $primary-color;
-      color: #fff !important;
-    }
-  }
-}
 
 /* Page titles (Research Interests, Honors & Awards, etc.) */
 .page__title {
