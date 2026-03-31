@@ -7,25 +7,148 @@ body {
   background-color: #fff;
 }
 
-/* Masthead: cleaner, with accent */
+/* ---- Masthead redesign ---- */
 .masthead {
-  border-bottom: 2px solid $primary-color;
+  position: sticky;
+  top: 0;
+  z-index: 100;
   background: #fff;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  border-bottom: 1px solid $lighter-gray;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  animation: none;
 }
 
-.masthead__menu-item--lg a {
+.masthead__inner-wrap {
+  display: flex;
+  align-items: center;
+  min-height: 3.5rem;
+  padding: 0 1.5rem !important;
+}
+
+/* Greedy-nav: flex row, logo left + links right */
+.greedy-nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+
+  .visible-links {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 0;
+  }
+}
+
+/* ---- Logo ---- */
+.masthead__menu-item--lg {
+  padding-right: 1.75rem;
+  flex-shrink: 0;
+}
+
+.site-logo-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none !important;
+
+  &:hover .site-logo-name {
+    color: $primary-color;
+  }
+}
+
+.site-logo-initials {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  background: $primary-color;
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  border-radius: 7px;
+  letter-spacing: 0.04em;
+  flex-shrink: 0;
+}
+
+.site-logo-name {
+  font-size: 0.975rem;
+  font-weight: 700;
   color: $darker-gray;
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
+  transition: color 0.18s ease;
+  white-space: nowrap;
 }
 
-.greedy-nav a {
-  font-weight: 700;
+/* ---- Nav links ---- */
+.masthead__menu-item:not(.masthead__menu-item--lg) {
+  a {
+    display: block;
+    position: relative;
+    padding: 0.5rem 0.7rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: $gray;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: color 0.18s ease;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0.7rem;
+      right: 0.7rem;
+      height: 2px;
+      background: $primary-color;
+      border-radius: 1px;
+      transform: scaleX(0);
+      transform-origin: center;
+      transition: transform 0.2s ease;
+    }
+
+    &:hover {
+      color: $primary-color;
+
+      &::after {
+        transform: scaleX(1);
+      }
+    }
+  }
+
+  &.masthead__menu-item--active a {
+    color: $primary-color;
+    font-weight: 600;
+
+    &::after {
+      transform: scaleX(1);
+    }
+  }
 }
 
-.greedy-nav a:hover {
-  color: $masthead-link-color-hover !important;
+/* ---- CV pill button ---- */
+.masthead__menu-item--cv {
+  margin-left: 0.35rem;
+
+  a {
+    padding: 0.3rem 0.9rem !important;
+    border: 1.5px solid $primary-color;
+    border-radius: 999px;
+    color: $primary-color !important;
+    font-weight: 600 !important;
+    transition: background 0.18s ease, color 0.18s ease !important;
+
+    &::after {
+      display: none !important;
+    }
+
+    &:hover {
+      background: $primary-color;
+      color: #fff !important;
+    }
+  }
 }
 
 /* Page titles (Research Interests, Honors & Awards, etc.) */
