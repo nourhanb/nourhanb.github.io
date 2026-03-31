@@ -407,6 +407,8 @@ body {
 .page__content .entry-row__year {
   flex-shrink: 0 !important;
   display: inline-block !important;
+  min-width: 5.75rem !important;
+  text-align: center !important;
   padding: 0.1rem 0.5rem !important;
   font-size: 0.67rem !important;
   font-weight: 700 !important;
@@ -546,6 +548,8 @@ body {
 .page__content .course-row__code {
   flex-shrink: 0 !important;
   display: inline-block !important;
+  min-width: 5.75rem !important;
+  text-align: center !important;
   padding: 0.1rem 0.5rem !important;
   font-size: 0.67rem !important;
   font-weight: 700 !important;
