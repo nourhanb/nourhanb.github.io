@@ -77,7 +77,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--workshop">ISIC @ MICCAI 2025</span>
+      <span class="pub-badge pub-badge--workshop">ISIC Skin Image Analysis @ MICCAI 2025</span>
       <span class="pub-badge pub-badge--oral">Oral</span>
     </div>
     <div class="pub-card__title"><a href="https://arxiv.org/abs/2507.23001" target="_blank">LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis</a></div>
@@ -199,7 +199,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--workshop">ISIC @ MICCAI 2023</span>
+      <span class="pub-badge pub-badge--workshop">ISIC Skin Image Analysis @ MICCAI 2023</span>
       <span class="pub-badge pub-badge--oral">Oral</span>
     </div>
     <div class="pub-card__title"><a href="https://workshop2023.isic-archive.com/paper_bayasi.pdf" target="_blank">Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification</a></div>
@@ -218,7 +218,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--workshop">ISIC @ MICCAI 2023</span>
+      <span class="pub-badge pub-badge--workshop">ISIC Skin Image Analysis @ MICCAI 2023</span>
       <span class="pub-badge pub-badge--award">Best Paper</span>
     </div>
     <div class="pub-card__title"><a href="https://workshop2023.isic-archive.com/paper_du.pdf" target="_blank">AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</a></div>
@@ -259,7 +259,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--workshop">ISIC @ ECCV 2022</span>
+      <span class="pub-badge pub-badge--workshop">ISIC Skin Image Analysis @ ECCV 2022</span>
       <span class="pub-badge pub-badge--award">Best Paper</span>
     </div>
     <div class="pub-card__title"><a href="https://arxiv.org/abs/2208.10013" target="_blank">FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</a></div>
