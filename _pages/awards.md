@@ -94,7 +94,7 @@ author_profile: true
 <div class="entry-row">
   <span class="entry-row__year">2022–2025</span>
   <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Vanier Canada Graduate Scholarship</strong></div>
+    <div class="entry-row__title"><strong>Vanier Canada Graduate Scholarship</strong> (Ranked 1st in Canada)</div>
     <div class="entry-row__meta">NSERC Canada</div>
   </div>
 </div>
