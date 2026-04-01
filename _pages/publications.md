@@ -98,7 +98,7 @@ author_profile: true
     <div class="pub-card__badges">
       <span class="pub-badge pub-badge--workshop">EMERGE @ MICCAI 2025</span>
       <span class="pub-badge pub-badge--oral">Oral</span>
-      <span class="pub-badge pub-badge--award">Best Paper (3rd Place)</span>
+      <span class="pub-badge pub-badge--award">Best Paper Award (3rd Place)</span>
     </div>
     <div class="pub-card__title"><a href="https://arxiv.org/abs/2507.14050" target="_blank">Foundation Models as Class-Incremental Learners for Dermatological Image Classification</a></div>
     <div class="pub-card__authors">Mohamed Elkhayat, Mohamed Mahmoud, Jamil Fayyad, <strong>Nourhan Bayasi</strong></div>
@@ -220,7 +220,7 @@ author_profile: true
   <div class="pub-card__body">
     <div class="pub-card__badges">
       <span class="pub-badge pub-badge--workshop">ISIC Skin Image Analysis @ MICCAI 2023</span>
-      <span class="pub-badge pub-badge--award">Best Paper</span>
+      <span class="pub-badge pub-badge--award">Best Paper Award</span>
     </div>
     <div class="pub-card__title"><a href="https://workshop2023.isic-archive.com/paper_du.pdf" target="_blank">AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</a></div>
     <div class="pub-card__authors">Siyi Du, <strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</div>
@@ -261,7 +261,7 @@ author_profile: true
   <div class="pub-card__body">
     <div class="pub-card__badges">
       <span class="pub-badge pub-badge--workshop">ISIC Skin Image Analysis @ ECCV 2022</span>
-      <span class="pub-badge pub-badge--award">Best Paper</span>
+      <span class="pub-badge pub-badge--award">Best Paper Award</span>
     </div>
     <div class="pub-card__title"><a href="https://arxiv.org/abs/2208.10013" target="_blank">FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</a></div>
     <div class="pub-card__authors">Siyi Du, Ben Hers, <strong>Nourhan Bayasi</strong>, Ghassan Hamarneh, Rafeef Garbi</div>
