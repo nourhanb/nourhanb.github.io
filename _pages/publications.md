@@ -142,6 +142,7 @@ author_profile: true
       <span class="pub-badge pub-badge--oral">Oral · Top 4%</span>
       <span class="pub-badge pub-badge--early">Early Accept · Top 11%</span>
       <span class="pub-badge pub-badge--award">WiM Best Health Equity Paper</span>
+      <span class="pub-badge pub-badge--award">WiM Best Oral Presentation (Runner-up)</span>
     </div>
     <div class="pub-card__title"><a href="https://arxiv.org/pdf/2407.08609" target="_blank">BiasPruner: Debiased Continual Learning for Medical Image Classification</a></div>
     <div class="pub-card__authors"><strong>Nourhan Bayasi</strong>, Jamil Fayyad, Alceu Bissoto, Ghassan Hamarneh, Rafeef Garbi</div>
