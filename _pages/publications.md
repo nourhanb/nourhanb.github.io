@@ -342,7 +342,8 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--journal">IEEE TVLSI 2015</span>
+      <span class="pub-badge pub-badge--journal">IEEE VLSI Transaction 2015</span>
+      <span class="pub-badge pub-badge--award">Best Paper Award</span>
     </div>
     <div class="pub-card__title"><a href="https://ieeexplore.ieee.org/document/7293200" target="_blank">Low-power ECG-based Processor for Predicting Ventricular Arrhythmia</a></div>
     <div class="pub-card__authors"><strong>Nourhan Bayasi</strong>, Temesghen Tekeste, Hani Saleh, Baker Mohammad, Ahsan Khandoker, Mohammed Ismail</div>
