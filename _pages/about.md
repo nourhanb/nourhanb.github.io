@@ -20,7 +20,7 @@ Recent News
 
 <ul class="news-timeline">
   <li class="news-item">
-    <span class="news-date">March 2026</span>
+    <span class="news-date">April 2026</span>
     <p class="news-text">My abstract <em>&ldquo;Interactive Personalized AI for Physician-In-the-Loop 3D Tumor Segmentation on CT&rdquo;</em> has been <strong>accepted @ the 2026 Joint AAPM | COMP Annual Meeting &amp; Exhibition</strong>, Vancouver, BC, July 19&ndash;22, 2026.</p>
   </li>
   <li class="news-item">
