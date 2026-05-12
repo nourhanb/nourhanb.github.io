@@ -7,6 +7,26 @@ author_profile: true
 Here are some of the courses I have taught or served as a teaching assistant for during my career.
 
 <div class="section-group">
+<div class="section-heading">Teaching Credentials</div>
+
+<div class="course-row">
+  <span class="course-row__code">May 2026</span>
+  <div class="course-row__body">
+    <div class="course-row__name">CIRTL SoTL Workshop — <a href="/images/IMG_2712.jpeg" target="_blank">View certificate</a></div>
+    <div class="course-row__inst">UBC Centre for Teaching, Learning and Technology, in partnership with CIRTL</div>
+  </div>
+</div>
+
+<div class="course-row">
+  <span class="course-row__code">May 2025</span>
+  <div class="course-row__body">
+    <div class="course-row__name">CIRTL Associate — Foundations of Pedagogy — <a href="https://nourhanb.github.io/files/FoP%20Winter%202025%20Certificates%20FinalBGLYB_Part3.pdf" target="_blank">View certificate</a></div>
+    <div class="course-row__inst">Centre for the Integration of Research, Teaching and Learning (CIRTL), UBC</div>
+  </div>
+</div>
+</div>
+
+<div class="section-group">
 <div class="section-heading">Graduate Courses</div>
 
 <div class="course-row">
