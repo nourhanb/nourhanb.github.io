@@ -4,7 +4,7 @@ title: "Teaching & Course Highlights"
 author_profile: true
 ---
 
-Here are some of the courses I have taught or served as a teaching assistant for during my career.
+Here are some of the courses I have taught or served as a teaching assistant for during my career, along with my teaching credentials and selected faculty and student feedback.
 
 <div class="section-group">
 <div class="section-heading">Teaching Credentials</div>
