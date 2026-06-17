@@ -37,7 +37,7 @@ author_profile: true
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--arxiv">arXiv</span>
+      <span class="pub-badge pub-badge--conference">MICCAI 2026</span>
     </div>
     <div class="pub-card__title"><a href="https://arxiv.org/abs/2603.08906" target="_blank">Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift</a></div>
     <div class="pub-card__authors">Maziar Sabouri, <strong>Nourhan Bayasi</strong>, Arman Rahmim</div>

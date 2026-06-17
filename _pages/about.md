@@ -20,6 +20,10 @@ Recent News
 
 <ul class="news-timeline">
   <li class="news-item">
+    <span class="news-date">June 2026</span>
+    <p class="news-text"><em>Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift</em> has been <strong>accepted @ MICCAI 2026</strong>.</p>
+  </li>
+  <li class="news-item">
     <span class="news-date">May 2026</span>
     <p class="news-text">I had the privilege of completing the <strong>CIRTL SoTL Workshop</strong>, hosted in partnership with the <strong>UBC Centre for Teaching, Learning and Technology</strong>.
       <a href="/images/IMG_2712.jpeg" target="_blank">View certificate.</a></p>
