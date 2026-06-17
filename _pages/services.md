@@ -58,18 +58,10 @@ author_profile: true
 </div>
 
 <div class="entry-row">
-  <span class="entry-row__year">2024</span>
+  <span class="entry-row__year">2023–current</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Program Committee Member</strong></div>
-    <div class="entry-row__meta">9th ISIC Skin Image Analysis Workshop @ MICCAI</div>
-  </div>
-</div>
-
-<div class="entry-row">
-  <span class="entry-row__year">2023</span>
-  <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Program Committee Member</strong></div>
-    <div class="entry-row__meta">8th ISIC Skin Image Analysis Workshop @ MICCAI</div>
+    <div class="entry-row__meta">ISIC Skin Image Analysis Workshop @ MICCAI</div>
   </div>
 </div>
 </div>
