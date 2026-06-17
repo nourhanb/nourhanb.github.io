@@ -28,6 +28,14 @@ author_profile: true
 </div>
 
 <div class="entry-row">
+  <span class="entry-row__year">2026</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Judge · AI and Machine Learning Session</strong></div>
+    <div class="entry-row__meta">UBC Radiology Clinical &amp; Fundamental Science Research Day 2026</div>
+  </div>
+</div>
+
+<div class="entry-row">
   <span class="entry-row__year">2025–current</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Public Outreach and Membership Officer</strong> · <a href="https://miccai.org/index.php/about-miccai/women-in-miccai/board-of-directors/" target="_blank">Women in MICCAI</a></div>
