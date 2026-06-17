@@ -13,18 +13,18 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card__thumb-wrap">
-    <a href="http://nourhanb.github.io/images/dina_paper_2026.png" target="_blank">
-      <img class="pub-card__thumb" src="http://nourhanb.github.io/images/dina_paper_2026.png" alt="Paper figure">
+    <a href="http://nourhanb.github.io/images/maziar_paper_2026.png" target="_blank">
+      <img class="pub-card__thumb" src="http://nourhanb.github.io/images/maziar_paper_2026.png" alt="Paper figure">
     </a>
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--arxiv">arXiv</span>
+      <span class="pub-badge pub-badge--conference">MICCAI 2026</span>
     </div>
-    <div class="pub-card__title"><a href="https://arxiv.org/abs/2603.21095" target="_blank">Representation-Level Adversarial Regularization for Clinically Aligned Multitask Thyroid Ultrasound Assessment</a></div>
-    <div class="pub-card__authors">Dina Salama, Mohamed Mahmoud, <strong>Nourhan Bayasi</strong>, David Liu, Ilker Hacihaliloglu</div>
+    <div class="pub-card__title"><a href="https://arxiv.org/abs/2603.08906" target="_blank">Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift</a></div>
+    <div class="pub-card__authors">Maziar Sabouri, <strong>Nourhan Bayasi</strong>, Arman Rahmim</div>
     <div class="pub-card__links">
-      <a class="pub-card__link" href="https://arxiv.org/abs/2603.21095" target="_blank">Paper</a>
+      <a class="pub-card__link" href="https://arxiv.org/abs/2603.08906" target="_blank">Paper</a>
     </div>
   </div>
 </div>
@@ -49,18 +49,18 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card__thumb-wrap">
-    <a href="http://nourhanb.github.io/images/maziar_paper_2026.png" target="_blank">
-      <img class="pub-card__thumb" src="http://nourhanb.github.io/images/maziar_paper_2026.png" alt="Paper figure">
+    <a href="http://nourhanb.github.io/images/dina_paper_2026.png" target="_blank">
+      <img class="pub-card__thumb" src="http://nourhanb.github.io/images/dina_paper_2026.png" alt="Paper figure">
     </a>
   </div>
   <div class="pub-card__body">
     <div class="pub-card__badges">
-      <span class="pub-badge pub-badge--conference">MICCAI 2026</span>
+      <span class="pub-badge pub-badge--arxiv">arXiv</span>
     </div>
-    <div class="pub-card__title"><a href="https://arxiv.org/abs/2603.08906" target="_blank">Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift</a></div>
-    <div class="pub-card__authors">Maziar Sabouri, <strong>Nourhan Bayasi</strong>, Arman Rahmim</div>
+    <div class="pub-card__title"><a href="https://arxiv.org/abs/2603.21095" target="_blank">Representation-Level Adversarial Regularization for Clinically Aligned Multitask Thyroid Ultrasound Assessment</a></div>
+    <div class="pub-card__authors">Dina Salama, Mohamed Mahmoud, <strong>Nourhan Bayasi</strong>, David Liu, Ilker Hacihaliloglu</div>
     <div class="pub-card__links">
-      <a class="pub-card__link" href="https://arxiv.org/abs/2603.08906" target="_blank">Paper</a>
+      <a class="pub-card__link" href="https://arxiv.org/abs/2603.21095" target="_blank">Paper</a>
     </div>
   </div>
 </div>
