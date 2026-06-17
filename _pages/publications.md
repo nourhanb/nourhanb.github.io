@@ -39,8 +39,11 @@ author_profile: true
     <div class="pub-card__badges">
       <span class="pub-badge pub-badge--conference">AAPM | COMP 2026</span>
     </div>
-    <div class="pub-card__title">Interactive Personalized AI for Physician-In-the-Loop 3D Tumor Segmentation on CT</div>
+    <div class="pub-card__title"><a href="https://aapm.confex.com/aapm/2026am/meetingapp.cgi/Paper/24950" target="_blank">Interactive Personalized AI for Physician-In-the-Loop 3D Tumor Segmentation on CT</a></div>
     <div class="pub-card__authors"><strong>Nourhan Bayasi</strong>, Mahan Pouromidi, Fereshteh Yousefirizi, Arman Rahmim</div>
+    <div class="pub-card__links">
+      <a class="pub-card__link" href="https://aapm.confex.com/aapm/2026am/meetingapp.cgi/Paper/24950" target="_blank">Paper</a>
+    </div>
   </div>
 </div>
 
