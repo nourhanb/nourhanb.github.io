@@ -70,31 +70,7 @@ author_profile: true
 <div class="section-heading">Conference &amp; Journal Reviewing</div>
 
 <div class="entry-row">
-  <span class="entry-row__year">2026</span>
-  <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Reviewer</strong></div>
-    <div class="entry-row__meta">MICCAI · ECCV · NeurIPS</div>
-  </div>
-</div>
-
-<div class="entry-row">
-  <span class="entry-row__year">2025</span>
-  <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Reviewer &amp; Emergency Reviewer</strong></div>
-    <div class="entry-row__meta">MICCAI · WACV · MSB EMERGE Workshop @ MICCAI &nbsp;|&nbsp; Journals: Medical Image Analysis (MedIA) · IEEE TNNLS (A/E)</div>
-  </div>
-</div>
-
-<div class="entry-row">
-  <span class="entry-row__year">2024</span>
-  <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Reviewer</strong></div>
-    <div class="entry-row__meta">CVPR · MICCAI &nbsp;|&nbsp; Journals: Medical Image Analysis (MedIA) · IEEE TMI</div>
-  </div>
-</div>
-
-<div class="entry-row">
-  <span class="entry-row__year">2023</span>
+  <span class="entry-row__year">2022–current</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Reviewer</strong></div>
     <div class="entry-row__meta">MICCAI</div>
@@ -102,10 +78,34 @@ author_profile: true
 </div>
 
 <div class="entry-row">
-  <span class="entry-row__year">2023–2025</span>
+  <span class="entry-row__year">2022–current</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Reviewer</strong></div>
     <div class="entry-row__meta">ISIC Skin Image Analysis Workshop @ MICCAI</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2026</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Reviewer</strong></div>
+    <div class="entry-row__meta">ECCV · NeurIPS</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2025</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Reviewer &amp; Emergency Reviewer</strong></div>
+    <div class="entry-row__meta">WACV · MSB EMERGE Workshop @ MICCAI &nbsp;|&nbsp; Journals: Medical Image Analysis (MedIA) · IEEE TNNLS (A/E)</div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2024</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Reviewer</strong></div>
+    <div class="entry-row__meta">CVPR &nbsp;|&nbsp; Journals: Medical Image Analysis (MedIA) · IEEE TMI</div>
   </div>
 </div>
 </div>
