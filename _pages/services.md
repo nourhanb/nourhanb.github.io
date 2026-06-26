@@ -73,15 +73,7 @@ author_profile: true
   <span class="entry-row__year">2022–current</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Reviewer</strong></div>
-    <div class="entry-row__meta">MICCAI</div>
-  </div>
-</div>
-
-<div class="entry-row">
-  <span class="entry-row__year">2022–current</span>
-  <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Reviewer</strong></div>
-    <div class="entry-row__meta">ISIC Skin Image Analysis Workshop @ MICCAI</div>
+    <div class="entry-row__meta">MICCAI · ISIC Skin Image Analysis Workshop @ MICCAI</div>
   </div>
 </div>
 
