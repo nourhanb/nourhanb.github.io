@@ -21,7 +21,7 @@ Recent News
 <ul class="news-timeline">
   <li class="news-item">
     <span class="news-date">June 2026</span>
-    <p class="news-text"><em>&ldquo;Learning When a Segmentation Is Good Enough: Physician-Acceptance and Correction-Effort Modeling for AI-Clinician Interactive Segmentation&rdquo;</em> has been accepted as a <strong>Top Rated Oral Presentation @ EANM&rsquo;26</strong> (Annual Congress of the European Association of Nuclear Medicine).</p>
+    <p class="news-text"><em>Learning When a Segmentation Is Good Enough: Physician-Acceptance and Correction-Effort Modeling for AI-Clinician Interactive Segmentation</em> has been accepted as a <strong>Top Rated Oral Presentation @ EANM&rsquo;26</strong> (Annual Congress of the European Association of Nuclear Medicine).</p>
   </li>
   <li class="news-item">
     <span class="news-date">June 2026</span>
@@ -34,7 +34,7 @@ Recent News
   </li>
   <li class="news-item">
     <span class="news-date">April 2026</span>
-    <p class="news-text">My abstract <em>&ldquo;Interactive Personalized AI for Physician-In-the-Loop 3D Tumor Segmentation on CT&rdquo;</em> has been <strong>accepted @ the 2026 Joint AAPM | COMP Annual Meeting &amp; Exhibition</strong>, Vancouver, BC, July 19&ndash;22, 2026.</p>
+    <p class="news-text">My abstract <em>Interactive Personalized AI for Physician-In-the-Loop 3D Tumor Segmentation on CT</em> has been <strong>accepted @ the 2026 Joint AAPM | COMP Annual Meeting &amp; Exhibition</strong>, Vancouver, BC, July 19&ndash;22, 2026.</p>
   </li>
   <li class="news-item">
     <span class="news-date">March 2026</span>
@@ -46,7 +46,7 @@ Recent News
   </li>
   <li class="news-item">
     <span class="news-date">September 2025</span>
-    <p class="news-text">We secured the <strong>Best Paper Award (3rd Place)</strong> for our paper <em>“Foundation Models as Class-Incremental Learners for Dermatological Image Classification”</em> at the MICCAI EMERGE Workshop.</p>
+    <p class="news-text">We secured the <strong>Best Paper Award (3rd Place)</strong> for our paper <em>Foundation Models as Class-Incremental Learners for Dermatological Image Classification</em> at the MICCAI EMERGE Workshop.</p>
   </li>
   <li class="news-item">
     <span class="news-date">August 2025</span>
