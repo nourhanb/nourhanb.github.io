@@ -21,6 +21,10 @@ Recent News
 <ul class="news-timeline">
   <li class="news-item">
     <span class="news-date">June 2026</span>
+    <p class="news-text"><em>&ldquo;Learning When a Segmentation Is Good Enough: Physician-Acceptance and Correction-Effort Modeling for AI-Clinician Interactive Segmentation&rdquo;</em> has been accepted as a <strong>Top Rated Oral Presentation @ EANM&rsquo;26</strong> (Annual Congress of the European Association of Nuclear Medicine).</p>
+  </li>
+  <li class="news-item">
+    <span class="news-date">June 2026</span>
     <p class="news-text"><em>Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift</em> has been <strong>accepted @ MICCAI 2026</strong>.</p>
   </li>
   <li class="news-item">
