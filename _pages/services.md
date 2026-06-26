@@ -81,7 +81,7 @@ author_profile: true
   <span class="entry-row__year">2026</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Reviewer</strong></div>
-    <div class="entry-row__meta">ECCV · NeurIPS</div>
+    <div class="entry-row__meta">ECCV · NeurIPS &nbsp;|&nbsp; Journals: IEEE TMI</div>
   </div>
 </div>
 
