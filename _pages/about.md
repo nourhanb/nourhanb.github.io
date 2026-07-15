@@ -38,7 +38,7 @@ Recent News
   </li>
   <li class="news-item">
     <span class="news-date">April 2026</span>
-    <p class="news-text">My abstract <em>Interactive Personalized AI for Physician-In-the-Loop 3D Tumor Segmentation on CT</em> has been <strong>accepted @ the 2026 Joint AAPM | COMP Annual Meeting &amp; Exhibition</strong>, Vancouver, BC, July 19&ndash;22, 2026.</p>
+    <p class="news-text"><em>Interactive Personalized AI for Physician-In-the-Loop 3D Tumor Segmentation on CT</em> has been accepted as an <strong>Abstract @ the 2026 Joint AAPM | COMP Annual Meeting &amp; Exhibition</strong>, Vancouver, BC, July 19&ndash;22, 2026.</p>
   </li>
   <li class="news-item">
     <span class="news-date">March 2026</span>
