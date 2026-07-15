@@ -8,39 +8,45 @@ redirect_from:
   - /about.html
 ---
 
+<div class="stats-grid">
+  <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-book-open stats-card__icon"></i>
+    <span class="stats-card__number">35</span>
+    <span class="stats-card__label">Publications</span>
+  </a>
+  <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-quote-right stats-card__icon"></i>
+    <span class="stats-card__number">652</span>
+    <span class="stats-card__label">Citations</span>
+  </a>
+  <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-chart-line stats-card__icon"></i>
+    <span class="stats-card__number">14</span>
+    <span class="stats-card__label">h-index</span>
+  </a>
+  <div class="stats-card">
+    <i class="fas fa-lightbulb stats-card__icon"></i>
+    <span class="stats-card__number">2</span>
+    <span class="stats-card__label">Patents</span>
+  </div>
+  <a class="stats-card" href="/awards/">
+    <i class="fas fa-graduation-cap stats-card__icon"></i>
+    <span class="stats-card__number">7</span>
+    <span class="stats-card__label">Scholarships</span>
+  </a>
+  <a class="stats-card" href="/awards/">
+    <i class="fas fa-trophy stats-card__icon"></i>
+    <span class="stats-card__number">18</span>
+    <span class="stats-card__label">Awards</span>
+  </a>
+</div>
+
 I am a Postdoctoral Research Fellow at the [BC Cancer Research Institute](https://www.bccrc.ca/), working in the Quantitative Radiomolecular Imaging and Therapy ([Qurit](https://www.bccrc.ca/dept/io-programs/qurit/)) Lab under the supervision of [Arman Rahmim](https://scholar.google.com/citations?hl=en&user=mE6_284AAAAJ&view_op=list_works&sortby=pubdate). My research focuses on developing agentic, physician-in-the-loop AI systems, leveraging reinforcement learning to support clinical decision-making across tasks such as segmentation, classification, and survival prediction in multimodal medical imaging (CT, PET, SPECT, and ultrasound).
 
 Beyond research, I am committed to advancing AI education and mentoring the next generation of researchers. I founded Rising Scholars Hub ([RiSH](https://risingsh.github.io/website/)), a volunteer-led initiative that supports aspiring students in developing research skills and publishing their first scientific work.
 
 I also have extensive experience in teaching, curriculum development, and laboratory management, having served as an instructor, lab engineer, and teaching assistant. My work spans designing training materials, supervising projects, and delivering high-quality instruction across both in-person and online environments. In parallel, I have gained industry experience as a Machine Learning Engineer Intern at [Cognia AI](https://www.cognia.ca/) and as an HPC Expert Intern at [Ankabut](https://www.ankabut.ae/).
 
-
-<div class="stats-strip">
-  <div class="stats-strip__item">
-    <span class="stats-strip__number">35</span>
-    <span class="stats-strip__label">Publications</span>
-  </div>
-  <div class="stats-strip__item">
-    <span class="stats-strip__number">652</span>
-    <span class="stats-strip__label">Citations</span>
-  </div>
-  <div class="stats-strip__item">
-    <span class="stats-strip__number">14</span>
-    <span class="stats-strip__label">h-index</span>
-  </div>
-  <div class="stats-strip__item">
-    <span class="stats-strip__number">2</span>
-    <span class="stats-strip__label">Patents</span>
-  </div>
-  <div class="stats-strip__item">
-    <span class="stats-strip__number">7</span>
-    <span class="stats-strip__label">Scholarships</span>
-  </div>
-  <div class="stats-strip__item">
-    <span class="stats-strip__number">18</span>
-    <span class="stats-strip__label">Awards</span>
-  </div>
-</div>
 
 Recent News
 -----------
