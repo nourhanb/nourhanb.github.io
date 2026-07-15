@@ -15,6 +15,33 @@ Beyond research, I am committed to advancing AI education and mentoring the next
 I also have extensive experience in teaching, curriculum development, and laboratory management, having served as an instructor, lab engineer, and teaching assistant. My work spans designing training materials, supervising projects, and delivering high-quality instruction across both in-person and online environments. In parallel, I have gained industry experience as a Machine Learning Engineer Intern at [Cognia AI](https://www.cognia.ca/) and as an HPC Expert Intern at [Ankabut](https://www.ankabut.ae/).
 
 
+<div class="stats-strip">
+  <div class="stats-strip__item">
+    <span class="stats-strip__number">35</span>
+    <span class="stats-strip__label">Publications</span>
+  </div>
+  <div class="stats-strip__item">
+    <span class="stats-strip__number">652</span>
+    <span class="stats-strip__label">Citations</span>
+  </div>
+  <div class="stats-strip__item">
+    <span class="stats-strip__number">14</span>
+    <span class="stats-strip__label">h-index</span>
+  </div>
+  <div class="stats-strip__item">
+    <span class="stats-strip__number">2</span>
+    <span class="stats-strip__label">Patents</span>
+  </div>
+  <div class="stats-strip__item">
+    <span class="stats-strip__number">7</span>
+    <span class="stats-strip__label">Scholarships</span>
+  </div>
+  <div class="stats-strip__item">
+    <span class="stats-strip__number">18</span>
+    <span class="stats-strip__label">Awards</span>
+  </div>
+</div>
+
 Recent News
 -----------
 
