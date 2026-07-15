@@ -12,7 +12,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 <div class="course-row">
   <span class="course-row__code">May 2026</span>
   <div class="course-row__body">
-    <div class="course-row__name">CIRTL SoTL Workshop — <a href="/images/IMG_2712.jpeg" target="_blank">View certificate</a></div>
+    <div class="course-row__name">CIRTL SoTL Workshop - <a href="/images/IMG_2712.jpeg" target="_blank">View certificate</a></div>
     <div class="course-row__inst">UBC Centre for Teaching, Learning and Technology, in partnership with CIRTL</div>
   </div>
 </div>
@@ -20,7 +20,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 <div class="course-row">
   <span class="course-row__code">May 2025</span>
   <div class="course-row__body">
-    <div class="course-row__name">CIRTL Associate — Foundations of Pedagogy — <a href="https://nourhanb.github.io/files/FoP%20Winter%202025%20Certificates%20FinalBGLYB_Part3.pdf" target="_blank">View certificate</a></div>
+    <div class="course-row__name">CIRTL Associate - Foundations of Pedagogy - <a href="https://nourhanb.github.io/files/FoP%20Winter%202025%20Certificates%20FinalBGLYB_Part3.pdf" target="_blank">View certificate</a></div>
     <div class="course-row__inst">Centre for the Integration of Research, Teaching and Learning (CIRTL), UBC</div>
   </div>
 </div>
@@ -141,7 +141,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 ---
 
 <div id="elec291-feedback" class="feedback-box">
-  <div class="feedback-box__title">ELEC 291 — Faculty Feedback</div>
+  <div class="feedback-box__title">ELEC 291 - Faculty Feedback</div>
   <div class="feedback-box__links">
     <a class="feedback-box__link" href="http://nourhanb.github.io/files/Form_TA Evaluation - Nourhan - ELEC 291.pdf" target="_blank">
       <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF"> Faculty Feedback (PDF)
@@ -153,7 +153,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 </div>
 
 <div id="elec201-feedback" class="feedback-box">
-  <div class="feedback-box__title">ELEC 201 — Student &amp; Faculty Feedback</div>
+  <div class="feedback-box__title">ELEC 201 - Student &amp; Faculty Feedback</div>
   <div class="feedback-box__links">
     <a href="http://nourhanb.github.io/images/TA_FD_1.png" target="_blank">
       <img src="http://nourhanb.github.io/images/TA_FD_1.png" alt="Student Feedback 1" style="width:180px;height:auto;border-radius:6px;">
@@ -170,7 +170,7 @@ Here are some of the courses I have taught or served as a teaching assistant for
 </div>
 
 <div id="robotics-feedback" class="feedback-box">
-  <div class="feedback-box__title">Robotics — Student Feedback</div>
+  <div class="feedback-box__title">Robotics - Student Feedback</div>
   <div class="feedback-box__links">
     <a class="feedback-box__link" href="http://nourhanb.github.io/files/Appreciation letter.pdf" target="_blank">
       <img src="http://nourhanb.github.io/images/pdf-icon.png" alt="PDF"> Robotics Feedback (PDF)

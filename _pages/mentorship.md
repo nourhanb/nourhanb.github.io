@@ -6,7 +6,7 @@ author_profile: true
 
 <div class="feature-card">
   <div class="feature-card__title">🎓 <a href="https://risingsh.github.io/website/" target="_blank">Rising Scholars Hub (RiSH)</a></div>
-  <div class="feature-card__desc">I founded RiSH to support ambitious students and early-career researchers — especially from underrepresented regions — in publishing their first research paper. RiSH is a free, volunteer-led initiative that provides step-by-step guidance and personalized mentorship from experienced researchers.</div>
+  <div class="feature-card__desc">I founded RiSH to support ambitious students and early-career researchers - especially from underrepresented regions - in publishing their first research paper. RiSH is a free, volunteer-led initiative that provides step-by-step guidance and personalized mentorship from experienced researchers.</div>
   <ul class="feature-card__list">
     <li>Structured mentorship from idea to submission: literature review, problem formulation, experimental design, writing, and navigating the publication process.</li>
     <li>Support for first-time authors, with an emphasis on researchers from the Middle East, Africa, and South America.</li>

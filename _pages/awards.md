@@ -206,7 +206,7 @@ author_profile: true
 <div class="entry-row">
   <span class="entry-row__year">2013</span>
   <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Leadership Award — Best Student Category</strong></div>
+    <div class="entry-row__title"><strong>Leadership Award - Best Student Category</strong></div>
     <div class="entry-row__meta">Khalifa University, UAE</div>
   </div>
 </div>
