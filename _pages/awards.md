@@ -19,7 +19,7 @@ author_profile: true
   <span class="entry-row__year">2025</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Best Paper Award (3rd place)</strong></div>
-    <div class="entry-row__meta">EMERGE @ MICCAI 2025</div>
+    <div class="entry-row__meta">EMERGE @ MICCAI 2025 · South Korea</div>
   </div>
 </div>
 
@@ -27,7 +27,7 @@ author_profile: true
   <span class="entry-row__year">2024</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Runner-Up, Women in MICCAI (WiM) Best Oral Presentation Award</strong></div>
-    <div class="entry-row__meta">MICCAI 2024</div>
+    <div class="entry-row__meta">MICCAI 2024 · Morocco</div>
   </div>
 </div>
 
@@ -35,7 +35,7 @@ author_profile: true
   <span class="entry-row__year">2024</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Winner, Women in MICCAI (WiM) Best Health Equity Paper Award</strong></div>
-    <div class="entry-row__meta">MICCAI 2024</div>
+    <div class="entry-row__meta">MICCAI 2024 · Morocco</div>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ author_profile: true
   <span class="entry-row__year">2024</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Shortlisted for MICCAI Best Paper Award and MICCAI Young Scientist</strong></div>
-    <div class="entry-row__meta">MICCAI 2024</div>
+    <div class="entry-row__meta">MICCAI 2024 · Morocco</div>
   </div>
 </div>
 
@@ -51,7 +51,7 @@ author_profile: true
   <span class="entry-row__year">2023</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Best Paper Award</strong></div>
-    <div class="entry-row__meta">8th ISIC Skin Image Analysis Workshop @ MICCAI 2023</div>
+    <div class="entry-row__meta">8th ISIC Skin Image Analysis Workshop @ MICCAI 2023 · Canada</div>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ author_profile: true
   <span class="entry-row__year">2022</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Best Paper Award</strong></div>
-    <div class="entry-row__meta">7th ISIC Skin Image Analysis Workshop @ ECCV 2022</div>
+    <div class="entry-row__meta">7th ISIC Skin Image Analysis Workshop @ ECCV 2022 · Tel Aviv, Israel</div>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ author_profile: true
   <span class="entry-row__year">2016</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Best Paper Award</strong></div>
-    <div class="entry-row__meta">IEEE Transactions on Very Large Scale Integration</div>
+    <div class="entry-row__meta">IEEE Transactions on Very Large Scale Integration · USA</div>
   </div>
 </div>
 
@@ -103,7 +103,7 @@ author_profile: true
   <span class="entry-row__year">2024</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Borealis AI Fellowship</strong></div>
-    <div class="entry-row__meta">RBC Borealis</div>
+    <div class="entry-row__meta">RBC Borealis · Canada</div>
   </div>
 </div>
 
@@ -195,7 +195,7 @@ author_profile: true
   <span class="entry-row__year">2024</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Society Registration Grant</strong></div>
-    <div class="entry-row__meta">MICCAI 2024</div>
+    <div class="entry-row__meta">MICCAI 2024 · Morocco</div>
   </div>
 </div>
 </div>
