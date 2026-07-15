@@ -25,6 +25,10 @@ Recent News
   </li>
   <li class="news-item">
     <span class="news-date">June 2026</span>
+    <p class="news-text"><em>Uptake versus Tumor Burden in Predicting Early Biochemical Response: A SPARC-Aligned PSMA PET Study</em> has been accepted as a <strong>Poster @ EANM&rsquo;26</strong> (Annual Congress of the European Association of Nuclear Medicine).</p>
+  </li>
+  <li class="news-item">
+    <span class="news-date">June 2026</span>
     <p class="news-text"><em>Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift</em> has been <strong>accepted @ MICCAI 2026</strong>.</p>
   </li>
   <li class="news-item">
