@@ -59,7 +59,7 @@ author_profile: true
   <span class="entry-row__year">2022</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Best Paper Award</strong></div>
-    <div class="entry-row__meta">7th ISIC Skin Image Analysis Workshop @ ECCV 2022 · Tel Aviv, Israel</div>
+    <div class="entry-row__meta">7th ISIC Skin Image Analysis Workshop @ ECCV 2022</div>
   </div>
 </div>
 
