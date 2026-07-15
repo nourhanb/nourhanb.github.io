@@ -8,6 +8,14 @@ author_profile: true
 <div class="section-heading">Best Paper &amp; Presentation Awards</div>
 
 <div class="entry-row">
+  <span class="entry-row__year">2026</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Shortlisted, NSERC and L'Oréal-UNESCO For Women in Science Supplement</strong></div>
+    <div class="entry-row__meta">Invited as the top-ranked woman candidate from an NSERC Canada Postdoctoral Research Award Review Committee · Canada</div>
+  </div>
+</div>
+
+<div class="entry-row">
   <span class="entry-row__year">2025</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Best Paper Award (3rd place)</strong></div>
@@ -84,6 +92,14 @@ author_profile: true
 <div class="section-heading">Fellowships &amp; Major Scholarships</div>
 
 <div class="entry-row">
+  <span class="entry-row__year">2026–2028</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Canada Postdoctoral Research Award (CPRA)</strong></div>
+    <div class="entry-row__meta">NSERC Canada</div>
+  </div>
+</div>
+
+<div class="entry-row">
   <span class="entry-row__year">2024</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Borealis AI Fellowship</strong></div>
@@ -108,7 +124,7 @@ author_profile: true
 </div>
 
 <div class="entry-row">
-  <span class="entry-row__year">2020–2025</span>
+  <span class="entry-row__year">2020–2023</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Scholarship Award</strong></div>
     <div class="entry-row__meta">PhD Studies · University of British Columbia, Canada</div>
@@ -170,8 +186,8 @@ author_profile: true
 <div class="entry-row">
   <span class="entry-row__year">2021</span>
   <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Travel Award</strong></div>
-    <div class="entry-row__meta">MICCAI Student Travel Grant</div>
+    <div class="entry-row__title"><strong>Student Registration Grant</strong></div>
+    <div class="entry-row__meta">MICCAI 2021 · France</div>
   </div>
 </div>
 
@@ -198,7 +214,7 @@ author_profile: true
 <div class="entry-row">
   <span class="entry-row__year">2009–2013</span>
   <div class="entry-row__body">
-    <div class="entry-row__title"><strong>President Award</strong></div>
+    <div class="entry-row__title"><strong>President List Award</strong></div>
     <div class="entry-row__meta">College of Engineering · Khalifa University, UAE</div>
   </div>
 </div>
