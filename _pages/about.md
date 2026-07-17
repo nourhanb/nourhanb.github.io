@@ -16,7 +16,7 @@ redirect_from:
   </a>
   <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-quote-right stats-card__icon"></i>
-    <span class="stats-card__number">652</span>
+    <span class="stats-card__number">660</span>
     <span class="stats-card__label">Citations</span>
   </a>
   <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
