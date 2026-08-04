@@ -16,12 +16,12 @@ redirect_from:
   </a>
   <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-quote-right stats-card__icon"></i>
-    <span class="stats-card__number">660</span>
+    <span class="stats-card__number">670</span>
     <span class="stats-card__label">Citations</span>
   </a>
   <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-chart-line stats-card__icon"></i>
-    <span class="stats-card__number">14</span>
+    <span class="stats-card__number">15</span>
     <span class="stats-card__label">h-index</span>
   </a>
   <div class="stats-card">
