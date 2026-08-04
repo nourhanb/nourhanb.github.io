@@ -11,7 +11,7 @@ redirect_from:
 <div class="stats-grid">
   <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-book-open stats-card__icon"></i>
-    <span class="stats-card__number">35</span>
+    <span class="stats-card__number">36</span>
     <span class="stats-card__label">Publications</span>
   </a>
   <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
