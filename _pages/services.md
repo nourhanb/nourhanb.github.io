@@ -36,6 +36,13 @@ author_profile: true
 </div>
 
 <div class="entry-row">
+  <span class="entry-row__year">2026</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Judge</strong> · Canadian Undergraduate Medical Physics Conference (CUMPC) 2026 - <a href="/images/Volunteering_Cert_CUMPC_Nourhan.jpg" target="_blank">View certificate</a></div>
+  </div>
+</div>
+
+<div class="entry-row">
   <span class="entry-row__year">2025–current</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Public Outreach and Membership Officer</strong> · <a href="https://miccai.org/index.php/about-miccai/women-in-miccai/board-of-directors/" target="_blank">Women in MICCAI</a></div>
