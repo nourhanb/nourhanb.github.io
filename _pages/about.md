@@ -54,6 +54,10 @@ Recent News
 <ul class="news-timeline">
   <li class="news-item">
     <span class="news-date">September 2026</span>
+    <p class="news-text">Excited to share that I have been selected as a <strong>finalist</strong> for <strong>PhD Thesis Madness @ MICCAI 2026</strong>, Strasbourg, France. Looking forward to presenting on September 29, 2026, 12:30&ndash;13:30!</p>
+  </li>
+  <li class="news-item">
+    <span class="news-date">September 2026</span>
     <p class="news-text"><em>Learning to Reason Over Physician Corrections: An Interactive Agentic Framework for 3D Tumor Segmentation</em> has been <strong>accepted @ CLiMeM Workshop @ MICCAI 2026</strong>, Strasbourg, France, September 27&ndash;October 1, 2026.</p>
   </li>
   <li class="news-item">
