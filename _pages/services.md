@@ -28,6 +28,28 @@ author_profile: true
 </div>
 
 <div class="entry-row">
+  <span class="entry-row__year">2025–current</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Public Outreach and Membership Officer</strong> · <a href="https://miccai.org/index.php/about-miccai/women-in-miccai/board-of-directors/" target="_blank">Women in MICCAI</a></div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2025–current</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Doctoral Programs Officer</strong> · <a href="https://miccai-sb.github.io/organization.html" target="_blank">MICCAI Student Board</a></div>
+  </div>
+</div>
+
+<div class="entry-row">
+  <span class="entry-row__year">2023–current</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Program Committee Member</strong></div>
+    <div class="entry-row__meta">ISIC Skin Image Analysis Workshop @ MICCAI</div>
+  </div>
+</div>
+
+<div class="entry-row">
   <span class="entry-row__year">2026</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Judge · AI and Machine Learning Session</strong></div>
@@ -43,32 +65,10 @@ author_profile: true
 </div>
 
 <div class="entry-row">
-  <span class="entry-row__year">2025–current</span>
-  <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Public Outreach and Membership Officer</strong> · <a href="https://miccai.org/index.php/about-miccai/women-in-miccai/board-of-directors/" target="_blank">Women in MICCAI</a></div>
-  </div>
-</div>
-
-<div class="entry-row">
-  <span class="entry-row__year">2025–current</span>
-  <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Doctoral Programs Officer</strong> · <a href="https://miccai-sb.github.io/organization.html" target="_blank">MICCAI Student Board</a></div>
-  </div>
-</div>
-
-<div class="entry-row">
   <span class="entry-row__year">2025</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Scientific Member</strong></div>
     <div class="entry-row__meta">11th Workshop on Medical Computer Vision @ CVPR</div>
-  </div>
-</div>
-
-<div class="entry-row">
-  <span class="entry-row__year">2023–current</span>
-  <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Program Committee Member</strong></div>
-    <div class="entry-row__meta">ISIC Skin Image Analysis Workshop @ MICCAI</div>
   </div>
 </div>
 </div>
