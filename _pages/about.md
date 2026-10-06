@@ -53,6 +53,18 @@ Recent News
 
 <ul class="news-timeline">
   <li class="news-item">
+    <span class="news-date">October 2026</span>
+    <p class="news-text"><em>Prostate-Specific Membrane Antigen PET/CT Segmentation Guided by Vision-Language Models Embedding Clinical Report Semantics</em> has been <strong>accepted @ The Journal of Nuclear Medicine</strong>.</p>
+  </li>
+  <li class="news-item">
+    <span class="news-date">October 2026</span>
+    <p class="news-text">Excited to share that I have been appointed as a <strong>Guest Editor</strong> at <strong>MELBA</strong> (Machine Learning for Biomedical Imaging)!</p>
+  </li>
+  <li class="news-item">
+    <span class="news-date">September 2026</span>
+    <p class="news-text">Happy to share that I chaired the <strong>CLiMeM Workshop @ MICCAI 2026</strong> in Strasbourg, France - it was a great success!</p>
+  </li>
+  <li class="news-item">
     <span class="news-date">September 2026</span>
     <p class="news-text">Excited to share that I have been selected as a <strong>finalist</strong> for <strong>PhD Thesis Madness @ MICCAI 2026</strong>, Strasbourg, France. Looking forward to presenting on September 29, 2026, 12:30&ndash;13:30!</p>
   </li>

@@ -28,6 +28,13 @@ author_profile: true
 </div>
 
 <div class="entry-row">
+  <span class="entry-row__year">2026–current</span>
+  <div class="entry-row__body">
+    <div class="entry-row__title"><strong>Guest Editor</strong> · MELBA (Machine Learning for Biomedical Imaging)</div>
+  </div>
+</div>
+
+<div class="entry-row">
   <span class="entry-row__year">2025–current</span>
   <div class="entry-row__body">
     <div class="entry-row__title"><strong>Public Outreach and Membership Officer</strong> · <a href="https://miccai.org/index.php/about-miccai/women-in-miccai/board-of-directors/" target="_blank">Women in MICCAI</a></div>
