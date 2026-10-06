@@ -22,7 +22,7 @@ author_profile: true
 <div class="entry-row">
   <span class="entry-row__year">2026–current</span>
   <div class="entry-row__body">
-    <div class="entry-row__title"><strong>Workshop Lead &amp; Organizer</strong> · <a href="https://climem.github.io/CLiMeM/index.html" target="_blank">CLiMeM: Continual Learning in Medical Multimodal-Vision</a></div>
+    <div class="entry-row__title"><strong>Workshop Lead, Organizer &amp; Chair</strong> · <a href="https://climem.github.io/CLiMeM/index.html" target="_blank">CLiMeM: Continual Learning in Medical Multimodal-Vision</a></div>
     <div class="entry-row__meta">@ MICCAI 2026</div>
   </div>
 </div>
