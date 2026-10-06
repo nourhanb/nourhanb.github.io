@@ -11,12 +11,12 @@ redirect_from:
 <div class="stats-grid">
   <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-book-open stats-card__icon"></i>
-    <span class="stats-card__number">36</span>
+    <span class="stats-card__number">38</span>
     <span class="stats-card__label">Publications</span>
   </a>
   <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-quote-right stats-card__icon"></i>
-    <span class="stats-card__number">670</span>
+    <span class="stats-card__number">700</span>
     <span class="stats-card__label">Citations</span>
   </a>
   <a class="stats-card" href="https://scholar.google.com/citations?user=M-hb1W0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
