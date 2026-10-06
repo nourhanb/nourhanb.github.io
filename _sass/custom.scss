@@ -191,6 +191,202 @@ body {
   }
 }
 
+/* Recent News: categories, colors and filters */
+$news-categories: (
+  pub: #2563eb,
+  award: #d97706,
+  talk: #db2777,
+  service: #7c3aed,
+  teaching: #059669,
+  milestone: $primary-color
+);
+
+.news-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1rem 0 0.25rem;
+
+  @media (max-width: 600px) {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 0.35rem;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}
+
+.news-chip {
+  --chip-color: #{$darker-gray};
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-shrink: 0;
+  padding: 0.35rem 0.5rem 0.35rem 0.75rem;
+  font-family: inherit;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1;
+  color: $dark-gray;
+  background: #fff;
+  border: 1px solid $lighter-gray;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
+
+  i {
+    font-size: 0.75rem;
+    color: var(--chip-color);
+    transition: color 0.15s ease;
+  }
+
+  &:hover {
+    border-color: var(--chip-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--chip-color);
+    outline-offset: 2px;
+  }
+
+  &[aria-pressed="true"] {
+    color: #fff;
+    background: var(--chip-color);
+    border-color: var(--chip-color);
+
+    i {
+      color: #fff;
+    }
+
+    .news-chip__count {
+      color: var(--chip-color);
+      background: #fff;
+    }
+  }
+}
+
+.news-chip__count {
+  min-width: 1.4rem;
+  padding: 0.2rem 0.35rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-align: center;
+  color: $gray;
+  background: #f3f4f6;
+  border-radius: 999px;
+}
+
+.news-tags {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin: 0 0 0.35rem;
+}
+
+.news-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-radius: 999px;
+
+  i {
+    font-size: 0.6rem;
+  }
+}
+
+.news-timeline .news-year {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: block;
+  padding: 0.55rem 0 0.35rem 1.75rem;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: $light-gray;
+  background: rgba(255, 255, 255, 0.96);
+  border-bottom: 1px solid $lighter-gray;
+  text-align: left !important;
+}
+
+.news-timeline .news-item[hidden],
+.news-timeline .news-year[hidden],
+.news-empty[hidden] {
+  display: none !important;
+}
+
+.news-item {
+  transition: background 0.15s ease;
+
+  .news-date {
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
+}
+
+@each $key, $color in $news-categories {
+  .news-chip--#{$key} {
+    --chip-color: #{$color};
+  }
+
+  .news-tag--#{$key} {
+    color: $color;
+    background: rgba($color, 0.1);
+  }
+
+  .news-item[data-cat^="#{$key}"] {
+    &::before {
+      background: $color;
+      box-shadow: 0 0 0 1px $color;
+    }
+
+    .news-date {
+      color: $color;
+    }
+
+    &:hover {
+      background: linear-gradient(90deg, rgba($color, 0.06), rgba($color, 0));
+    }
+  }
+}
+
+.news-timeline:not([data-active="all"]) .news-item:not([hidden]) {
+  animation: news-fade-in 0.25s ease both;
+}
+
+@keyframes news-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .news-timeline .news-item:not([hidden]) {
+    animation: none;
+  }
+}
+
+.news-empty {
+  margin: 1rem 0 0;
+  font-size: 0.9rem;
+  color: $gray;
+  font-style: italic;
+}
+
 /* ---- Publications cards ---- */
 /* Scope under .page__content to beat base-theme specificity */
 

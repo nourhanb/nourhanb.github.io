@@ -51,209 +51,215 @@ I also have extensive experience in teaching, curriculum development, and labora
 Recent News
 -----------
 
+<div class="news-filters" role="toolbar" aria-label="Filter news by category"></div>
+
 <ul class="news-timeline">
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">October 2026</span>
     <p class="news-text"><em>Prostate-Specific Membrane Antigen PET/CT Segmentation Guided by Vision-Language Models Embedding Clinical Report Semantics</em> has been <strong>accepted @ The Journal of Nuclear Medicine</strong>.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="service">
     <span class="news-date">October 2026</span>
     <p class="news-text">Excited to share that I have been appointed as a <strong>Guest Editor</strong> at <strong>MELBA</strong> (Machine Learning for Biomedical Imaging)!</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="service">
     <span class="news-date">September 2026</span>
     <p class="news-text">Happy to share that I chaired the <strong>CLiMeM Workshop @ MICCAI 2026</strong> in Strasbourg, France - it was a great success!</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="talk award">
     <span class="news-date">September 2026</span>
     <p class="news-text">Excited to share that I have been selected as a <strong>finalist</strong> for <strong>PhD Thesis Madness @ MICCAI 2026</strong>, Strasbourg, France. Looking forward to presenting on September 29, 2026, 12:30&ndash;13:30!</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">September 2026</span>
     <p class="news-text"><em>Learning to Reason Over Physician Corrections: An Interactive Agentic Framework for 3D Tumor Segmentation</em> has been <strong>accepted @ CLiMeM Workshop @ MICCAI 2026</strong>, Strasbourg, France, September 27&ndash;October 1, 2026.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub talk">
     <span class="news-date">June 2026</span>
     <p class="news-text"><em>Learning When a Segmentation Is Good Enough: Physician-Acceptance and Correction-Effort Modeling for AI-Clinician Interactive Segmentation</em> has been accepted as a <strong>Top Rated Oral Presentation @ EANM&rsquo;26</strong> (Annual Congress of the European Association of Nuclear Medicine), Vienna, Austria, October 17&ndash;21, 2026.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">June 2026</span>
     <p class="news-text"><em>Uptake versus Tumor Burden in Predicting Early Biochemical Response: A SPARC-Aligned PSMA PET Study</em> has been accepted as a <strong>Poster @ EANM&rsquo;26</strong> (Annual Congress of the European Association of Nuclear Medicine), Vienna, Austria, October 17&ndash;21, 2026.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">June 2026</span>
     <p class="news-text"><em>Multi-Kernel Gated Decoder Adapters for Robust Multi-Task Thyroid Ultrasound under Cross-Center Shift</em> has been <strong>accepted @ MICCAI 2026</strong>, Strasbourg, France, September 27&ndash;October 1, 2026.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="teaching">
     <span class="news-date">May 2026</span>
     <p class="news-text">I had the privilege of completing the <strong>CIRTL SoTL Workshop</strong>, hosted in partnership with the <strong>UBC Centre for Teaching, Learning and Technology</strong>.
       <a href="/images/IMG_2712.jpeg" target="_blank">View certificate.</a></p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">April 2026</span>
     <p class="news-text"><em>Interactive Personalized AI for Physician-In-the-Loop 3D Tumor Segmentation on CT</em> has been accepted as an <strong>Abstract @ the 2026 Joint AAPM | COMP Annual Meeting &amp; Exhibition</strong>, Vancouver, BC, July 19&ndash;22, 2026.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="service">
     <span class="news-date">March 2026</span>
     <p class="news-text">Happy to share that I’m resuming my role as <strong>Doctoral Programs Officer</strong> at <strong>MICCAI 2026 Student Board</strong>!</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="service">
     <span class="news-date">February 2026</span>
     <p class="news-text">Excited to share that my first workshop proposal has been accepted. <strong><a href="https://climem.github.io/CLiMeM/index.html" target="_blank" rel="noopener noreferrer">CLiMeM: Continual Learning in Medical Multimodal-Vision</a></strong> is coming to MICCAI 2026.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="award">
     <span class="news-date">September 2025</span>
     <p class="news-text">We secured the <strong>Best Paper Award (3rd Place)</strong> for our paper <em>Foundation Models as Class-Incremental Learners for Dermatological Image Classification</em> at the MICCAI EMERGE Workshop.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">August 2025</span>
     <p class="news-text"><em>BiasPruner: Mitigating bias transfer in continual learning for fair medical image analysis</em> has been <strong>accepted @ Medical Image Analysis Journal (IF 11.8)</strong>.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">July 2025</span>
     <p class="news-text"><em>LesionGen: A Concept-Guided Diffusion Model for Dermatology Image Synthesis</em> has been <strong>accepted @ MICCAI ISIC Skin Image Analysis Workshop 2025</strong>.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">July 2025</span>
     <p class="news-text"><em>Foundation models as class-incremental learners for dermatological image classification</em> has been <strong>accepted @ MICCAI EMERGE Workshop 2025</strong>.</p>
   </li>
 
-  <li class="news-item">
+  <li class="news-item" data-cat="milestone">
     <span class="news-date">July 2025</span>
     <p class="news-text">  I’m thrilled to be starting as a postdoctoral research fellow at BC Cancer in Vancouver, where I’ll be joining the 
   Quantitative Radiomolecular Imaging and Therapy (<a href="https://www.bccrc.ca/dept/io-programs/qurit/" target="_blank">Qurit</a>) Lab (Cure-It!) 
   to advance AI-driven imaging and therapy for improved cancer care.</p>
   </li>
 
-  <li class="news-item">
+  <li class="news-item" data-cat="teaching">
     <span class="news-date">May 2025</span>
     <p class="news-text">I’m excited to announce that I’ve successfully completed the Foundations of Pedagogy course through the Centre for the Integration of Research, Teaching and Learning (CIRTL) at UBC, and with it, I have become a <strong>CIRTL Associate</strong>!
       <a href="https://nourhanb.github.io/files/FoP%20Winter%202025%20Certificates%20FinalBGLYB_Part3.pdf" target="_blank">View certificate.</a></p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="milestone">
     <span class="news-date">February 2025</span>
     <p class="news-text">Thrilled to announce that I have successfully defended my PhD thesis! 
     <a href="https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0448180" target="_blank">Read it here.</a></p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="teaching">
     <span class="news-date">February 2025</span>
     <p class="news-text">Excited to start the <strong>Foundations of Pedagogy</strong> course through the Centre for the Integration of Research, Teaching and Learning (CIRTL) at UBC! This course explores key principles of effective teaching, learning theories, and best practices for fostering student engagement. Looking forward to gaining new insights and applying them to my teaching!</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="service">
     <span class="news-date">December 2024</span>
     <p class="news-text">Thrilled to be selected as a new member of the MICCAI Student Board 2025 for the position of <strong>Doctoral Programs Officer</strong>.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="award">
     <span class="news-date">December 2024</span>
     <p class="news-text"><strong>Scholarship Spotlight!</strong> Thrilled to be featured on Global Scholarships, a platform dedicated to empowering international students and sharing their inspiring scholarship success stories. 
       <a href="https://globalscholarships.com/scholarship-posts/nourhan-bayasi/" style="color: blue;">Read more</a>
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="award">
     <span class="news-date">November 2024</span>
     <p class="news-text"><strong>Proud to be Named a 2023-2024 Borealis AI Fellowship Recipient</strong> for Pioneering Research Advancing the Frontiers of Machine Learning and Artificial Intelligence. Thank you, RBC Borealis! 
       <a href="https://rbcborealis.com/news/celebrating-the-future-of-ai-meet-our-new-fellows/" style="color: blue;">Read more</a>
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">October 2024</span>
     <p class="news-text"><em>Debiasify: Self-Distillation for Unsupervised Bias Mitigation</em> has been <strong>accepted @ WACV 2025</strong>.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="service">
     <span class="news-date">October 2024</span>
     <p class="news-text">I am honored to join <strong>the 11th Workshop on Medical Computer Vision @ CVPR 2025</strong> as a program committee member.</p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="award">
     <span class="news-date">October 2024</span>
     <p class="news-text">      <strong>BiasPruner Recognized!</strong> Our work <em>BiasPruner</em> was awarded 
       <strong>Winner of the WiM Best Health Equity Paper</strong>, <strong>Runner-Up of the WiM Best Oral Presentation Award</strong>, and shortlisted for the 
       <strong>MICCAI Best Paper Award</strong> and <strong>MICCAI Young Scientist Award</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="talk">
     <span class="news-date">September 2024</span>
     <p class="news-text">      <strong>BiasPruner</strong> was selected for an <strong>oral presentation @ MICCAI 2024 in Morocco</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">May 2024</span>
     <p class="news-text">      <em>BiasPruner: Debiased Continual Learning for Medical Image Classification</em> has been <strong>accepted @ MICCAI 2024</strong> 
       (<strong>EARLY ACCEPT</strong>!).
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">May 2024</span>
     <p class="news-text">      <em>GC2: Generalizable Continual Classification of Medical Images</em> has been 
       <strong>accepted @ IEEE Transactions on Medical Imaging (TMI) 2024</strong> (IF~10).
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="milestone">
     <span class="news-date">May 2024</span>
     <p class="news-text">      <strong>Excited to join CogniaAI</strong> as a Machine Learning Engineer Intern.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">April 2024</span>
     <p class="news-text">      <em>Continual-Zoo: Leveraging Zoo Models for Continual Classification of Medical Images</em> has been <strong>accepted @ CLVISION-Workshop @ CVPR 2024</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="milestone">
     <span class="news-date">December 2023</span>
     <p class="news-text">      <strong>Selected as a mentee</strong> in <a href="https://bme.ubc.ca/sbme-career-accelerator/">SBME's Career Accelerator</a>, in partnership with STEMCELL Technologies and Advice to a Scientist.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="award">
     <span class="news-date">October 2023</span>
     <p class="news-text">      <strong>Awarded Best Paper</strong> for <em>AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</em> at the <strong>8th ISIC Workshop @ MICCAI 2023</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="talk">
     <span class="news-date">October 2023</span>
     <p class="news-text">      I had the privilege of serving as a <strong>panelist</strong> at the ISIC Workshop and presented our project <em>Continual-GEN</em> through an oral presentation.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">July 2023</span>
     <p class="news-text">      <em>Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification</em> has been <strong>accepted @ the 8th ISIC Workshop @ MICCAI 2023</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">July 2023</span>
     <p class="news-text">      <em>AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets</em> has been <strong>accepted @ the 8th ISIC Workshop @ MICCAI 2023</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">June 2023</span>
     <p class="news-text"><em>MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets</em> has been <strong>accepted @ MICCAI 2023</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="award">
     <span class="news-date">May 2023</span>
     <p class="news-text">      <strong>Awarded Best Paper</strong> for <em>FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</em> at the <strong>7th ISIC Workshop @ ECCV 2022</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">August 2022</span>
     <p class="news-text">      <em>FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning</em> has been <strong>accepted @ ECCV ISIC Workshop 2022</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="award">
     <span class="news-date">April 2022</span>
     <p class="news-text">      <strong>Honored to receive the prestigious Vanier PhD Scholarship</strong> from NSERC Canada.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">March 2022</span>
     <p class="news-text">      <em>BoosterNet: Improving Domain Generalization of Deep Neural Nets using Culpability-Ranked Features</em> has been <strong>accepted @ CVPR 2022</strong>.
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="award">
     <span class="news-date">June 2021</span>
     <p class="news-text">      <strong>Awarded the 2021 MICCAI Student Travel Award</strong>!
     </p>
   </li>
-  <li class="news-item">
+  <li class="news-item" data-cat="pub">
     <span class="news-date">May 2021</span>
     <p class="news-text">      <em>Culprit-Prune-Net: Efficient Continual Sequential Multi-domain Learning with Application to Skin Lesion Classification</em> has been <strong>accepted @ MICCAI 2021</strong> (<strong>EARLY ACCEPT</strong>!).</p>
   </li>
 </ul>
+
+<p class="news-empty" hidden>No news in this category yet.</p>
+
+<script src="/assets/js/news-filter.js" defer></script>
