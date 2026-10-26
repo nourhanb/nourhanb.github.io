@@ -54,6 +54,10 @@ Recent News
 <div class="news-filters" role="toolbar" aria-label="Filter news by category"></div>
 
 <ul class="news-timeline">
+  <li class="news-item" data-cat="pub talk">
+    <span class="news-date">October 2026</span>
+    <p class="news-text"><em>PILOT: An uncertainty-based agentic AI framework for interactive 3D CT tumor segmentation</em> has been accepted as an <strong>Oral Presentation @ SPIE Medical Imaging</strong>, Vancouver, BC.</p>
+  </li>
   <li class="news-item" data-cat="pub">
     <span class="news-date">October 2026</span>
     <p class="news-text"><em>Prostate-Specific Membrane Antigen PET/CT Segmentation Guided by Vision-Language Models Embedding Clinical Report Semantics</em> has been <strong>accepted @ The Journal of Nuclear Medicine</strong>.</p>
